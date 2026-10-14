@@ -1,0 +1,21 @@
+PhonePe Pulse Data Validation Report
+
+Rows: 3773
+Columns: 6
+Duplicate rows: 0
+
+Missing values:
+state                 0
+year                  0
+quarter               0
+transaction_type      0
+payment_instrument    0
+transaction_count     0
+
+Data types:
+state                   str
+year                  int64
+quarter               int64
+transaction_type        str
+payment_instrument      str
+transaction_count     int64
