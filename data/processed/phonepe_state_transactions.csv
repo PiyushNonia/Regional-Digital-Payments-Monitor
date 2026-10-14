@@ -1,0 +1,3672 @@
+state,year,quarter,transaction_type,payment_instrument,transaction_count
+Andaman & Nicobar Islands,2018,1,P2P,TOTAL,2297
+Andaman & Nicobar Islands,2018,1,Retail,TOTAL,6656
+Andaman & Nicobar Islands,2018,1,Utility,TOTAL,136
+Andhra Pradesh,2018,1,P2P,TOTAL,3470494
+Andhra Pradesh,2018,1,Retail,TOTAL,6888562
+Andhra Pradesh,2018,1,Utility,TOTAL,503773
+Arunachal Pradesh,2018,1,P2P,TOTAL,15540
+Arunachal Pradesh,2018,1,Retail,TOTAL,40846
+Arunachal Pradesh,2018,1,Utility,TOTAL,186
+Assam,2018,1,P2P,TOTAL,367018
+Assam,2018,1,Retail,TOTAL,917663
+Assam,2018,1,Utility,TOTAL,11201
+Bihar,2018,1,P2P,TOTAL,2402724
+Bihar,2018,1,Retail,TOTAL,4816218
+Bihar,2018,1,Utility,TOTAL,48864
+Chandigarh,2018,1,P2P,TOTAL,86598
+Chandigarh,2018,1,Retail,TOTAL,135274
+Chandigarh,2018,1,Utility,TOTAL,2103
+Chhattisgarh,2018,1,P2P,TOTAL,639043
+Chhattisgarh,2018,1,Retail,TOTAL,1589599
+Chhattisgarh,2018,1,Utility,TOTAL,79932
+Dadra & Nagar Haveli & Daman & Diu,2018,1,P2P,TOTAL,48727
+Dadra & Nagar Haveli & Daman & Diu,2018,1,Retail,TOTAL,124310
+Dadra & Nagar Haveli & Daman & Diu,2018,1,Utility,TOTAL,2712
+Delhi,2018,1,P2P,TOTAL,1615875
+Delhi,2018,1,Retail,TOTAL,2985448
+Delhi,2018,1,Utility,TOTAL,260065
+Goa,2018,1,P2P,TOTAL,66717
+Goa,2018,1,Retail,TOTAL,115688
+Goa,2018,1,Utility,TOTAL,978
+Gujarat,2018,1,P2P,TOTAL,1830544
+Gujarat,2018,1,Retail,TOTAL,4636584
+Gujarat,2018,1,Utility,TOTAL,168384
+Haryana,2018,1,P2P,TOTAL,1735441
+Haryana,2018,1,Retail,TOTAL,3258301
+Haryana,2018,1,Utility,TOTAL,50655
+Himachal Pradesh,2018,1,P2P,TOTAL,155307
+Himachal Pradesh,2018,1,Retail,TOTAL,374817
+Himachal Pradesh,2018,1,Utility,TOTAL,2024
+Jammu & Kashmir,2018,1,P2P,TOTAL,265236
+Jammu & Kashmir,2018,1,Retail,TOTAL,389224
+Jammu & Kashmir,2018,1,Utility,TOTAL,1703
+Jharkhand,2018,1,P2P,TOTAL,947125
+Jharkhand,2018,1,Retail,TOTAL,1726726
+Jharkhand,2018,1,Utility,TOTAL,4149
+Karnataka,2018,1,P2P,TOTAL,4019765
+Karnataka,2018,1,Retail,TOTAL,6950094
+Karnataka,2018,1,Utility,TOTAL,289544
+Kerala,2018,1,P2P,TOTAL,598075
+Kerala,2018,1,Retail,TOTAL,1222873
+Kerala,2018,1,Utility,TOTAL,4424
+Ladakh,2018,1,P2P,TOTAL,2100
+Ladakh,2018,1,Retail,TOTAL,5556
+Ladakh,2018,1,Utility,TOTAL,77
+Lakshadweep,2018,1,P2P,TOTAL,576
+Lakshadweep,2018,1,Retail,TOTAL,548
+Madhya Pradesh,2018,1,P2P,TOTAL,2982533
+Madhya Pradesh,2018,1,Retail,TOTAL,5540953
+Madhya Pradesh,2018,1,Utility,TOTAL,90643
+Maharashtra,2018,1,P2P,TOTAL,4904123
+Maharashtra,2018,1,Retail,TOTAL,10256681
+Maharashtra,2018,1,Utility,TOTAL,610493
+Manipur,2018,1,P2P,TOTAL,30398
+Manipur,2018,1,Retail,TOTAL,74310
+Manipur,2018,1,Utility,TOTAL,200
+Meghalaya,2018,1,P2P,TOTAL,14088
+Meghalaya,2018,1,Retail,TOTAL,42995
+Meghalaya,2018,1,Utility,TOTAL,655
+Mizoram,2018,1,P2P,TOTAL,7725
+Mizoram,2018,1,Retail,TOTAL,14367
+Mizoram,2018,1,Utility,TOTAL,89
+Nagaland,2018,1,P2P,TOTAL,12854
+Nagaland,2018,1,Retail,TOTAL,39386
+Nagaland,2018,1,Utility,TOTAL,219
+Odisha,2018,1,P2P,TOTAL,2693875
+Odisha,2018,1,Retail,TOTAL,4336997
+Odisha,2018,1,Utility,TOTAL,18114
+Puducherry,2018,1,P2P,TOTAL,40064
+Puducherry,2018,1,Retail,TOTAL,65486
+Puducherry,2018,1,Utility,TOTAL,662
+Punjab,2018,1,P2P,TOTAL,762537
+Punjab,2018,1,Retail,TOTAL,1378870
+Punjab,2018,1,Utility,TOTAL,11163
+Rajasthan,2018,1,P2P,TOTAL,2918332
+Rajasthan,2018,1,Retail,TOTAL,6171468
+Rajasthan,2018,1,Utility,TOTAL,182637
+Sikkim,2018,1,P2P,TOTAL,15233
+Sikkim,2018,1,Retail,TOTAL,37037
+Sikkim,2018,1,Utility,TOTAL,152
+Tamil Nadu,2018,1,P2P,TOTAL,2011437
+Tamil Nadu,2018,1,Retail,TOTAL,2877514
+Tamil Nadu,2018,1,Utility,TOTAL,34940
+Telangana,2018,1,P2P,TOTAL,3466488
+Telangana,2018,1,Retail,TOTAL,5817357
+Telangana,2018,1,Utility,TOTAL,57129
+Tripura,2018,1,P2P,TOTAL,52393
+Tripura,2018,1,Retail,TOTAL,127863
+Tripura,2018,1,Utility,TOTAL,3813
+Uttar Pradesh,2018,1,P2P,TOTAL,4606138
+Uttar Pradesh,2018,1,Retail,TOTAL,10010877
+Uttar Pradesh,2018,1,Utility,TOTAL,169451
+Uttarakhand,2018,1,P2P,TOTAL,441316
+Uttarakhand,2018,1,Retail,TOTAL,992270
+Uttarakhand,2018,1,Utility,TOTAL,17527
+West Bengal,2018,1,P2P,TOTAL,3872380
+West Bengal,2018,1,Retail,TOTAL,5952060
+West Bengal,2018,1,Utility,TOTAL,327081
+Andaman & Nicobar Islands,2018,2,P2P,TOTAL,4383
+Andaman & Nicobar Islands,2018,2,Retail,TOTAL,10462
+Andaman & Nicobar Islands,2018,2,Utility,TOTAL,217
+Andhra Pradesh,2018,2,P2P,TOTAL,5367902
+Andhra Pradesh,2018,2,Retail,TOTAL,8191674
+Andhra Pradesh,2018,2,Utility,TOTAL,1137792
+Arunachal Pradesh,2018,2,P2P,TOTAL,30899
+Arunachal Pradesh,2018,2,Retail,TOTAL,69003
+Arunachal Pradesh,2018,2,Utility,TOTAL,956
+Assam,2018,2,P2P,TOTAL,602513
+Assam,2018,2,Retail,TOTAL,1336377
+Assam,2018,2,Utility,TOTAL,58011
+Bihar,2018,2,P2P,TOTAL,3988478
+Bihar,2018,2,Retail,TOTAL,6197442
+Bihar,2018,2,Utility,TOTAL,248659
+Chandigarh,2018,2,P2P,TOTAL,139093
+Chandigarh,2018,2,Retail,TOTAL,171635
+Chandigarh,2018,2,Utility,TOTAL,8832
+Chhattisgarh,2018,2,P2P,TOTAL,1072278
+Chhattisgarh,2018,2,Retail,TOTAL,2124217
+Chhattisgarh,2018,2,Utility,TOTAL,183975
+Dadra & Nagar Haveli & Daman & Diu,2018,2,P2P,TOTAL,75693
+Dadra & Nagar Haveli & Daman & Diu,2018,2,Retail,TOTAL,150355
+Dadra & Nagar Haveli & Daman & Diu,2018,2,Utility,TOTAL,7282
+Delhi,2018,2,P2P,TOTAL,2449953
+Delhi,2018,2,Retail,TOTAL,3933398
+Delhi,2018,2,Utility,TOTAL,506635
+Goa,2018,2,P2P,TOTAL,96965
+Goa,2018,2,Retail,TOTAL,155786
+Goa,2018,2,Utility,TOTAL,4759
+Gujarat,2018,2,P2P,TOTAL,2611334
+Gujarat,2018,2,Retail,TOTAL,5503458
+Gujarat,2018,2,Utility,TOTAL,461319
+Haryana,2018,2,P2P,TOTAL,2579978
+Haryana,2018,2,Retail,TOTAL,4054740
+Haryana,2018,2,Utility,TOTAL,232435
+Himachal Pradesh,2018,2,P2P,TOTAL,244789
+Himachal Pradesh,2018,2,Retail,TOTAL,495410
+Himachal Pradesh,2018,2,Utility,TOTAL,12426
+Jammu & Kashmir,2018,2,P2P,TOTAL,495778
+Jammu & Kashmir,2018,2,Retail,TOTAL,571507
+Jammu & Kashmir,2018,2,Utility,TOTAL,19492
+Jharkhand,2018,2,P2P,TOTAL,1593567
+Jharkhand,2018,2,Retail,TOTAL,2116672
+Jharkhand,2018,2,Utility,TOTAL,45765
+Karnataka,2018,2,P2P,TOTAL,6502018
+Karnataka,2018,2,Retail,TOTAL,8777546
+Karnataka,2018,2,Utility,TOTAL,729134
+Kerala,2018,2,P2P,TOTAL,828394
+Kerala,2018,2,Retail,TOTAL,1454296
+Kerala,2018,2,Utility,TOTAL,35445
+Ladakh,2018,2,P2P,TOTAL,6677
+Ladakh,2018,2,Retail,TOTAL,11482
+Ladakh,2018,2,Utility,TOTAL,253
+Lakshadweep,2018,2,P2P,TOTAL,1665
+Lakshadweep,2018,2,Retail,TOTAL,1202
+Lakshadweep,2018,2,Utility,TOTAL,8
+Madhya Pradesh,2018,2,P2P,TOTAL,4456775
+Madhya Pradesh,2018,2,Retail,TOTAL,6493926
+Madhya Pradesh,2018,2,Utility,TOTAL,298573
+Maharashtra,2018,2,P2P,TOTAL,7296740
+Maharashtra,2018,2,Retail,TOTAL,13039678
+Maharashtra,2018,2,Utility,TOTAL,1370966
+Manipur,2018,2,P2P,TOTAL,69535
+Manipur,2018,2,Retail,TOTAL,113472
+Manipur,2018,2,Utility,TOTAL,1923
+Meghalaya,2018,2,P2P,TOTAL,21522
+Meghalaya,2018,2,Retail,TOTAL,56085
+Meghalaya,2018,2,Utility,TOTAL,2068
+Mizoram,2018,2,P2P,TOTAL,12760
+Mizoram,2018,2,Retail,TOTAL,18364
+Mizoram,2018,2,Utility,TOTAL,436
+Nagaland,2018,2,P2P,TOTAL,23666
+Nagaland,2018,2,Retail,TOTAL,58079
+Nagaland,2018,2,Utility,TOTAL,1114
+Odisha,2018,2,P2P,TOTAL,4606791
+Odisha,2018,2,Retail,TOTAL,4832463
+Odisha,2018,2,Utility,TOTAL,108033
+Puducherry,2018,2,P2P,TOTAL,56575
+Puducherry,2018,2,Retail,TOTAL,68910
+Puducherry,2018,2,Utility,TOTAL,2836
+Punjab,2018,2,P2P,TOTAL,1119836
+Punjab,2018,2,Retail,TOTAL,1731538
+Punjab,2018,2,Utility,TOTAL,81397
+Rajasthan,2018,2,P2P,TOTAL,4284208
+Rajasthan,2018,2,Retail,TOTAL,7030908
+Rajasthan,2018,2,Utility,TOTAL,567897
+Sikkim,2018,2,P2P,TOTAL,27106
+Sikkim,2018,2,Retail,TOTAL,59274
+Sikkim,2018,2,Utility,TOTAL,968
+Tamil Nadu,2018,2,P2P,TOTAL,3227447
+Tamil Nadu,2018,2,Retail,TOTAL,3673579
+Tamil Nadu,2018,2,Utility,TOTAL,228225
+Telangana,2018,2,P2P,TOTAL,5011318
+Telangana,2018,2,Retail,TOTAL,6332946
+Telangana,2018,2,Utility,TOTAL,200012
+Tripura,2018,2,P2P,TOTAL,85672
+Tripura,2018,2,Retail,TOTAL,166739
+Tripura,2018,2,Utility,TOTAL,10572
+Uttar Pradesh,2018,2,P2P,TOTAL,7156556
+Uttar Pradesh,2018,2,Retail,TOTAL,12691830
+Uttar Pradesh,2018,2,Utility,TOTAL,489580
+Uttarakhand,2018,2,P2P,TOTAL,683917
+Uttarakhand,2018,2,Retail,TOTAL,1238396
+Uttarakhand,2018,2,Utility,TOTAL,41154
+West Bengal,2018,2,P2P,TOTAL,7871746
+West Bengal,2018,2,Retail,TOTAL,8205192
+West Bengal,2018,2,Utility,TOTAL,706759
+Andaman & Nicobar Islands,2018,3,P2P,TOTAL,7608
+Andaman & Nicobar Islands,2018,3,Retail,TOTAL,13138
+Andaman & Nicobar Islands,2018,3,Utility,TOTAL,408
+Andhra Pradesh,2018,3,P2P,TOTAL,17848404
+Andhra Pradesh,2018,3,Retail,TOTAL,9823208
+Andhra Pradesh,2018,3,Utility,TOTAL,1591118
+Arunachal Pradesh,2018,3,P2P,TOTAL,56490
+Arunachal Pradesh,2018,3,Retail,TOTAL,102215
+Arunachal Pradesh,2018,3,Utility,TOTAL,1622
+Assam,2018,3,P2P,TOTAL,907160
+Assam,2018,3,Retail,TOTAL,1729859
+Assam,2018,3,Utility,TOTAL,89515
+Bihar,2018,3,P2P,TOTAL,9964049
+Bihar,2018,3,Retail,TOTAL,6195903
+Bihar,2018,3,Utility,TOTAL,347261
+Chandigarh,2018,3,P2P,TOTAL,205970
+Chandigarh,2018,3,Retail,TOTAL,197262
+Chandigarh,2018,3,Utility,TOTAL,14687
+Chhattisgarh,2018,3,P2P,TOTAL,1798955
+Chhattisgarh,2018,3,Retail,TOTAL,2435063
+Chhattisgarh,2018,3,Utility,TOTAL,278528
+Dadra & Nagar Haveli & Daman & Diu,2018,3,P2P,TOTAL,125652
+Dadra & Nagar Haveli & Daman & Diu,2018,3,Retail,TOTAL,190778
+Dadra & Nagar Haveli & Daman & Diu,2018,3,Utility,TOTAL,10687
+Delhi,2018,3,P2P,TOTAL,3857294
+Delhi,2018,3,Retail,TOTAL,7857195
+Delhi,2018,3,Utility,TOTAL,860477
+Goa,2018,3,P2P,TOTAL,161853
+Goa,2018,3,Retail,TOTAL,206471
+Goa,2018,3,Utility,TOTAL,8189
+Gujarat,2018,3,P2P,TOTAL,5489933
+Gujarat,2018,3,Retail,TOTAL,6110333
+Gujarat,2018,3,Utility,TOTAL,641837
+Haryana,2018,3,P2P,TOTAL,3891786
+Haryana,2018,3,Retail,TOTAL,4806047
+Haryana,2018,3,Utility,TOTAL,337486
+Himachal Pradesh,2018,3,P2P,TOTAL,359835
+Himachal Pradesh,2018,3,Retail,TOTAL,591381
+Himachal Pradesh,2018,3,Utility,TOTAL,31853
+Jammu & Kashmir,2018,3,P2P,TOTAL,757932
+Jammu & Kashmir,2018,3,Retail,TOTAL,484480
+Jammu & Kashmir,2018,3,Utility,TOTAL,34797
+Jharkhand,2018,3,P2P,TOTAL,6756488
+Jharkhand,2018,3,Retail,TOTAL,2349945
+Jharkhand,2018,3,Utility,TOTAL,93885
+Karnataka,2018,3,P2P,TOTAL,10890904
+Karnataka,2018,3,Retail,TOTAL,11393430
+Karnataka,2018,3,Utility,TOTAL,1117158
+Kerala,2018,3,P2P,TOTAL,1314738
+Kerala,2018,3,Retail,TOTAL,1718134
+Kerala,2018,3,Utility,TOTAL,56851
+Ladakh,2018,3,P2P,TOTAL,11465
+Ladakh,2018,3,Retail,TOTAL,18155
+Ladakh,2018,3,Utility,TOTAL,729
+Lakshadweep,2018,3,P2P,TOTAL,1177
+Lakshadweep,2018,3,Retail,TOTAL,1481
+Lakshadweep,2018,3,Utility,TOTAL,18
+Madhya Pradesh,2018,3,P2P,TOTAL,10456411
+Madhya Pradesh,2018,3,Retail,TOTAL,7152252
+Madhya Pradesh,2018,3,Utility,TOTAL,454035
+Maharashtra,2018,3,P2P,TOTAL,12620224
+Maharashtra,2018,3,Retail,TOTAL,16189479
+Maharashtra,2018,3,Utility,TOTAL,1976450
+Manipur,2018,3,P2P,TOTAL,103214
+Manipur,2018,3,Retail,TOTAL,113751
+Manipur,2018,3,Utility,TOTAL,2817
+Meghalaya,2018,3,P2P,TOTAL,38720
+Meghalaya,2018,3,Retail,TOTAL,81832
+Meghalaya,2018,3,Utility,TOTAL,3332
+Mizoram,2018,3,P2P,TOTAL,20289
+Mizoram,2018,3,Retail,TOTAL,24604
+Mizoram,2018,3,Utility,TOTAL,721
+Nagaland,2018,3,P2P,TOTAL,38744
+Nagaland,2018,3,Retail,TOTAL,77504
+Nagaland,2018,3,Utility,TOTAL,1708
+Odisha,2018,3,P2P,TOTAL,27474197
+Odisha,2018,3,Retail,TOTAL,6109834
+Odisha,2018,3,Utility,TOTAL,189115
+Puducherry,2018,3,P2P,TOTAL,97296
+Puducherry,2018,3,Retail,TOTAL,84545
+Puducherry,2018,3,Utility,TOTAL,5028
+Punjab,2018,3,P2P,TOTAL,1801894
+Punjab,2018,3,Retail,TOTAL,1933346
+Punjab,2018,3,Utility,TOTAL,139167
+Rajasthan,2018,3,P2P,TOTAL,7866935
+Rajasthan,2018,3,Retail,TOTAL,7654080
+Rajasthan,2018,3,Utility,TOTAL,943933
+Sikkim,2018,3,P2P,TOTAL,46387
+Sikkim,2018,3,Retail,TOTAL,75943
+Sikkim,2018,3,Utility,TOTAL,1704
+Tamil Nadu,2018,3,P2P,TOTAL,5632565
+Tamil Nadu,2018,3,Retail,TOTAL,4759711
+Tamil Nadu,2018,3,Utility,TOTAL,419825
+Telangana,2018,3,P2P,TOTAL,11838453
+Telangana,2018,3,Retail,TOTAL,7792425
+Telangana,2018,3,Utility,TOTAL,324907
+Tripura,2018,3,P2P,TOTAL,209683
+Tripura,2018,3,Retail,TOTAL,221767
+Tripura,2018,3,Utility,TOTAL,15295
+Uttar Pradesh,2018,3,P2P,TOTAL,14943458
+Uttar Pradesh,2018,3,Retail,TOTAL,13655861
+Uttar Pradesh,2018,3,Utility,TOTAL,728215
+Uttarakhand,2018,3,P2P,TOTAL,1129789
+Uttarakhand,2018,3,Retail,TOTAL,1333958
+Uttarakhand,2018,3,Utility,TOTAL,59779
+West Bengal,2018,3,P2P,TOTAL,43410545
+West Bengal,2018,3,Retail,TOTAL,9636974
+West Bengal,2018,3,Utility,TOTAL,983932
+Andaman & Nicobar Islands,2018,4,P2P,TOTAL,12260
+Andaman & Nicobar Islands,2018,4,Retail,TOTAL,18359
+Andaman & Nicobar Islands,2018,4,Utility,TOTAL,520
+Andhra Pradesh,2018,4,P2P,TOTAL,19562957
+Andhra Pradesh,2018,4,Retail,TOTAL,14242724
+Andhra Pradesh,2018,4,Utility,TOTAL,1916648
+Arunachal Pradesh,2018,4,P2P,TOTAL,78292
+Arunachal Pradesh,2018,4,Retail,TOTAL,141727
+Arunachal Pradesh,2018,4,Utility,TOTAL,2197
+Assam,2018,4,P2P,TOTAL,1425542
+Assam,2018,4,Retail,TOTAL,2764241
+Assam,2018,4,Utility,TOTAL,106444
+Bihar,2018,4,P2P,TOTAL,9133500
+Bihar,2018,4,Retail,TOTAL,8778363
+Bihar,2018,4,Utility,TOTAL,412736
+Chandigarh,2018,4,P2P,TOTAL,304514
+Chandigarh,2018,4,Retail,TOTAL,279421
+Chandigarh,2018,4,Utility,TOTAL,19324
+Chhattisgarh,2018,4,P2P,TOTAL,2623941
+Chhattisgarh,2018,4,Retail,TOTAL,3372461
+Chhattisgarh,2018,4,Utility,TOTAL,356824
+Dadra & Nagar Haveli & Daman & Diu,2018,4,P2P,TOTAL,207646
+Dadra & Nagar Haveli & Daman & Diu,2018,4,Retail,TOTAL,240461
+Dadra & Nagar Haveli & Daman & Diu,2018,4,Utility,TOTAL,12612
+Delhi,2018,4,P2P,TOTAL,6896926
+Delhi,2018,4,Retail,TOTAL,16093319
+Delhi,2018,4,Utility,TOTAL,1860729
+Goa,2018,4,P2P,TOTAL,268194
+Goa,2018,4,Retail,TOTAL,301078
+Goa,2018,4,Utility,TOTAL,10375
+Gujarat,2018,4,P2P,TOTAL,6833499
+Gujarat,2018,4,Retail,TOTAL,8704983
+Gujarat,2018,4,Utility,TOTAL,769597
+Haryana,2018,4,P2P,TOTAL,6368684
+Haryana,2018,4,Retail,TOTAL,7602117
+Haryana,2018,4,Utility,TOTAL,555261
+Himachal Pradesh,2018,4,P2P,TOTAL,614646
+Himachal Pradesh,2018,4,Retail,TOTAL,826781
+Himachal Pradesh,2018,4,Utility,TOTAL,45038
+Jammu & Kashmir,2018,4,P2P,TOTAL,548498
+Jammu & Kashmir,2018,4,Retail,TOTAL,673367
+Jammu & Kashmir,2018,4,Utility,TOTAL,46651
+Jharkhand,2018,4,P2P,TOTAL,3755791
+Jharkhand,2018,4,Retail,TOTAL,3314423
+Jharkhand,2018,4,Utility,TOTAL,125151
+Karnataka,2018,4,P2P,TOTAL,18845529
+Karnataka,2018,4,Retail,TOTAL,22411453
+Karnataka,2018,4,Utility,TOTAL,1551206
+Kerala,2018,4,P2P,TOTAL,2056759
+Kerala,2018,4,Retail,TOTAL,2322398
+Kerala,2018,4,Utility,TOTAL,65447
+Ladakh,2018,4,P2P,TOTAL,18127
+Ladakh,2018,4,Retail,TOTAL,25020
+Ladakh,2018,4,Utility,TOTAL,1351
+Lakshadweep,2018,4,P2P,TOTAL,1178
+Lakshadweep,2018,4,Retail,TOTAL,1800
+Lakshadweep,2018,4,Utility,TOTAL,41
+Madhya Pradesh,2018,4,P2P,TOTAL,11980653
+Madhya Pradesh,2018,4,Retail,TOTAL,10163524
+Madhya Pradesh,2018,4,Utility,TOTAL,663430
+Maharashtra,2018,4,P2P,TOTAL,20039783
+Maharashtra,2018,4,Retail,TOTAL,23240057
+Maharashtra,2018,4,Utility,TOTAL,2435307
+Manipur,2018,4,P2P,TOTAL,116349
+Manipur,2018,4,Retail,TOTAL,164993
+Manipur,2018,4,Utility,TOTAL,3952
+Meghalaya,2018,4,P2P,TOTAL,59703
+Meghalaya,2018,4,Retail,TOTAL,118819
+Meghalaya,2018,4,Utility,TOTAL,3834
+Mizoram,2018,4,P2P,TOTAL,28968
+Mizoram,2018,4,Retail,TOTAL,36184
+Mizoram,2018,4,Utility,TOTAL,1082
+Nagaland,2018,4,P2P,TOTAL,61529
+Nagaland,2018,4,Retail,TOTAL,109267
+Nagaland,2018,4,Utility,TOTAL,2530
+Odisha,2018,4,P2P,TOTAL,13840684
+Odisha,2018,4,Retail,TOTAL,9660259
+Odisha,2018,4,Utility,TOTAL,229303
+Puducherry,2018,4,P2P,TOTAL,175338
+Puducherry,2018,4,Retail,TOTAL,135865
+Puducherry,2018,4,Utility,TOTAL,6133
+Punjab,2018,4,P2P,TOTAL,2460715
+Punjab,2018,4,Retail,TOTAL,2824577
+Punjab,2018,4,Utility,TOTAL,205266
+Rajasthan,2018,4,P2P,TOTAL,11980655
+Rajasthan,2018,4,Retail,TOTAL,11168140
+Rajasthan,2018,4,Utility,TOTAL,1214114
+Sikkim,2018,4,P2P,TOTAL,71395
+Sikkim,2018,4,Retail,TOTAL,108280
+Sikkim,2018,4,Utility,TOTAL,2170
+Tamil Nadu,2018,4,P2P,TOTAL,8650679
+Tamil Nadu,2018,4,Retail,TOTAL,7901767
+Tamil Nadu,2018,4,Utility,TOTAL,570827
+Telangana,2018,4,P2P,TOTAL,16046190
+Telangana,2018,4,Retail,TOTAL,13909469
+Telangana,2018,4,Utility,TOTAL,437924
+Tripura,2018,4,P2P,TOTAL,203650
+Tripura,2018,4,Retail,TOTAL,319338
+Tripura,2018,4,Utility,TOTAL,15376
+Uttar Pradesh,2018,4,P2P,TOTAL,17252893
+Uttar Pradesh,2018,4,Retail,TOTAL,22044677
+Uttar Pradesh,2018,4,Utility,TOTAL,1015326
+Uttarakhand,2018,4,P2P,TOTAL,1703009
+Uttarakhand,2018,4,Retail,TOTAL,1847664
+Uttarakhand,2018,4,Utility,TOTAL,75025
+West Bengal,2018,4,P2P,TOTAL,16024961
+West Bengal,2018,4,Retail,TOTAL,16379853
+West Bengal,2018,4,Utility,TOTAL,1150258
+Andaman & Nicobar Islands,2019,1,P2P,TOTAL,15423
+Andaman & Nicobar Islands,2019,1,Retail,TOTAL,24638
+Andaman & Nicobar Islands,2019,1,Utility,TOTAL,665
+Andhra Pradesh,2019,1,P2P,TOTAL,43527491
+Andhra Pradesh,2019,1,Retail,TOTAL,21565529
+Andhra Pradesh,2019,1,Utility,TOTAL,2888424
+Arunachal Pradesh,2019,1,P2P,TOTAL,114051
+Arunachal Pradesh,2019,1,Retail,TOTAL,175799
+Arunachal Pradesh,2019,1,Utility,TOTAL,3373
+Assam,2019,1,P2P,TOTAL,2043007
+Assam,2019,1,Retail,TOTAL,2757939
+Assam,2019,1,Utility,TOTAL,146609
+Bihar,2019,1,P2P,TOTAL,17822554
+Bihar,2019,1,Retail,TOTAL,10134940
+Bihar,2019,1,Utility,TOTAL,620729
+Chandigarh,2019,1,P2P,TOTAL,485410
+Chandigarh,2019,1,Retail,TOTAL,360000
+Chandigarh,2019,1,Utility,TOTAL,31410
+Chhattisgarh,2019,1,P2P,TOTAL,4296607
+Chhattisgarh,2019,1,Retail,TOTAL,4062272
+Chhattisgarh,2019,1,Utility,TOTAL,447231
+Dadra & Nagar Haveli & Daman & Diu,2019,1,P2P,TOTAL,463399
+Dadra & Nagar Haveli & Daman & Diu,2019,1,Retail,TOTAL,285372
+Dadra & Nagar Haveli & Daman & Diu,2019,1,Utility,TOTAL,16689
+Delhi,2019,1,P2P,TOTAL,13271887
+Delhi,2019,1,Retail,TOTAL,20659076
+Delhi,2019,1,Utility,TOTAL,2963382
+Goa,2019,1,P2P,TOTAL,442149
+Goa,2019,1,Retail,TOTAL,405891
+Goa,2019,1,Utility,TOTAL,21039
+Gujarat,2019,1,P2P,TOTAL,13774066
+Gujarat,2019,1,Retail,TOTAL,11548425
+Gujarat,2019,1,Utility,TOTAL,1132735
+Haryana,2019,1,P2P,TOTAL,14454322
+Haryana,2019,1,Retail,TOTAL,10298565
+Haryana,2019,1,Utility,TOTAL,883953
+Himachal Pradesh,2019,1,P2P,TOTAL,1174821
+Himachal Pradesh,2019,1,Retail,TOTAL,1063259
+Himachal Pradesh,2019,1,Utility,TOTAL,77081
+Jammu & Kashmir,2019,1,P2P,TOTAL,969595
+Jammu & Kashmir,2019,1,Retail,TOTAL,772422
+Jammu & Kashmir,2019,1,Utility,TOTAL,86148
+Jharkhand,2019,1,P2P,TOTAL,6717237
+Jharkhand,2019,1,Retail,TOTAL,3804061
+Jharkhand,2019,1,Utility,TOTAL,202422
+Karnataka,2019,1,P2P,TOTAL,42558665
+Karnataka,2019,1,Retail,TOTAL,39499009
+Karnataka,2019,1,Utility,TOTAL,2599376
+Kerala,2019,1,P2P,TOTAL,3583016
+Kerala,2019,1,Retail,TOTAL,2906623
+Kerala,2019,1,Utility,TOTAL,123154
+Ladakh,2019,1,P2P,TOTAL,26902
+Ladakh,2019,1,Retail,TOTAL,31236
+Ladakh,2019,1,Utility,TOTAL,2132
+Lakshadweep,2019,1,P2P,TOTAL,2117
+Lakshadweep,2019,1,Retail,TOTAL,2458
+Lakshadweep,2019,1,Utility,TOTAL,47
+Madhya Pradesh,2019,1,P2P,TOTAL,24432077
+Madhya Pradesh,2019,1,Retail,TOTAL,13270690
+Madhya Pradesh,2019,1,Utility,TOTAL,1226099
+Maharashtra,2019,1,P2P,TOTAL,35939138
+Maharashtra,2019,1,Retail,TOTAL,33977457
+Maharashtra,2019,1,Utility,TOTAL,3958137
+Manipur,2019,1,P2P,TOTAL,147093
+Manipur,2019,1,Retail,TOTAL,170783
+Manipur,2019,1,Utility,TOTAL,5044
+Meghalaya,2019,1,P2P,TOTAL,92541
+Meghalaya,2019,1,Retail,TOTAL,135938
+Meghalaya,2019,1,Utility,TOTAL,5319
+Mizoram,2019,1,P2P,TOTAL,40318
+Mizoram,2019,1,Retail,TOTAL,43515
+Mizoram,2019,1,Utility,TOTAL,1386
+Nagaland,2019,1,P2P,TOTAL,85647
+Nagaland,2019,1,Retail,TOTAL,124651
+Nagaland,2019,1,Utility,TOTAL,3755
+Odisha,2019,1,P2P,TOTAL,25934247
+Odisha,2019,1,Retail,TOTAL,10887807
+Odisha,2019,1,Utility,TOTAL,371706
+Puducherry,2019,1,P2P,TOTAL,308499
+Puducherry,2019,1,Retail,TOTAL,180367
+Puducherry,2019,1,Utility,TOTAL,8863
+Punjab,2019,1,P2P,TOTAL,4274369
+Punjab,2019,1,Retail,TOTAL,3247097
+Punjab,2019,1,Utility,TOTAL,308408
+Rajasthan,2019,1,P2P,TOTAL,29406151
+Rajasthan,2019,1,Retail,TOTAL,16759749
+Rajasthan,2019,1,Utility,TOTAL,1977666
+Sikkim,2019,1,P2P,TOTAL,107340
+Sikkim,2019,1,Retail,TOTAL,122550
+Sikkim,2019,1,Utility,TOTAL,3141
+Tamil Nadu,2019,1,P2P,TOTAL,14460181
+Tamil Nadu,2019,1,Retail,TOTAL,9953421
+Tamil Nadu,2019,1,Utility,TOTAL,764913
+Telangana,2019,1,P2P,TOTAL,39258819
+Telangana,2019,1,Retail,TOTAL,24788513
+Telangana,2019,1,Utility,TOTAL,766073
+Tripura,2019,1,P2P,TOTAL,360490
+Tripura,2019,1,Retail,TOTAL,343127
+Tripura,2019,1,Utility,TOTAL,19000
+Uttar Pradesh,2019,1,P2P,TOTAL,35228045
+Uttar Pradesh,2019,1,Retail,TOTAL,27231898
+Uttar Pradesh,2019,1,Utility,TOTAL,1586430
+Uttarakhand,2019,1,P2P,TOTAL,4072170
+Uttarakhand,2019,1,Retail,TOTAL,2334030
+Uttarakhand,2019,1,Utility,TOTAL,113508
+West Bengal,2019,1,P2P,TOTAL,24963489
+West Bengal,2019,1,Retail,TOTAL,16502874
+West Bengal,2019,1,Utility,TOTAL,1634979
+Andaman & Nicobar Islands,2019,2,P2P,TOTAL,18528
+Andaman & Nicobar Islands,2019,2,Retail,TOTAL,27418
+Andaman & Nicobar Islands,2019,2,Utility,TOTAL,818
+Andhra Pradesh,2019,2,P2P,TOTAL,41431019
+Andhra Pradesh,2019,2,Retail,TOTAL,29006645
+Andhra Pradesh,2019,2,Utility,TOTAL,2803995
+Arunachal Pradesh,2019,2,P2P,TOTAL,148005
+Arunachal Pradesh,2019,2,Retail,TOTAL,235969
+Arunachal Pradesh,2019,2,Utility,TOTAL,3321
+Assam,2019,2,P2P,TOTAL,2242546
+Assam,2019,2,Retail,TOTAL,3193461
+Assam,2019,2,Utility,TOTAL,149400
+Bihar,2019,2,P2P,TOTAL,15127981
+Bihar,2019,2,Retail,TOTAL,13444865
+Bihar,2019,2,Utility,TOTAL,639972
+Chandigarh,2019,2,P2P,TOTAL,506704
+Chandigarh,2019,2,Retail,TOTAL,534131
+Chandigarh,2019,2,Utility,TOTAL,40446
+Chhattisgarh,2019,2,P2P,TOTAL,4418365
+Chhattisgarh,2019,2,Retail,TOTAL,5256226
+Chhattisgarh,2019,2,Utility,TOTAL,467315
+Dadra & Nagar Haveli & Daman & Diu,2019,2,P2P,TOTAL,320409
+Dadra & Nagar Haveli & Daman & Diu,2019,2,Retail,TOTAL,324440
+Dadra & Nagar Haveli & Daman & Diu,2019,2,Utility,TOTAL,15630
+Delhi,2019,2,P2P,TOTAL,14006642
+Delhi,2019,2,Retail,TOTAL,25329627
+Delhi,2019,2,Utility,TOTAL,3677505
+Goa,2019,2,P2P,TOTAL,510080
+Goa,2019,2,Retail,TOTAL,527008
+Goa,2019,2,Utility,TOTAL,29378
+Gujarat,2019,2,P2P,TOTAL,11595434
+Gujarat,2019,2,Retail,TOTAL,15025058
+Gujarat,2019,2,Utility,TOTAL,1171086
+Haryana,2019,2,P2P,TOTAL,12805219
+Haryana,2019,2,Retail,TOTAL,14367720
+Haryana,2019,2,Utility,TOTAL,1125662
+Himachal Pradesh,2019,2,P2P,TOTAL,1109932
+Himachal Pradesh,2019,2,Retail,TOTAL,1399651
+Himachal Pradesh,2019,2,Utility,TOTAL,85275
+Jammu & Kashmir,2019,2,P2P,TOTAL,1056876
+Jammu & Kashmir,2019,2,Retail,TOTAL,989235
+Jammu & Kashmir,2019,2,Utility,TOTAL,73051
+Jharkhand,2019,2,P2P,TOTAL,5913940
+Jharkhand,2019,2,Retail,TOTAL,5681873
+Jharkhand,2019,2,Utility,TOTAL,217193
+Karnataka,2019,2,P2P,TOTAL,51792667
+Karnataka,2019,2,Retail,TOTAL,64951290
+Karnataka,2019,2,Utility,TOTAL,2874388
+Kerala,2019,2,P2P,TOTAL,3576434
+Kerala,2019,2,Retail,TOTAL,3887749
+Kerala,2019,2,Utility,TOTAL,198355
+Ladakh,2019,2,P2P,TOTAL,48630
+Ladakh,2019,2,Retail,TOTAL,52308
+Ladakh,2019,2,Utility,TOTAL,2456
+Lakshadweep,2019,2,P2P,TOTAL,2342
+Lakshadweep,2019,2,Retail,TOTAL,3217
+Lakshadweep,2019,2,Utility,TOTAL,49
+Madhya Pradesh,2019,2,P2P,TOTAL,20842891
+Madhya Pradesh,2019,2,Retail,TOTAL,19025755
+Madhya Pradesh,2019,2,Utility,TOTAL,1375818
+Maharashtra,2019,2,P2P,TOTAL,40939711
+Maharashtra,2019,2,Retail,TOTAL,54030628
+Maharashtra,2019,2,Utility,TOTAL,4360998
+Manipur,2019,2,P2P,TOTAL,161943
+Manipur,2019,2,Retail,TOTAL,200970
+Manipur,2019,2,Utility,TOTAL,4458
+Meghalaya,2019,2,P2P,TOTAL,107691
+Meghalaya,2019,2,Retail,TOTAL,167684
+Meghalaya,2019,2,Utility,TOTAL,4909
+Mizoram,2019,2,P2P,TOTAL,46960
+Mizoram,2019,2,Retail,TOTAL,52540
+Mizoram,2019,2,Utility,TOTAL,1458
+Nagaland,2019,2,P2P,TOTAL,108986
+Nagaland,2019,2,Retail,TOTAL,156958
+Nagaland,2019,2,Utility,TOTAL,3776
+Odisha,2019,2,P2P,TOTAL,16396541
+Odisha,2019,2,Retail,TOTAL,13345566
+Odisha,2019,2,Utility,TOTAL,346179
+Puducherry,2019,2,P2P,TOTAL,322762
+Puducherry,2019,2,Retail,TOTAL,246183
+Puducherry,2019,2,Utility,TOTAL,10136
+Punjab,2019,2,P2P,TOTAL,4208807
+Punjab,2019,2,Retail,TOTAL,4325884
+Punjab,2019,2,Utility,TOTAL,372650
+Rajasthan,2019,2,P2P,TOTAL,24738172
+Rajasthan,2019,2,Retail,TOTAL,23387217
+Rajasthan,2019,2,Utility,TOTAL,1961199
+Sikkim,2019,2,P2P,TOTAL,130037
+Sikkim,2019,2,Retail,TOTAL,165212
+Sikkim,2019,2,Utility,TOTAL,3183
+Tamil Nadu,2019,2,P2P,TOTAL,15910165
+Tamil Nadu,2019,2,Retail,TOTAL,14143783
+Tamil Nadu,2019,2,Utility,TOTAL,850224
+Telangana,2019,2,P2P,TOTAL,41264830
+Telangana,2019,2,Retail,TOTAL,39189406
+Telangana,2019,2,Utility,TOTAL,1000749
+Tripura,2019,2,P2P,TOTAL,338442
+Tripura,2019,2,Retail,TOTAL,428388
+Tripura,2019,2,Utility,TOTAL,20351
+Uttar Pradesh,2019,2,P2P,TOTAL,30351047
+Uttar Pradesh,2019,2,Retail,TOTAL,35244958
+Uttar Pradesh,2019,2,Utility,TOTAL,1984103
+Uttarakhand,2019,2,P2P,TOTAL,3080481
+Uttarakhand,2019,2,Retail,TOTAL,3147703
+Uttarakhand,2019,2,Utility,TOTAL,116912
+West Bengal,2019,2,P2P,TOTAL,19337897
+West Bengal,2019,2,Retail,TOTAL,23489670
+West Bengal,2019,2,Utility,TOTAL,1753333
+Andaman & Nicobar Islands,2019,3,P2P,TOTAL,17346
+Andaman & Nicobar Islands,2019,3,Retail,TOTAL,21707
+Andaman & Nicobar Islands,2019,3,Utility,TOTAL,1570
+Andhra Pradesh,2019,3,P2P,TOTAL,49997866
+Andhra Pradesh,2019,3,Retail,TOTAL,38574125
+Andhra Pradesh,2019,3,Utility,TOTAL,4461164
+Arunachal Pradesh,2019,3,P2P,TOTAL,187127
+Arunachal Pradesh,2019,3,Retail,TOTAL,246085
+Arunachal Pradesh,2019,3,Utility,TOTAL,22910
+Assam,2019,3,P2P,TOTAL,2646141
+Assam,2019,3,Retail,TOTAL,3051698
+Assam,2019,3,Utility,TOTAL,356634
+Bihar,2019,3,P2P,TOTAL,14075183
+Bihar,2019,3,Retail,TOTAL,14352593
+Bihar,2019,3,Utility,TOTAL,1264920
+Chandigarh,2019,3,P2P,TOTAL,607651
+Chandigarh,2019,3,Retail,TOTAL,746995
+Chandigarh,2019,3,Utility,TOTAL,73559
+Chhattisgarh,2019,3,P2P,TOTAL,5228457
+Chhattisgarh,2019,3,Retail,TOTAL,6394057
+Chhattisgarh,2019,3,Utility,TOTAL,837626
+Dadra & Nagar Haveli & Daman & Diu,2019,3,P2P,TOTAL,340048
+Dadra & Nagar Haveli & Daman & Diu,2019,3,Retail,TOTAL,371757
+Dadra & Nagar Haveli & Daman & Diu,2019,3,Utility,TOTAL,42282
+Delhi,2019,3,P2P,TOTAL,17777669
+Delhi,2019,3,Retail,TOTAL,32091616
+Delhi,2019,3,Utility,TOTAL,5872908
+Goa,2019,3,P2P,TOTAL,649002
+Goa,2019,3,Retail,TOTAL,625843
+Goa,2019,3,Utility,TOTAL,77114
+Gujarat,2019,3,P2P,TOTAL,13435353
+Gujarat,2019,3,Retail,TOTAL,21282425
+Gujarat,2019,3,Utility,TOTAL,2150621
+Haryana,2019,3,P2P,TOTAL,14597118
+Haryana,2019,3,Retail,TOTAL,19464332
+Haryana,2019,3,Utility,TOTAL,2072737
+Himachal Pradesh,2019,3,P2P,TOTAL,1136295
+Himachal Pradesh,2019,3,Retail,TOTAL,1483897
+Himachal Pradesh,2019,3,Utility,TOTAL,180023
+Jammu & Kashmir,2019,3,P2P,TOTAL,476173
+Jammu & Kashmir,2019,3,Retail,TOTAL,432043
+Jammu & Kashmir,2019,3,Utility,TOTAL,39568
+Jharkhand,2019,3,P2P,TOTAL,6510320
+Jharkhand,2019,3,Retail,TOTAL,8952523
+Jharkhand,2019,3,Utility,TOTAL,481640
+Karnataka,2019,3,P2P,TOTAL,70653459
+Karnataka,2019,3,Retail,TOTAL,103434009
+Karnataka,2019,3,Utility,TOTAL,5680029
+Kerala,2019,3,P2P,TOTAL,4285730
+Kerala,2019,3,Retail,TOTAL,4827707
+Kerala,2019,3,Utility,TOTAL,520130
+Ladakh,2019,3,P2P,TOTAL,62163
+Ladakh,2019,3,Retail,TOTAL,51154
+Ladakh,2019,3,Utility,TOTAL,7701
+Lakshadweep,2019,3,P2P,TOTAL,2600
+Lakshadweep,2019,3,Retail,TOTAL,2520
+Lakshadweep,2019,3,Utility,TOTAL,190
+Madhya Pradesh,2019,3,P2P,TOTAL,23192694
+Madhya Pradesh,2019,3,Retail,TOTAL,29189777
+Madhya Pradesh,2019,3,Utility,TOTAL,2513880
+Maharashtra,2019,3,P2P,TOTAL,56361577
+Maharashtra,2019,3,Retail,TOTAL,84053886
+Maharashtra,2019,3,Utility,TOTAL,8344485
+Manipur,2019,3,P2P,TOTAL,191342
+Manipur,2019,3,Retail,TOTAL,204807
+Manipur,2019,3,Utility,TOTAL,15944
+Meghalaya,2019,3,P2P,TOTAL,132605
+Meghalaya,2019,3,Retail,TOTAL,175853
+Meghalaya,2019,3,Utility,TOTAL,17725
+Mizoram,2019,3,P2P,TOTAL,52804
+Mizoram,2019,3,Retail,TOTAL,55585
+Mizoram,2019,3,Utility,TOTAL,5758
+Nagaland,2019,3,P2P,TOTAL,134567
+Nagaland,2019,3,Retail,TOTAL,167265
+Nagaland,2019,3,Utility,TOTAL,16442
+Odisha,2019,3,P2P,TOTAL,18424210
+Odisha,2019,3,Retail,TOTAL,21330371
+Odisha,2019,3,Utility,TOTAL,1046265
+Puducherry,2019,3,P2P,TOTAL,404050
+Puducherry,2019,3,Retail,TOTAL,338785
+Puducherry,2019,3,Utility,TOTAL,22196
+Punjab,2019,3,P2P,TOTAL,4737624
+Punjab,2019,3,Retail,TOTAL,5622095
+Punjab,2019,3,Utility,TOTAL,674942
+Rajasthan,2019,3,P2P,TOTAL,28826157
+Rajasthan,2019,3,Retail,TOTAL,33642559
+Rajasthan,2019,3,Utility,TOTAL,3460585
+Sikkim,2019,3,P2P,TOTAL,148858
+Sikkim,2019,3,Retail,TOTAL,168555
+Sikkim,2019,3,Utility,TOTAL,16288
+Tamil Nadu,2019,3,P2P,TOTAL,20175934
+Tamil Nadu,2019,3,Retail,TOTAL,18733358
+Tamil Nadu,2019,3,Utility,TOTAL,1705873
+Telangana,2019,3,P2P,TOTAL,52781429
+Telangana,2019,3,Retail,TOTAL,58293457
+Telangana,2019,3,Utility,TOTAL,3037163
+Tripura,2019,3,P2P,TOTAL,382672
+Tripura,2019,3,Retail,TOTAL,452124
+Tripura,2019,3,Utility,TOTAL,45479
+Uttar Pradesh,2019,3,P2P,TOTAL,30451139
+Uttar Pradesh,2019,3,Retail,TOTAL,42320219
+Uttar Pradesh,2019,3,Utility,TOTAL,3901349
+Uttarakhand,2019,3,P2P,TOTAL,2917737
+Uttarakhand,2019,3,Retail,TOTAL,3479573
+Uttarakhand,2019,3,Utility,TOTAL,293706
+West Bengal,2019,3,P2P,TOTAL,20140625
+West Bengal,2019,3,Retail,TOTAL,37079581
+West Bengal,2019,3,Utility,TOTAL,2823745
+Andaman & Nicobar Islands,2019,4,P2P,TOTAL,19490
+Andaman & Nicobar Islands,2019,4,Retail,TOTAL,18325
+Andaman & Nicobar Islands,2019,4,Utility,TOTAL,3850
+Andhra Pradesh,2019,4,P2P,TOTAL,73565940
+Andhra Pradesh,2019,4,Retail,TOTAL,48905204
+Andhra Pradesh,2019,4,Utility,TOTAL,8291836
+Arunachal Pradesh,2019,4,P2P,TOTAL,248720
+Arunachal Pradesh,2019,4,Retail,TOTAL,245850
+Arunachal Pradesh,2019,4,Utility,TOTAL,76238
+Assam,2019,4,P2P,TOTAL,3109608
+Assam,2019,4,Retail,TOTAL,2890501
+Assam,2019,4,Utility,TOTAL,891749
+Bihar,2019,4,P2P,TOTAL,23834576
+Bihar,2019,4,Retail,TOTAL,13833728
+Bihar,2019,4,Utility,TOTAL,3299582
+Chandigarh,2019,4,P2P,TOTAL,722134
+Chandigarh,2019,4,Retail,TOTAL,812438
+Chandigarh,2019,4,Utility,TOTAL,128746
+Chhattisgarh,2019,4,P2P,TOTAL,7300968
+Chhattisgarh,2019,4,Retail,TOTAL,7244686
+Chhattisgarh,2019,4,Utility,TOTAL,1811639
+Dadra & Nagar Haveli & Daman & Diu,2019,4,P2P,TOTAL,439004
+Dadra & Nagar Haveli & Daman & Diu,2019,4,Retail,TOTAL,375567
+Dadra & Nagar Haveli & Daman & Diu,2019,4,Utility,TOTAL,102306
+Delhi,2019,4,P2P,TOTAL,22990805
+Delhi,2019,4,Retail,TOTAL,31670633
+Delhi,2019,4,Utility,TOTAL,7887397
+Goa,2019,4,P2P,TOTAL,959581
+Goa,2019,4,Retail,TOTAL,742233
+Goa,2019,4,Utility,TOTAL,199647
+Gujarat,2019,4,P2P,TOTAL,17984643
+Gujarat,2019,4,Retail,TOTAL,18884739
+Gujarat,2019,4,Utility,TOTAL,4541135
+Haryana,2019,4,P2P,TOTAL,19453976
+Haryana,2019,4,Retail,TOTAL,21364196
+Haryana,2019,4,Utility,TOTAL,3922821
+Himachal Pradesh,2019,4,P2P,TOTAL,1525082
+Himachal Pradesh,2019,4,Retail,TOTAL,1623659
+Himachal Pradesh,2019,4,Utility,TOTAL,444274
+Jammu & Kashmir,2019,4,P2P,TOTAL,152003
+Jammu & Kashmir,2019,4,Retail,TOTAL,75857
+Jammu & Kashmir,2019,4,Utility,TOTAL,44221
+Jharkhand,2019,4,P2P,TOTAL,11836414
+Jharkhand,2019,4,Retail,TOTAL,7431278
+Jharkhand,2019,4,Utility,TOTAL,1278276
+Karnataka,2019,4,P2P,TOTAL,97978867
+Karnataka,2019,4,Retail,TOTAL,136538824
+Karnataka,2019,4,Utility,TOTAL,11671731
+Kerala,2019,4,P2P,TOTAL,6073579
+Kerala,2019,4,Retail,TOTAL,5655198
+Kerala,2019,4,Utility,TOTAL,1245359
+Ladakh,2019,4,P2P,TOTAL,61312
+Ladakh,2019,4,Retail,TOTAL,35256
+Ladakh,2019,4,Utility,TOTAL,16642
+Lakshadweep,2019,4,P2P,TOTAL,3137
+Lakshadweep,2019,4,Retail,TOTAL,2626
+Lakshadweep,2019,4,Utility,TOTAL,334
+Madhya Pradesh,2019,4,P2P,TOTAL,33794899
+Madhya Pradesh,2019,4,Retail,TOTAL,31573884
+Madhya Pradesh,2019,4,Utility,TOTAL,5634285
+Maharashtra,2019,4,P2P,TOTAL,75832872
+Maharashtra,2019,4,Retail,TOTAL,103887387
+Maharashtra,2019,4,Utility,TOTAL,16758012
+Manipur,2019,4,P2P,TOTAL,250375
+Manipur,2019,4,Retail,TOTAL,209319
+Manipur,2019,4,Utility,TOTAL,52049
+Meghalaya,2019,4,P2P,TOTAL,159506
+Meghalaya,2019,4,Retail,TOTAL,163554
+Meghalaya,2019,4,Utility,TOTAL,50155
+Mizoram,2019,4,P2P,TOTAL,69162
+Mizoram,2019,4,Retail,TOTAL,57139
+Mizoram,2019,4,Utility,TOTAL,18015
+Nagaland,2019,4,P2P,TOTAL,171822
+Nagaland,2019,4,Retail,TOTAL,163700
+Nagaland,2019,4,Utility,TOTAL,51480
+Odisha,2019,4,P2P,TOTAL,43533987
+Odisha,2019,4,Retail,TOTAL,19167186
+Odisha,2019,4,Utility,TOTAL,2978391
+Puducherry,2019,4,P2P,TOTAL,586080
+Puducherry,2019,4,Retail,TOTAL,451087
+Puducherry,2019,4,Utility,TOTAL,55159
+Punjab,2019,4,P2P,TOTAL,6321702
+Punjab,2019,4,Retail,TOTAL,6254384
+Punjab,2019,4,Utility,TOTAL,1404641
+Rajasthan,2019,4,P2P,TOTAL,42028213
+Rajasthan,2019,4,Retail,TOTAL,33945223
+Rajasthan,2019,4,Utility,TOTAL,7317684
+Sikkim,2019,4,P2P,TOTAL,195405
+Sikkim,2019,4,Retail,TOTAL,161964
+Sikkim,2019,4,Utility,TOTAL,51718
+Tamil Nadu,2019,4,P2P,TOTAL,26891922
+Tamil Nadu,2019,4,Retail,TOTAL,23550229
+Tamil Nadu,2019,4,Utility,TOTAL,3831224
+Telangana,2019,4,P2P,TOTAL,73588551
+Telangana,2019,4,Retail,TOTAL,70715723
+Telangana,2019,4,Utility,TOTAL,8205780
+Tripura,2019,4,P2P,TOTAL,504103
+Tripura,2019,4,Retail,TOTAL,405722
+Tripura,2019,4,Utility,TOTAL,107837
+Uttar Pradesh,2019,4,P2P,TOTAL,45757525
+Uttar Pradesh,2019,4,Retail,TOTAL,43340537
+Uttar Pradesh,2019,4,Utility,TOTAL,8287127
+Uttarakhand,2019,4,P2P,TOTAL,3960592
+Uttarakhand,2019,4,Retail,TOTAL,3887718
+Uttarakhand,2019,4,Utility,TOTAL,741841
+West Bengal,2019,4,P2P,TOTAL,61838956
+West Bengal,2019,4,Retail,TOTAL,24001204
+West Bengal,2019,4,Utility,TOTAL,5108751
+Andaman & Nicobar Islands,2020,1,P2P,TOTAL,19682
+Andaman & Nicobar Islands,2020,1,Retail,TOTAL,23473
+Andaman & Nicobar Islands,2020,1,Utility,TOTAL,5949
+Andhra Pradesh,2020,1,P2P,TOTAL,86063489
+Andhra Pradesh,2020,1,Retail,TOTAL,58613484
+Andhra Pradesh,2020,1,Utility,TOTAL,14509601
+Arunachal Pradesh,2020,1,P2P,TOTAL,282980
+Arunachal Pradesh,2020,1,Retail,TOTAL,284879
+Arunachal Pradesh,2020,1,Utility,TOTAL,128283
+Assam,2020,1,P2P,TOTAL,3723043
+Assam,2020,1,Retail,TOTAL,3406812
+Assam,2020,1,Utility,TOTAL,1545036
+Bihar,2020,1,P2P,TOTAL,22185121
+Bihar,2020,1,Retail,TOTAL,16415988
+Bihar,2020,1,Utility,TOTAL,5455724
+Chandigarh,2020,1,P2P,TOTAL,707916
+Chandigarh,2020,1,Retail,TOTAL,890041
+Chandigarh,2020,1,Utility,TOTAL,178573
+Chhattisgarh,2020,1,P2P,TOTAL,7781097
+Chhattisgarh,2020,1,Retail,TOTAL,8600738
+Chhattisgarh,2020,1,Utility,TOTAL,2711559
+Dadra & Nagar Haveli & Daman & Diu,2020,1,P2P,TOTAL,449715
+Dadra & Nagar Haveli & Daman & Diu,2020,1,Retail,TOTAL,459843
+Dadra & Nagar Haveli & Daman & Diu,2020,1,Utility,TOTAL,149809
+Delhi,2020,1,P2P,TOTAL,23652153
+Delhi,2020,1,Retail,TOTAL,33050230
+Delhi,2020,1,Utility,TOTAL,8215685
+Goa,2020,1,P2P,TOTAL,1095516
+Goa,2020,1,Retail,TOTAL,920792
+Goa,2020,1,Utility,TOTAL,292336
+Gujarat,2020,1,P2P,TOTAL,18268400
+Gujarat,2020,1,Retail,TOTAL,22371270
+Gujarat,2020,1,Utility,TOTAL,6372515
+Haryana,2020,1,P2P,TOTAL,21051976
+Haryana,2020,1,Retail,TOTAL,25036070
+Haryana,2020,1,Utility,TOTAL,5251155
+Himachal Pradesh,2020,1,P2P,TOTAL,1548749
+Himachal Pradesh,2020,1,Retail,TOTAL,1973218
+Himachal Pradesh,2020,1,Utility,TOTAL,713544
+Jammu & Kashmir,2020,1,P2P,TOTAL,392979
+Jammu & Kashmir,2020,1,Retail,TOTAL,285108
+Jammu & Kashmir,2020,1,Utility,TOTAL,174338
+Jharkhand,2020,1,P2P,TOTAL,9481346
+Jharkhand,2020,1,Retail,TOTAL,9031137
+Jharkhand,2020,1,Utility,TOTAL,2178190
+Karnataka,2020,1,P2P,TOTAL,104854727
+Karnataka,2020,1,Retail,TOTAL,155213652
+Karnataka,2020,1,Utility,TOTAL,18130058
+Kerala,2020,1,P2P,TOTAL,6285143
+Kerala,2020,1,Retail,TOTAL,7087979
+Kerala,2020,1,Utility,TOTAL,2061926
+Ladakh,2020,1,P2P,TOTAL,72321
+Ladakh,2020,1,Retail,TOTAL,50689
+Ladakh,2020,1,Utility,TOTAL,26498
+Lakshadweep,2020,1,P2P,TOTAL,3906
+Lakshadweep,2020,1,Retail,TOTAL,4060
+Lakshadweep,2020,1,Utility,TOTAL,763
+Madhya Pradesh,2020,1,P2P,TOTAL,34929211
+Madhya Pradesh,2020,1,Retail,TOTAL,36937883
+Madhya Pradesh,2020,1,Utility,TOTAL,8526282
+Maharashtra,2020,1,P2P,TOTAL,84061718
+Maharashtra,2020,1,Retail,TOTAL,125734064
+Maharashtra,2020,1,Utility,TOTAL,23962681
+Manipur,2020,1,P2P,TOTAL,267095
+Manipur,2020,1,Retail,TOTAL,244184
+Manipur,2020,1,Utility,TOTAL,95720
+Meghalaya,2020,1,P2P,TOTAL,165934
+Meghalaya,2020,1,Retail,TOTAL,189179
+Meghalaya,2020,1,Utility,TOTAL,85118
+Mizoram,2020,1,P2P,TOTAL,73986
+Mizoram,2020,1,Retail,TOTAL,72242
+Mizoram,2020,1,Utility,TOTAL,33309
+Nagaland,2020,1,P2P,TOTAL,183413
+Nagaland,2020,1,Retail,TOTAL,184484
+Nagaland,2020,1,Utility,TOTAL,89888
+Odisha,2020,1,P2P,TOTAL,27380806
+Odisha,2020,1,Retail,TOTAL,21880811
+Odisha,2020,1,Utility,TOTAL,5159960
+Puducherry,2020,1,P2P,TOTAL,637583
+Puducherry,2020,1,Retail,TOTAL,580921
+Puducherry,2020,1,Utility,TOTAL,100933
+Punjab,2020,1,P2P,TOTAL,6448799
+Punjab,2020,1,Retail,TOTAL,7210325
+Punjab,2020,1,Utility,TOTAL,2038824
+Rajasthan,2020,1,P2P,TOTAL,46351996
+Rajasthan,2020,1,Retail,TOTAL,42140703
+Rajasthan,2020,1,Utility,TOTAL,11320295
+Sikkim,2020,1,P2P,TOTAL,200232
+Sikkim,2020,1,Retail,TOTAL,180421
+Sikkim,2020,1,Utility,TOTAL,78924
+Tamil Nadu,2020,1,P2P,TOTAL,29210450
+Tamil Nadu,2020,1,Retail,TOTAL,29894565
+Tamil Nadu,2020,1,Utility,TOTAL,6013364
+Telangana,2020,1,P2P,TOTAL,80752201
+Telangana,2020,1,Retail,TOTAL,83326336
+Telangana,2020,1,Utility,TOTAL,13251013
+Tripura,2020,1,P2P,TOTAL,487025
+Tripura,2020,1,Retail,TOTAL,467518
+Tripura,2020,1,Utility,TOTAL,175447
+Uttar Pradesh,2020,1,P2P,TOTAL,44357141
+Uttar Pradesh,2020,1,Retail,TOTAL,51336077
+Uttar Pradesh,2020,1,Utility,TOTAL,12419671
+Uttarakhand,2020,1,P2P,TOTAL,4002557
+Uttarakhand,2020,1,Retail,TOTAL,4599548
+Uttarakhand,2020,1,Utility,TOTAL,1124736
+West Bengal,2020,1,P2P,TOTAL,26827077
+West Bengal,2020,1,Retail,TOTAL,29827673
+West Bengal,2020,1,Utility,TOTAL,7338804
+Andaman & Nicobar Islands,2020,2,P2P,TOTAL,23455
+Andaman & Nicobar Islands,2020,2,Retail,TOTAL,43610
+Andaman & Nicobar Islands,2020,2,Utility,TOTAL,11620
+Andhra Pradesh,2020,2,P2P,TOTAL,94711506
+Andhra Pradesh,2020,2,Retail,TOTAL,58995509
+Andhra Pradesh,2020,2,Utility,TOTAL,22577871
+Arunachal Pradesh,2020,2,P2P,TOTAL,340273
+Arunachal Pradesh,2020,2,Retail,TOTAL,407472
+Arunachal Pradesh,2020,2,Utility,TOTAL,224384
+Assam,2020,2,P2P,TOTAL,3693429
+Assam,2020,2,Retail,TOTAL,4571702
+Assam,2020,2,Utility,TOTAL,2761829
+Bihar,2020,2,P2P,TOTAL,26487666
+Bihar,2020,2,Retail,TOTAL,18443012
+Bihar,2020,2,Utility,TOTAL,9024105
+Chandigarh,2020,2,P2P,TOTAL,425584
+Chandigarh,2020,2,Retail,TOTAL,500782
+Chandigarh,2020,2,Utility,TOTAL,172129
+Chhattisgarh,2020,2,P2P,TOTAL,8442089
+Chhattisgarh,2020,2,Retail,TOTAL,8614241
+Chhattisgarh,2020,2,Utility,TOTAL,3952782
+Dadra & Nagar Haveli & Daman & Diu,2020,2,P2P,TOTAL,427476
+Dadra & Nagar Haveli & Daman & Diu,2020,2,Retail,TOTAL,483124
+Dadra & Nagar Haveli & Daman & Diu,2020,2,Utility,TOTAL,218092
+Delhi,2020,2,P2P,TOTAL,19831287
+Delhi,2020,2,Retail,TOTAL,25679771
+Delhi,2020,2,Utility,TOTAL,6930252
+Goa,2020,2,P2P,TOTAL,629488
+Goa,2020,2,Retail,TOTAL,763049
+Goa,2020,2,Utility,TOTAL,347749
+Gujarat,2020,2,P2P,TOTAL,15009269
+Gujarat,2020,2,Retail,TOTAL,21301458
+Gujarat,2020,2,Utility,TOTAL,8469098
+Haryana,2020,2,P2P,TOTAL,19749837
+Haryana,2020,2,Retail,TOTAL,20771849
+Haryana,2020,2,Utility,TOTAL,5978008
+Himachal Pradesh,2020,2,P2P,TOTAL,1491543
+Himachal Pradesh,2020,2,Retail,TOTAL,2214649
+Himachal Pradesh,2020,2,Utility,TOTAL,1142256
+Jammu & Kashmir,2020,2,P2P,TOTAL,1113996
+Jammu & Kashmir,2020,2,Retail,TOTAL,830419
+Jammu & Kashmir,2020,2,Utility,TOTAL,533819
+Jharkhand,2020,2,P2P,TOTAL,9797276
+Jharkhand,2020,2,Retail,TOTAL,8793799
+Jharkhand,2020,2,Utility,TOTAL,3535284
+Karnataka,2020,2,P2P,TOTAL,83140160
+Karnataka,2020,2,Retail,TOTAL,106019637
+Karnataka,2020,2,Utility,TOTAL,23392132
+Kerala,2020,2,P2P,TOTAL,4835285
+Kerala,2020,2,Retail,TOTAL,7591045
+Kerala,2020,2,Utility,TOTAL,3254822
+Ladakh,2020,2,P2P,TOTAL,93537
+Ladakh,2020,2,Retail,TOTAL,62740
+Ladakh,2020,2,Utility,TOTAL,40125
+Lakshadweep,2020,2,P2P,TOTAL,3849
+Lakshadweep,2020,2,Retail,TOTAL,6329
+Lakshadweep,2020,2,Utility,TOTAL,1324
+Madhya Pradesh,2020,2,P2P,TOTAL,33907763
+Madhya Pradesh,2020,2,Retail,TOTAL,28763727
+Madhya Pradesh,2020,2,Utility,TOTAL,13036513
+Maharashtra,2020,2,P2P,TOTAL,70384119
+Maharashtra,2020,2,Retail,TOTAL,80390030
+Maharashtra,2020,2,Utility,TOTAL,29655735
+Manipur,2020,2,P2P,TOTAL,343823
+Manipur,2020,2,Retail,TOTAL,349701
+Manipur,2020,2,Utility,TOTAL,185770
+Meghalaya,2020,2,P2P,TOTAL,176495
+Meghalaya,2020,2,Retail,TOTAL,289723
+Meghalaya,2020,2,Utility,TOTAL,162392
+Mizoram,2020,2,P2P,TOTAL,75529
+Mizoram,2020,2,Retail,TOTAL,94994
+Mizoram,2020,2,Utility,TOTAL,56635
+Nagaland,2020,2,P2P,TOTAL,219693
+Nagaland,2020,2,Retail,TOTAL,239041
+Nagaland,2020,2,Utility,TOTAL,154857
+Odisha,2020,2,P2P,TOTAL,24255361
+Odisha,2020,2,Retail,TOTAL,18242091
+Odisha,2020,2,Utility,TOTAL,7894700
+Puducherry,2020,2,P2P,TOTAL,444724
+Puducherry,2020,2,Retail,TOTAL,455143
+Puducherry,2020,2,Utility,TOTAL,140895
+Punjab,2020,2,P2P,TOTAL,5501764
+Punjab,2020,2,Retail,TOTAL,6014021
+Punjab,2020,2,Utility,TOTAL,2687674
+Rajasthan,2020,2,P2P,TOTAL,46162638
+Rajasthan,2020,2,Retail,TOTAL,36961229
+Rajasthan,2020,2,Utility,TOTAL,15181393
+Sikkim,2020,2,P2P,TOTAL,203950
+Sikkim,2020,2,Retail,TOTAL,221971
+Sikkim,2020,2,Utility,TOTAL,121448
+Tamil Nadu,2020,2,P2P,TOTAL,19796701
+Tamil Nadu,2020,2,Retail,TOTAL,22003787
+Tamil Nadu,2020,2,Utility,TOTAL,8584890
+Telangana,2020,2,P2P,TOTAL,67182596
+Telangana,2020,2,Retail,TOTAL,54016206
+Telangana,2020,2,Utility,TOTAL,17127927
+Tripura,2020,2,P2P,TOTAL,444122
+Tripura,2020,2,Retail,TOTAL,537656
+Tripura,2020,2,Utility,TOTAL,271589
+Uttar Pradesh,2020,2,P2P,TOTAL,43762763
+Uttar Pradesh,2020,2,Retail,TOTAL,47549454
+Uttar Pradesh,2020,2,Utility,TOTAL,18994344
+Uttarakhand,2020,2,P2P,TOTAL,3531631
+Uttarakhand,2020,2,Retail,TOTAL,4009760
+Uttarakhand,2020,2,Utility,TOTAL,1612644
+West Bengal,2020,2,P2P,TOTAL,24627758
+West Bengal,2020,2,Retail,TOTAL,23778596
+West Bengal,2020,2,Utility,TOTAL,10356741
+Andaman & Nicobar Islands,2020,3,P2P,TOTAL,48650
+Andaman & Nicobar Islands,2020,3,Retail,TOTAL,76639
+Andaman & Nicobar Islands,2020,3,Utility,TOTAL,18700
+Andhra Pradesh,2020,3,P2P,TOTAL,136309737
+Andhra Pradesh,2020,3,Retail,TOTAL,90557252
+Andhra Pradesh,2020,3,Utility,TOTAL,24510120
+Arunachal Pradesh,2020,3,P2P,TOTAL,475422
+Arunachal Pradesh,2020,3,Retail,TOTAL,466194
+Arunachal Pradesh,2020,3,Utility,TOTAL,218466
+Assam,2020,3,P2P,TOTAL,4865545
+Assam,2020,3,Retail,TOTAL,4773287
+Assam,2020,3,Utility,TOTAL,2322970
+Bihar,2020,3,P2P,TOTAL,37372584
+Bihar,2020,3,Retail,TOTAL,26489558
+Bihar,2020,3,Utility,TOTAL,8917471
+Chandigarh,2020,3,P2P,TOTAL,675369
+Chandigarh,2020,3,Retail,TOTAL,925689
+Chandigarh,2020,3,Utility,TOTAL,186053
+Chhattisgarh,2020,3,P2P,TOTAL,12041208
+Chhattisgarh,2020,3,Retail,TOTAL,12030721
+Chhattisgarh,2020,3,Utility,TOTAL,4210764
+Dadra & Nagar Haveli & Daman & Diu,2020,3,P2P,TOTAL,553718
+Dadra & Nagar Haveli & Daman & Diu,2020,3,Retail,TOTAL,633739
+Dadra & Nagar Haveli & Daman & Diu,2020,3,Utility,TOTAL,194133
+Delhi,2020,3,P2P,TOTAL,29703975
+Delhi,2020,3,Retail,TOTAL,36733987
+Delhi,2020,3,Utility,TOTAL,7424548
+Goa,2020,3,P2P,TOTAL,847145
+Goa,2020,3,Retail,TOTAL,966368
+Goa,2020,3,Utility,TOTAL,319592
+Gujarat,2020,3,P2P,TOTAL,22093055
+Gujarat,2020,3,Retail,TOTAL,28750957
+Gujarat,2020,3,Utility,TOTAL,7929243
+Haryana,2020,3,P2P,TOTAL,29036906
+Haryana,2020,3,Retail,TOTAL,32099499
+Haryana,2020,3,Utility,TOTAL,6230451
+Himachal Pradesh,2020,3,P2P,TOTAL,2021110
+Himachal Pradesh,2020,3,Retail,TOTAL,2795882
+Himachal Pradesh,2020,3,Utility,TOTAL,1060966
+Jammu & Kashmir,2020,3,P2P,TOTAL,1579112
+Jammu & Kashmir,2020,3,Retail,TOTAL,1130325
+Jammu & Kashmir,2020,3,Utility,TOTAL,554350
+Jharkhand,2020,3,P2P,TOTAL,14261806
+Jharkhand,2020,3,Retail,TOTAL,13724440
+Jharkhand,2020,3,Utility,TOTAL,3380879
+Karnataka,2020,3,P2P,TOTAL,121005509
+Karnataka,2020,3,Retail,TOTAL,155688887
+Karnataka,2020,3,Utility,TOTAL,24301811
+Kerala,2020,3,P2P,TOTAL,8342008
+Kerala,2020,3,Retail,TOTAL,10639866
+Kerala,2020,3,Utility,TOTAL,3320213
+Ladakh,2020,3,P2P,TOTAL,148038
+Ladakh,2020,3,Retail,TOTAL,93272
+Ladakh,2020,3,Utility,TOTAL,50315
+Lakshadweep,2020,3,P2P,TOTAL,5177
+Lakshadweep,2020,3,Retail,TOTAL,7289
+Lakshadweep,2020,3,Utility,TOTAL,1440
+Madhya Pradesh,2020,3,P2P,TOTAL,48783194
+Madhya Pradesh,2020,3,Retail,TOTAL,44812503
+Madhya Pradesh,2020,3,Utility,TOTAL,12299837
+Maharashtra,2020,3,P2P,TOTAL,102590461
+Maharashtra,2020,3,Retail,TOTAL,127581626
+Maharashtra,2020,3,Utility,TOTAL,29011915
+Manipur,2020,3,P2P,TOTAL,444736
+Manipur,2020,3,Retail,TOTAL,416199
+Manipur,2020,3,Utility,TOTAL,182393
+Meghalaya,2020,3,P2P,TOTAL,238589
+Meghalaya,2020,3,Retail,TOTAL,315322
+Meghalaya,2020,3,Utility,TOTAL,138148
+Mizoram,2020,3,P2P,TOTAL,113045
+Mizoram,2020,3,Retail,TOTAL,109236
+Mizoram,2020,3,Utility,TOTAL,60332
+Nagaland,2020,3,P2P,TOTAL,326189
+Nagaland,2020,3,Retail,TOTAL,292460
+Nagaland,2020,3,Utility,TOTAL,148565
+Odisha,2020,3,P2P,TOTAL,35509492
+Odisha,2020,3,Retail,TOTAL,25581574
+Odisha,2020,3,Utility,TOTAL,7947529
+Puducherry,2020,3,P2P,TOTAL,679376
+Puducherry,2020,3,Retail,TOTAL,727619
+Puducherry,2020,3,Utility,TOTAL,138596
+Punjab,2020,3,P2P,TOTAL,7525655
+Punjab,2020,3,Retail,TOTAL,7823602
+Punjab,2020,3,Utility,TOTAL,2538701
+Rajasthan,2020,3,P2P,TOTAL,69523816
+Rajasthan,2020,3,Retail,TOTAL,57900495
+Rajasthan,2020,3,Utility,TOTAL,15584292
+Sikkim,2020,3,P2P,TOTAL,264230
+Sikkim,2020,3,Retail,TOTAL,256031
+Sikkim,2020,3,Utility,TOTAL,119316
+Tamil Nadu,2020,3,P2P,TOTAL,30434012
+Tamil Nadu,2020,3,Retail,TOTAL,31747599
+Tamil Nadu,2020,3,Utility,TOTAL,8348187
+Telangana,2020,3,P2P,TOTAL,97545501
+Telangana,2020,3,Retail,TOTAL,91185733
+Telangana,2020,3,Utility,TOTAL,18741092
+Tripura,2020,3,P2P,TOTAL,656697
+Tripura,2020,3,Retail,TOTAL,751363
+Tripura,2020,3,Utility,TOTAL,268938
+Uttar Pradesh,2020,3,P2P,TOTAL,60795727
+Uttar Pradesh,2020,3,Retail,TOTAL,63325777
+Uttar Pradesh,2020,3,Utility,TOTAL,17443753
+Uttarakhand,2020,3,P2P,TOTAL,5220599
+Uttarakhand,2020,3,Retail,TOTAL,6069189
+Uttarakhand,2020,3,Utility,TOTAL,1610633
+West Bengal,2020,3,P2P,TOTAL,35010257
+West Bengal,2020,3,Retail,TOTAL,33531712
+West Bengal,2020,3,Utility,TOTAL,10225685
+Andaman & Nicobar Islands,2020,4,P2P,TOTAL,95937
+Andaman & Nicobar Islands,2020,4,Retail,TOTAL,132834
+Andaman & Nicobar Islands,2020,4,Utility,TOTAL,43234
+Andhra Pradesh,2020,4,P2P,TOTAL,178466683
+Andhra Pradesh,2020,4,Retail,TOTAL,118472460
+Andhra Pradesh,2020,4,Utility,TOTAL,29154133
+Arunachal Pradesh,2020,4,P2P,TOTAL,611037
+Arunachal Pradesh,2020,4,Retail,TOTAL,498430
+Arunachal Pradesh,2020,4,Utility,TOTAL,284318
+Assam,2020,4,P2P,TOTAL,6673162
+Assam,2020,4,Retail,TOTAL,5154466
+Assam,2020,4,Utility,TOTAL,2956856
+Bihar,2020,4,P2P,TOTAL,49315343
+Bihar,2020,4,Retail,TOTAL,37187582
+Bihar,2020,4,Utility,TOTAL,11193683
+Chandigarh,2020,4,P2P,TOTAL,902711
+Chandigarh,2020,4,Retail,TOTAL,1450083
+Chandigarh,2020,4,Utility,TOTAL,258048
+Chhattisgarh,2020,4,P2P,TOTAL,16417563
+Chhattisgarh,2020,4,Retail,TOTAL,18163320
+Chhattisgarh,2020,4,Utility,TOTAL,5223775
+Dadra & Nagar Haveli & Daman & Diu,2020,4,P2P,TOTAL,780882
+Dadra & Nagar Haveli & Daman & Diu,2020,4,Retail,TOTAL,1023837
+Dadra & Nagar Haveli & Daman & Diu,2020,4,Utility,TOTAL,269757
+Delhi,2020,4,P2P,TOTAL,39937336
+Delhi,2020,4,Retail,TOTAL,50818263
+Delhi,2020,4,Utility,TOTAL,10505343
+Goa,2020,4,P2P,TOTAL,1695904
+Goa,2020,4,Retail,TOTAL,1953066
+Goa,2020,4,Utility,TOTAL,497313
+Gujarat,2020,4,P2P,TOTAL,28915624
+Gujarat,2020,4,Retail,TOTAL,37351915
+Gujarat,2020,4,Utility,TOTAL,11083263
+Haryana,2020,4,P2P,TOTAL,37925384
+Haryana,2020,4,Retail,TOTAL,44510568
+Haryana,2020,4,Utility,TOTAL,8902670
+Himachal Pradesh,2020,4,P2P,TOTAL,2642942
+Himachal Pradesh,2020,4,Retail,TOTAL,3543029
+Himachal Pradesh,2020,4,Utility,TOTAL,1462519
+Jammu & Kashmir,2020,4,P2P,TOTAL,2151666
+Jammu & Kashmir,2020,4,Retail,TOTAL,2498216
+Jammu & Kashmir,2020,4,Utility,TOTAL,1047336
+Jharkhand,2020,4,P2P,TOTAL,19241235
+Jharkhand,2020,4,Retail,TOTAL,20202143
+Jharkhand,2020,4,Utility,TOTAL,4346894
+Karnataka,2020,4,P2P,TOTAL,166354896
+Karnataka,2020,4,Retail,TOTAL,232139007
+Karnataka,2020,4,Utility,TOTAL,30443681
+Kerala,2020,4,P2P,TOTAL,12960136
+Kerala,2020,4,Retail,TOTAL,16554145
+Kerala,2020,4,Utility,TOTAL,4893132
+Ladakh,2020,4,P2P,TOTAL,184000
+Ladakh,2020,4,Retail,TOTAL,147929
+Ladakh,2020,4,Utility,TOTAL,68325
+Lakshadweep,2020,4,P2P,TOTAL,7324
+Lakshadweep,2020,4,Retail,TOTAL,7929
+Lakshadweep,2020,4,Utility,TOTAL,2419
+Madhya Pradesh,2020,4,P2P,TOTAL,64401144
+Madhya Pradesh,2020,4,Retail,TOTAL,67928541
+Madhya Pradesh,2020,4,Utility,TOTAL,15369811
+Maharashtra,2020,4,P2P,TOTAL,145871285
+Maharashtra,2020,4,Retail,TOTAL,211773187
+Maharashtra,2020,4,Utility,TOTAL,39414683
+Manipur,2020,4,P2P,TOTAL,539549
+Manipur,2020,4,Retail,TOTAL,420543
+Manipur,2020,4,Utility,TOTAL,226110
+Meghalaya,2020,4,P2P,TOTAL,319172
+Meghalaya,2020,4,Retail,TOTAL,321204
+Meghalaya,2020,4,Utility,TOTAL,195985
+Mizoram,2020,4,P2P,TOTAL,155391
+Mizoram,2020,4,Retail,TOTAL,116071
+Mizoram,2020,4,Utility,TOTAL,81393
+Nagaland,2020,4,P2P,TOTAL,396507
+Nagaland,2020,4,Retail,TOTAL,266738
+Nagaland,2020,4,Utility,TOTAL,188444
+Odisha,2020,4,P2P,TOTAL,48735138
+Odisha,2020,4,Retail,TOTAL,36795800
+Odisha,2020,4,Utility,TOTAL,9342253
+Puducherry,2020,4,P2P,TOTAL,1047351
+Puducherry,2020,4,Retail,TOTAL,1272494
+Puducherry,2020,4,Utility,TOTAL,214590
+Punjab,2020,4,P2P,TOTAL,9697447
+Punjab,2020,4,Retail,TOTAL,10297838
+Punjab,2020,4,Utility,TOTAL,3598416
+Rajasthan,2020,4,P2P,TOTAL,85199155
+Rajasthan,2020,4,Retail,TOTAL,79104977
+Rajasthan,2020,4,Utility,TOTAL,20367929
+Sikkim,2020,4,P2P,TOTAL,353096
+Sikkim,2020,4,Retail,TOTAL,273203
+Sikkim,2020,4,Utility,TOTAL,152036
+Tamil Nadu,2020,4,P2P,TOTAL,46846688
+Tamil Nadu,2020,4,Retail,TOTAL,52957176
+Tamil Nadu,2020,4,Utility,TOTAL,12315930
+Telangana,2020,4,P2P,TOTAL,146516443
+Telangana,2020,4,Retail,TOTAL,150218614
+Telangana,2020,4,Utility,TOTAL,25104426
+Tripura,2020,4,P2P,TOTAL,792607
+Tripura,2020,4,Retail,TOTAL,835017
+Tripura,2020,4,Utility,TOTAL,340143
+Uttar Pradesh,2020,4,P2P,TOTAL,81130686
+Uttar Pradesh,2020,4,Retail,TOTAL,86963902
+Uttar Pradesh,2020,4,Utility,TOTAL,23503808
+Uttarakhand,2020,4,P2P,TOTAL,7078394
+Uttarakhand,2020,4,Retail,TOTAL,9591103
+Uttarakhand,2020,4,Utility,TOTAL,2249445
+West Bengal,2020,4,P2P,TOTAL,45232541
+West Bengal,2020,4,Retail,TOTAL,42774024
+West Bengal,2020,4,Utility,TOTAL,13258584
+Andaman & Nicobar Islands,2021,1,P2P,TOTAL,130833
+Andaman & Nicobar Islands,2021,1,Retail,TOTAL,86168
+Andaman & Nicobar Islands,2021,1,Utility,TOTAL,99269
+Andhra Pradesh,2021,1,P2P,TOTAL,187035752
+Andhra Pradesh,2021,1,Retail,TOTAL,122228605
+Andhra Pradesh,2021,1,Utility,TOTAL,51307542
+Arunachal Pradesh,2021,1,P2P,TOTAL,717820
+Arunachal Pradesh,2021,1,Retail,TOTAL,268630
+Arunachal Pradesh,2021,1,Utility,TOTAL,525290
+Assam,2021,1,P2P,TOTAL,8037741
+Assam,2021,1,Retail,TOTAL,3579513
+Assam,2021,1,Utility,TOTAL,5700478
+Bihar,2021,1,P2P,TOTAL,57601479
+Bihar,2021,1,Retail,TOTAL,33189718
+Bihar,2021,1,Utility,TOTAL,20899510
+Chandigarh,2021,1,P2P,TOTAL,1088211
+Chandigarh,2021,1,Retail,TOTAL,1728889
+Chandigarh,2021,1,Utility,TOTAL,473914
+Chhattisgarh,2021,1,P2P,TOTAL,19316584
+Chhattisgarh,2021,1,Retail,TOTAL,19091610
+Chhattisgarh,2021,1,Utility,TOTAL,10222266
+Dadra & Nagar Haveli & Daman & Diu,2021,1,P2P,TOTAL,981563
+Dadra & Nagar Haveli & Daman & Diu,2021,1,Retail,TOTAL,969125
+Dadra & Nagar Haveli & Daman & Diu,2021,1,Utility,TOTAL,517520
+Delhi,2021,1,P2P,TOTAL,46702955
+Delhi,2021,1,Retail,TOTAL,56615267
+Delhi,2021,1,Utility,TOTAL,16835054
+Goa,2021,1,P2P,TOTAL,2574988
+Goa,2021,1,Retail,TOTAL,2615744
+Goa,2021,1,Utility,TOTAL,978889
+Gujarat,2021,1,P2P,TOTAL,35155051
+Gujarat,2021,1,Retail,TOTAL,36594813
+Gujarat,2021,1,Utility,TOTAL,21245003
+Haryana,2021,1,P2P,TOTAL,43022006
+Haryana,2021,1,Retail,TOTAL,46819759
+Haryana,2021,1,Utility,TOTAL,15942911
+Himachal Pradesh,2021,1,P2P,TOTAL,3080132
+Himachal Pradesh,2021,1,Retail,TOTAL,2729674
+Himachal Pradesh,2021,1,Utility,TOTAL,2606950
+Jammu & Kashmir,2021,1,P2P,TOTAL,2422378
+Jammu & Kashmir,2021,1,Retail,TOTAL,1821330
+Jammu & Kashmir,2021,1,Utility,TOTAL,2575293
+Jharkhand,2021,1,P2P,TOTAL,22330559
+Jharkhand,2021,1,Retail,TOTAL,21235684
+Jharkhand,2021,1,Utility,TOTAL,8783677
+Karnataka,2021,1,P2P,TOTAL,189767892
+Karnataka,2021,1,Retail,TOTAL,278444938
+Karnataka,2021,1,Utility,TOTAL,53754469
+Kerala,2021,1,P2P,TOTAL,16497214
+Kerala,2021,1,Retail,TOTAL,17500843
+Kerala,2021,1,Utility,TOTAL,9833672
+Ladakh,2021,1,P2P,TOTAL,194706
+Ladakh,2021,1,Retail,TOTAL,110768
+Ladakh,2021,1,Utility,TOTAL,94672
+Lakshadweep,2021,1,P2P,TOTAL,6910
+Lakshadweep,2021,1,Retail,TOTAL,3956
+Lakshadweep,2021,1,Utility,TOTAL,5199
+Madhya Pradesh,2021,1,P2P,TOTAL,78279566
+Madhya Pradesh,2021,1,Retail,TOTAL,79551215
+Madhya Pradesh,2021,1,Utility,TOTAL,29616287
+Maharashtra,2021,1,P2P,TOTAL,173584645
+Maharashtra,2021,1,Retail,TOTAL,241600887
+Maharashtra,2021,1,Utility,TOTAL,72955854
+Manipur,2021,1,P2P,TOTAL,553294
+Manipur,2021,1,Retail,TOTAL,220308
+Manipur,2021,1,Utility,TOTAL,377533
+Meghalaya,2021,1,P2P,TOTAL,374973
+Meghalaya,2021,1,Retail,TOTAL,170026
+Meghalaya,2021,1,Utility,TOTAL,350046
+Mizoram,2021,1,P2P,TOTAL,177585
+Mizoram,2021,1,Retail,TOTAL,67889
+Mizoram,2021,1,Utility,TOTAL,138912
+Nagaland,2021,1,P2P,TOTAL,419883
+Nagaland,2021,1,Retail,TOTAL,127106
+Nagaland,2021,1,Utility,TOTAL,330764
+Odisha,2021,1,P2P,TOTAL,56168577
+Odisha,2021,1,Retail,TOTAL,39886914
+Odisha,2021,1,Utility,TOTAL,19039161
+Puducherry,2021,1,P2P,TOTAL,1252418
+Puducherry,2021,1,Retail,TOTAL,1443581
+Puducherry,2021,1,Utility,TOTAL,432222
+Punjab,2021,1,P2P,TOTAL,11070488
+Punjab,2021,1,Retail,TOTAL,10008900
+Punjab,2021,1,Utility,TOTAL,6390774
+Rajasthan,2021,1,P2P,TOTAL,111107699
+Rajasthan,2021,1,Retail,TOTAL,91152365
+Rajasthan,2021,1,Utility,TOTAL,38694713
+Sikkim,2021,1,P2P,TOTAL,436996
+Sikkim,2021,1,Retail,TOTAL,153480
+Sikkim,2021,1,Utility,TOTAL,289217
+Tamil Nadu,2021,1,P2P,TOTAL,56209553
+Tamil Nadu,2021,1,Retail,TOTAL,55184006
+Tamil Nadu,2021,1,Utility,TOTAL,24308721
+Telangana,2021,1,P2P,TOTAL,166657150
+Telangana,2021,1,Retail,TOTAL,181674390
+Telangana,2021,1,Utility,TOTAL,44128809
+Tripura,2021,1,P2P,TOTAL,841592
+Tripura,2021,1,Retail,TOTAL,548634
+Tripura,2021,1,Utility,TOTAL,622318
+Uttar Pradesh,2021,1,P2P,TOTAL,94609938
+Uttar Pradesh,2021,1,Retail,TOTAL,89939335
+Uttar Pradesh,2021,1,Utility,TOTAL,42868220
+Uttarakhand,2021,1,P2P,TOTAL,8249581
+Uttarakhand,2021,1,Retail,TOTAL,9483409
+Uttarakhand,2021,1,Utility,TOTAL,4247882
+West Bengal,2021,1,P2P,TOTAL,51079144
+West Bengal,2021,1,Retail,TOTAL,38286845
+West Bengal,2021,1,Utility,TOTAL,25635970
+Andaman & Nicobar Islands,2021,2,P2P,TOTAL,167435
+Andaman & Nicobar Islands,2021,2,Retail,TOTAL,123565
+Andaman & Nicobar Islands,2021,2,Utility,TOTAL,166972
+Andhra Pradesh,2021,2,P2P,TOTAL,244005532
+Andhra Pradesh,2021,2,Retail,TOTAL,137701586
+Andhra Pradesh,2021,2,Utility,TOTAL,69008588
+Arunachal Pradesh,2021,2,P2P,TOTAL,1019755
+Arunachal Pradesh,2021,2,Retail,TOTAL,357066
+Arunachal Pradesh,2021,2,Utility,TOTAL,749967
+Assam,2021,2,P2P,TOTAL,9999466
+Assam,2021,2,Retail,TOTAL,4119253
+Assam,2021,2,Utility,TOTAL,8502474
+Bihar,2021,2,P2P,TOTAL,78237915
+Bihar,2021,2,Retail,TOTAL,42188486
+Bihar,2021,2,Utility,TOTAL,32501986
+Chandigarh,2021,2,P2P,TOTAL,1110497
+Chandigarh,2021,2,Retail,TOTAL,1673769
+Chandigarh,2021,2,Utility,TOTAL,552658
+Chhattisgarh,2021,2,P2P,TOTAL,23437224
+Chhattisgarh,2021,2,Retail,TOTAL,19178737
+Chhattisgarh,2021,2,Utility,TOTAL,14858951
+Dadra & Nagar Haveli & Daman & Diu,2021,2,P2P,TOTAL,1108625
+Dadra & Nagar Haveli & Daman & Diu,2021,2,Retail,TOTAL,1065450
+Dadra & Nagar Haveli & Daman & Diu,2021,2,Utility,TOTAL,640807
+Delhi,2021,2,P2P,TOTAL,48255308
+Delhi,2021,2,Retail,TOTAL,54742475
+Delhi,2021,2,Utility,TOTAL,18473500
+Goa,2021,2,P2P,TOTAL,2032902
+Goa,2021,2,Retail,TOTAL,2174178
+Goa,2021,2,Utility,TOTAL,1136351
+Gujarat,2021,2,P2P,TOTAL,39949396
+Gujarat,2021,2,Retail,TOTAL,41144828
+Gujarat,2021,2,Utility,TOTAL,27647135
+Haryana,2021,2,P2P,TOTAL,51942602
+Haryana,2021,2,Retail,TOTAL,52047541
+Haryana,2021,2,Utility,TOTAL,20392290
+Himachal Pradesh,2021,2,P2P,TOTAL,3654848
+Himachal Pradesh,2021,2,Retail,TOTAL,3324890
+Himachal Pradesh,2021,2,Utility,TOTAL,3693667
+Jammu & Kashmir,2021,2,P2P,TOTAL,3376159
+Jammu & Kashmir,2021,2,Retail,TOTAL,2461450
+Jammu & Kashmir,2021,2,Utility,TOTAL,3921511
+Jharkhand,2021,2,P2P,TOTAL,28958156
+Jharkhand,2021,2,Retail,TOTAL,22645520
+Jharkhand,2021,2,Utility,TOTAL,13484679
+Karnataka,2021,2,P2P,TOTAL,213932224
+Karnataka,2021,2,Retail,TOTAL,240282738
+Karnataka,2021,2,Utility,TOTAL,73595718
+Kerala,2021,2,P2P,TOTAL,17410034
+Kerala,2021,2,Retail,TOTAL,16995197
+Kerala,2021,2,Utility,TOTAL,15125247
+Ladakh,2021,2,P2P,TOTAL,313050
+Ladakh,2021,2,Retail,TOTAL,196095
+Ladakh,2021,2,Utility,TOTAL,141433
+Lakshadweep,2021,2,P2P,TOTAL,7419
+Lakshadweep,2021,2,Retail,TOTAL,3416
+Lakshadweep,2021,2,Utility,TOTAL,9953
+Madhya Pradesh,2021,2,P2P,TOTAL,91032253
+Madhya Pradesh,2021,2,Retail,TOTAL,68475966
+Madhya Pradesh,2021,2,Utility,TOTAL,43800755
+Maharashtra,2021,2,P2P,TOTAL,208494008
+Maharashtra,2021,2,Retail,TOTAL,229413959
+Maharashtra,2021,2,Utility,TOTAL,95323220
+Manipur,2021,2,P2P,TOTAL,635650
+Manipur,2021,2,Retail,TOTAL,250250
+Manipur,2021,2,Utility,TOTAL,550077
+Meghalaya,2021,2,P2P,TOTAL,422974
+Meghalaya,2021,2,Retail,TOTAL,193215
+Meghalaya,2021,2,Utility,TOTAL,510243
+Mizoram,2021,2,P2P,TOTAL,198301
+Mizoram,2021,2,Retail,TOTAL,74439
+Mizoram,2021,2,Utility,TOTAL,196749
+Nagaland,2021,2,P2P,TOTAL,512516
+Nagaland,2021,2,Retail,TOTAL,130032
+Nagaland,2021,2,Utility,TOTAL,464803
+Odisha,2021,2,P2P,TOTAL,70199957
+Odisha,2021,2,Retail,TOTAL,39885033
+Odisha,2021,2,Utility,TOTAL,28140708
+Puducherry,2021,2,P2P,TOTAL,1279040
+Puducherry,2021,2,Retail,TOTAL,1385293
+Puducherry,2021,2,Utility,TOTAL,571970
+Punjab,2021,2,P2P,TOTAL,13202084
+Punjab,2021,2,Retail,TOTAL,11144498
+Punjab,2021,2,Utility,TOTAL,8335415
+Rajasthan,2021,2,P2P,TOTAL,132454889
+Rajasthan,2021,2,Retail,TOTAL,90192431
+Rajasthan,2021,2,Utility,TOTAL,51789864
+Sikkim,2021,2,P2P,TOTAL,496633
+Sikkim,2021,2,Retail,TOTAL,160006
+Sikkim,2021,2,Utility,TOTAL,408180
+Tamil Nadu,2021,2,P2P,TOTAL,58488704
+Tamil Nadu,2021,2,Retail,TOTAL,50846255
+Tamil Nadu,2021,2,Utility,TOTAL,33606899
+Telangana,2021,2,P2P,TOTAL,209768440
+Telangana,2021,2,Retail,TOTAL,193360174
+Telangana,2021,2,Utility,TOTAL,57938162
+Tripura,2021,2,P2P,TOTAL,953822
+Tripura,2021,2,Retail,TOTAL,628463
+Tripura,2021,2,Utility,TOTAL,846661
+Uttar Pradesh,2021,2,P2P,TOTAL,116290503
+Uttar Pradesh,2021,2,Retail,TOTAL,93709752
+Uttar Pradesh,2021,2,Utility,TOTAL,63727920
+Uttarakhand,2021,2,P2P,TOTAL,9520718
+Uttarakhand,2021,2,Retail,TOTAL,9938227
+Uttarakhand,2021,2,Utility,TOTAL,5917433
+West Bengal,2021,2,P2P,TOTAL,61512765
+West Bengal,2021,2,Retail,TOTAL,41133183
+West Bengal,2021,2,Utility,TOTAL,36102795
+Andaman & Nicobar Islands,2021,3,P2P,TOTAL,231422
+Andaman & Nicobar Islands,2021,3,Retail,TOTAL,169369
+Andaman & Nicobar Islands,2021,3,Utility,TOTAL,186637
+Andhra Pradesh,2021,3,P2P,TOTAL,283896229
+Andhra Pradesh,2021,3,Retail,TOTAL,195005296
+Andhra Pradesh,2021,3,Utility,TOTAL,73567732
+Arunachal Pradesh,2021,3,P2P,TOTAL,1295459
+Arunachal Pradesh,2021,3,Retail,TOTAL,445416
+Arunachal Pradesh,2021,3,Utility,TOTAL,812004
+Assam,2021,3,P2P,TOTAL,12915370
+Assam,2021,3,Retail,TOTAL,6486596
+Assam,2021,3,Utility,TOTAL,9291264
+Bihar,2021,3,P2P,TOTAL,92724849
+Bihar,2021,3,Retail,TOTAL,60516429
+Bihar,2021,3,Utility,TOTAL,31570844
+Chandigarh,2021,3,P2P,TOTAL,1505884
+Chandigarh,2021,3,Retail,TOTAL,2650201
+Chandigarh,2021,3,Utility,TOTAL,639374
+Chhattisgarh,2021,3,P2P,TOTAL,31909232
+Chhattisgarh,2021,3,Retail,TOTAL,33321770
+Chhattisgarh,2021,3,Utility,TOTAL,15486870
+Dadra & Nagar Haveli & Daman & Diu,2021,3,P2P,TOTAL,1642468
+Dadra & Nagar Haveli & Daman & Diu,2021,3,Retail,TOTAL,1727177
+Dadra & Nagar Haveli & Daman & Diu,2021,3,Utility,TOTAL,761155
+Delhi,2021,3,P2P,TOTAL,67534917
+Delhi,2021,3,Retail,TOTAL,82693069
+Delhi,2021,3,Utility,TOTAL,22523596
+Goa,2021,3,P2P,TOTAL,2861832
+Goa,2021,3,Retail,TOTAL,3288618
+Goa,2021,3,Utility,TOTAL,1267079
+Gujarat,2021,3,P2P,TOTAL,54390293
+Gujarat,2021,3,Retail,TOTAL,61450401
+Gujarat,2021,3,Utility,TOTAL,30725112
+Haryana,2021,3,P2P,TOTAL,66050125
+Haryana,2021,3,Retail,TOTAL,77143949
+Haryana,2021,3,Utility,TOTAL,22571715
+Himachal Pradesh,2021,3,P2P,TOTAL,4692458
+Himachal Pradesh,2021,3,Retail,TOTAL,4599348
+Himachal Pradesh,2021,3,Utility,TOTAL,3705835
+Jammu & Kashmir,2021,3,P2P,TOTAL,4549759
+Jammu & Kashmir,2021,3,Retail,TOTAL,3104332
+Jammu & Kashmir,2021,3,Utility,TOTAL,4492677
+Jharkhand,2021,3,P2P,TOTAL,36049192
+Jharkhand,2021,3,Retail,TOTAL,35362822
+Jharkhand,2021,3,Utility,TOTAL,14028016
+Karnataka,2021,3,P2P,TOTAL,284775729
+Karnataka,2021,3,Retail,TOTAL,382783587
+Karnataka,2021,3,Utility,TOTAL,79090457
+Kerala,2021,3,P2P,TOTAL,24038832
+Kerala,2021,3,Retail,TOTAL,26792845
+Kerala,2021,3,Utility,TOTAL,15339519
+Ladakh,2021,3,P2P,TOTAL,479271
+Ladakh,2021,3,Retail,TOTAL,269662
+Ladakh,2021,3,Utility,TOTAL,181030
+Lakshadweep,2021,3,P2P,TOTAL,10295
+Lakshadweep,2021,3,Retail,TOTAL,4919
+Lakshadweep,2021,3,Utility,TOTAL,9413
+Madhya Pradesh,2021,3,P2P,TOTAL,118679995
+Madhya Pradesh,2021,3,Retail,TOTAL,124505570
+Madhya Pradesh,2021,3,Utility,TOTAL,43359373
+Maharashtra,2021,3,P2P,TOTAL,268139750
+Maharashtra,2021,3,Retail,TOTAL,362427389
+Maharashtra,2021,3,Utility,TOTAL,104019441
+Manipur,2021,3,P2P,TOTAL,835511
+Manipur,2021,3,Retail,TOTAL,336219
+Manipur,2021,3,Utility,TOTAL,600525
+Meghalaya,2021,3,P2P,TOTAL,544751
+Meghalaya,2021,3,Retail,TOTAL,261011
+Meghalaya,2021,3,Utility,TOTAL,548454
+Mizoram,2021,3,P2P,TOTAL,249407
+Mizoram,2021,3,Retail,TOTAL,93972
+Mizoram,2021,3,Utility,TOTAL,212555
+Nagaland,2021,3,P2P,TOTAL,649798
+Nagaland,2021,3,Retail,TOTAL,183947
+Nagaland,2021,3,Utility,TOTAL,482981
+Odisha,2021,3,P2P,TOTAL,88531048
+Odisha,2021,3,Retail,TOTAL,65021952
+Odisha,2021,3,Utility,TOTAL,29812656
+Puducherry,2021,3,P2P,TOTAL,1758454
+Puducherry,2021,3,Retail,TOTAL,2208281
+Puducherry,2021,3,Utility,TOTAL,623569
+Punjab,2021,3,P2P,TOTAL,16413165
+Punjab,2021,3,Retail,TOTAL,16218466
+Punjab,2021,3,Utility,TOTAL,9024573
+Rajasthan,2021,3,P2P,TOTAL,175069182
+Rajasthan,2021,3,Retail,TOTAL,155512206
+Rajasthan,2021,3,Utility,TOTAL,53490251
+Sikkim,2021,3,P2P,TOTAL,641409
+Sikkim,2021,3,Retail,TOTAL,234862
+Sikkim,2021,3,Utility,TOTAL,418872
+Tamil Nadu,2021,3,P2P,TOTAL,80872706
+Tamil Nadu,2021,3,Retail,TOTAL,83456564
+Tamil Nadu,2021,3,Utility,TOTAL,36222902
+Telangana,2021,3,P2P,TOTAL,252405062
+Telangana,2021,3,Retail,TOTAL,276644191
+Telangana,2021,3,Utility,TOTAL,63692205
+Tripura,2021,3,P2P,TOTAL,1152547
+Tripura,2021,3,Retail,TOTAL,823202
+Tripura,2021,3,Utility,TOTAL,900667
+Uttar Pradesh,2021,3,P2P,TOTAL,145996374
+Uttar Pradesh,2021,3,Retail,TOTAL,141458681
+Uttar Pradesh,2021,3,Utility,TOTAL,63220283
+Uttarakhand,2021,3,P2P,TOTAL,12313894
+Uttarakhand,2021,3,Retail,TOTAL,14740374
+Uttarakhand,2021,3,Utility,TOTAL,6126336
+West Bengal,2021,3,P2P,TOTAL,79783224
+West Bengal,2021,3,Retail,TOTAL,57001307
+West Bengal,2021,3,Utility,TOTAL,39116796
+Andaman & Nicobar Islands,2021,4,P2P,TOTAL,300209
+Andaman & Nicobar Islands,2021,4,Retail,TOTAL,259587
+Andaman & Nicobar Islands,2021,4,Utility,TOTAL,162945
+Andhra Pradesh,2021,4,P2P,TOTAL,288996866
+Andhra Pradesh,2021,4,Retail,TOTAL,223299270
+Andhra Pradesh,2021,4,Utility,TOTAL,64264055
+Arunachal Pradesh,2021,4,P2P,TOTAL,1394700
+Arunachal Pradesh,2021,4,Retail,TOTAL,624665
+Arunachal Pradesh,2021,4,Utility,TOTAL,761738
+Assam,2021,4,P2P,TOTAL,15760519
+Assam,2021,4,Retail,TOTAL,10034417
+Assam,2021,4,Utility,TOTAL,9233797
+Bihar,2021,4,P2P,TOTAL,102626865
+Bihar,2021,4,Retail,TOTAL,80117478
+Bihar,2021,4,Utility,TOTAL,28850796
+Chandigarh,2021,4,P2P,TOTAL,1508876
+Chandigarh,2021,4,Retail,TOTAL,2956450
+Chandigarh,2021,4,Utility,TOTAL,547261
+Chhattisgarh,2021,4,P2P,TOTAL,35131434
+Chhattisgarh,2021,4,Retail,TOTAL,42220296
+Chhattisgarh,2021,4,Utility,TOTAL,13634340
+Dadra & Nagar Haveli & Daman & Diu,2021,4,P2P,TOTAL,1752030
+Dadra & Nagar Haveli & Daman & Diu,2021,4,Retail,TOTAL,2297983
+Dadra & Nagar Haveli & Daman & Diu,2021,4,Utility,TOTAL,668701
+Delhi,2021,4,P2P,TOTAL,69394557
+Delhi,2021,4,Retail,TOTAL,91396064
+Delhi,2021,4,Utility,TOTAL,19381497
+Goa,2021,4,P2P,TOTAL,4502621
+Goa,2021,4,Retail,TOTAL,5639629
+Goa,2021,4,Utility,TOTAL,1323738
+Gujarat,2021,4,P2P,TOTAL,56399845
+Gujarat,2021,4,Retail,TOTAL,71950994
+Gujarat,2021,4,Utility,TOTAL,27265731
+Haryana,2021,4,P2P,TOTAL,67543542
+Haryana,2021,4,Retail,TOTAL,85064659
+Haryana,2021,4,Utility,TOTAL,20117157
+Himachal Pradesh,2021,4,P2P,TOTAL,4865930
+Himachal Pradesh,2021,4,Retail,TOTAL,5779795
+Himachal Pradesh,2021,4,Utility,TOTAL,3104536
+Jammu & Kashmir,2021,4,P2P,TOTAL,4805709
+Jammu & Kashmir,2021,4,Retail,TOTAL,4460916
+Jammu & Kashmir,2021,4,Utility,TOTAL,4185175
+Jharkhand,2021,4,P2P,TOTAL,40807294
+Jharkhand,2021,4,Retail,TOTAL,46792105
+Jharkhand,2021,4,Utility,TOTAL,12830291
+Karnataka,2021,4,P2P,TOTAL,299544336
+Karnataka,2021,4,Retail,TOTAL,428409513
+Karnataka,2021,4,Utility,TOTAL,73377637
+Kerala,2021,4,P2P,TOTAL,25988637
+Kerala,2021,4,Retail,TOTAL,35632663
+Kerala,2021,4,Utility,TOTAL,13172187
+Ladakh,2021,4,P2P,TOTAL,416036
+Ladakh,2021,4,Retail,TOTAL,285865
+Ladakh,2021,4,Utility,TOTAL,155738
+Lakshadweep,2021,4,P2P,TOTAL,11408
+Lakshadweep,2021,4,Retail,TOTAL,5279
+Lakshadweep,2021,4,Utility,TOTAL,8630
+Madhya Pradesh,2021,4,P2P,TOTAL,127810835
+Madhya Pradesh,2021,4,Retail,TOTAL,154372079
+Madhya Pradesh,2021,4,Utility,TOTAL,38984765
+Maharashtra,2021,4,P2P,TOTAL,286423482
+Maharashtra,2021,4,Retail,TOTAL,441281724
+Maharashtra,2021,4,Utility,TOTAL,93550357
+Manipur,2021,4,P2P,TOTAL,855988
+Manipur,2021,4,Retail,TOTAL,368527
+Manipur,2021,4,Utility,TOTAL,558055
+Meghalaya,2021,4,P2P,TOTAL,686100
+Meghalaya,2021,4,Retail,TOTAL,348960
+Meghalaya,2021,4,Utility,TOTAL,523584
+Mizoram,2021,4,P2P,TOTAL,266273
+Mizoram,2021,4,Retail,TOTAL,107464
+Mizoram,2021,4,Utility,TOTAL,191265
+Nagaland,2021,4,P2P,TOTAL,692273
+Nagaland,2021,4,Retail,TOTAL,222754
+Nagaland,2021,4,Utility,TOTAL,454766
+Odisha,2021,4,P2P,TOTAL,97365421
+Odisha,2021,4,Retail,TOTAL,89306095
+Odisha,2021,4,Utility,TOTAL,25597121
+Puducherry,2021,4,P2P,TOTAL,1825625
+Puducherry,2021,4,Retail,TOTAL,2550628
+Puducherry,2021,4,Utility,TOTAL,556670
+Punjab,2021,4,P2P,TOTAL,17253838
+Punjab,2021,4,Retail,TOTAL,19076362
+Punjab,2021,4,Utility,TOTAL,8060225
+Rajasthan,2021,4,P2P,TOTAL,179543868
+Rajasthan,2021,4,Retail,TOTAL,182274484
+Rajasthan,2021,4,Utility,TOTAL,48371763
+Sikkim,2021,4,P2P,TOTAL,766037
+Sikkim,2021,4,Retail,TOTAL,347103
+Sikkim,2021,4,Utility,TOTAL,384951
+Tamil Nadu,2021,4,P2P,TOTAL,86906217
+Tamil Nadu,2021,4,Retail,TOTAL,99367500
+Tamil Nadu,2021,4,Utility,TOTAL,32518385
+Telangana,2021,4,P2P,TOTAL,268871846
+Telangana,2021,4,Retail,TOTAL,316270714
+Telangana,2021,4,Utility,TOTAL,57265743
+Tripura,2021,4,P2P,TOTAL,1220840
+Tripura,2021,4,Retail,TOTAL,944059
+Tripura,2021,4,Utility,TOTAL,832667
+Uttar Pradesh,2021,4,P2P,TOTAL,164806510
+Uttar Pradesh,2021,4,Retail,TOTAL,177938209
+Uttar Pradesh,2021,4,Utility,TOTAL,57980385
+Uttarakhand,2021,4,P2P,TOTAL,13030803
+Uttarakhand,2021,4,Retail,TOTAL,18480818
+Uttarakhand,2021,4,Utility,TOTAL,5402025
+West Bengal,2021,4,P2P,TOTAL,87580931
+West Bengal,2021,4,Retail,TOTAL,67551823
+West Bengal,2021,4,Utility,TOTAL,34629128
+Andaman & Nicobar Islands,2022,1,P2P,TOTAL,397423
+Andaman & Nicobar Islands,2022,1,Retail,TOTAL,396140
+Andaman & Nicobar Islands,2022,1,Utility,TOTAL,204932
+Andhra Pradesh,2022,1,P2P,TOTAL,359825164
+Andhra Pradesh,2022,1,Retail,TOTAL,295596425
+Andhra Pradesh,2022,1,Utility,TOTAL,70133038
+Arunachal Pradesh,2022,1,P2P,TOTAL,1814764
+Arunachal Pradesh,2022,1,Retail,TOTAL,974159
+Arunachal Pradesh,2022,1,Utility,TOTAL,854235
+Assam,2022,1,P2P,TOTAL,22622208
+Assam,2022,1,Retail,TOTAL,16994856
+Assam,2022,1,Utility,TOTAL,10408631
+Bihar,2022,1,P2P,TOTAL,137367506
+Bihar,2022,1,Retail,TOTAL,110204201
+Bihar,2022,1,Utility,TOTAL,31793367
+Chandigarh,2022,1,P2P,TOTAL,1784924
+Chandigarh,2022,1,Retail,TOTAL,3654287
+Chandigarh,2022,1,Utility,TOTAL,586867
+Chhattisgarh,2022,1,P2P,TOTAL,45584964
+Chhattisgarh,2022,1,Retail,TOTAL,57726019
+Chhattisgarh,2022,1,Utility,TOTAL,15340629
+Dadra & Nagar Haveli & Daman & Diu,2022,1,P2P,TOTAL,2194931
+Dadra & Nagar Haveli & Daman & Diu,2022,1,Retail,TOTAL,3219540
+Dadra & Nagar Haveli & Daman & Diu,2022,1,Utility,TOTAL,685309
+Delhi,2022,1,P2P,TOTAL,84352873
+Delhi,2022,1,Retail,TOTAL,118196322
+Delhi,2022,1,Utility,TOTAL,20602963
+Goa,2022,1,P2P,TOTAL,5223491
+Goa,2022,1,Retail,TOTAL,7310623
+Goa,2022,1,Utility,TOTAL,1394762
+Gujarat,2022,1,P2P,TOTAL,74150580
+Gujarat,2022,1,Retail,TOTAL,98716618
+Gujarat,2022,1,Utility,TOTAL,29300212
+Haryana,2022,1,P2P,TOTAL,85153388
+Haryana,2022,1,Retail,TOTAL,112255341
+Haryana,2022,1,Utility,TOTAL,23133103
+Himachal Pradesh,2022,1,P2P,TOTAL,5795846
+Himachal Pradesh,2022,1,Retail,TOTAL,7493598
+Himachal Pradesh,2022,1,Utility,TOTAL,3274250
+Jammu & Kashmir,2022,1,P2P,TOTAL,6090704
+Jammu & Kashmir,2022,1,Retail,TOTAL,6333871
+Jammu & Kashmir,2022,1,Utility,TOTAL,4507844
+Jharkhand,2022,1,P2P,TOTAL,53521439
+Jharkhand,2022,1,Retail,TOTAL,62624486
+Jharkhand,2022,1,Utility,TOTAL,14341518
+Karnataka,2022,1,P2P,TOTAL,378524434
+Karnataka,2022,1,Retail,TOTAL,573122892
+Karnataka,2022,1,Utility,TOTAL,84078680
+Kerala,2022,1,P2P,TOTAL,32902484
+Kerala,2022,1,Retail,TOTAL,49169365
+Kerala,2022,1,Utility,TOTAL,14362158
+Ladakh,2022,1,P2P,TOTAL,490348
+Ladakh,2022,1,Retail,TOTAL,333285
+Ladakh,2022,1,Utility,TOTAL,168329
+Lakshadweep,2022,1,P2P,TOTAL,14349
+Lakshadweep,2022,1,Retail,TOTAL,6831
+Lakshadweep,2022,1,Utility,TOTAL,9168
+Madhya Pradesh,2022,1,P2P,TOTAL,165503407
+Madhya Pradesh,2022,1,Retail,TOTAL,208119201
+Madhya Pradesh,2022,1,Utility,TOTAL,45034736
+Maharashtra,2022,1,P2P,TOTAL,367923036
+Maharashtra,2022,1,Retail,TOTAL,597190812
+Maharashtra,2022,1,Utility,TOTAL,104698822
+Manipur,2022,1,P2P,TOTAL,1104469
+Manipur,2022,1,Retail,TOTAL,509928
+Manipur,2022,1,Utility,TOTAL,642874
+Meghalaya,2022,1,P2P,TOTAL,932731
+Meghalaya,2022,1,Retail,TOTAL,522433
+Meghalaya,2022,1,Utility,TOTAL,556173
+Mizoram,2022,1,P2P,TOTAL,333816
+Mizoram,2022,1,Retail,TOTAL,134652
+Mizoram,2022,1,Utility,TOTAL,208246
+Nagaland,2022,1,P2P,TOTAL,877525
+Nagaland,2022,1,Retail,TOTAL,323423
+Nagaland,2022,1,Utility,TOTAL,508927
+Odisha,2022,1,P2P,TOTAL,121543612
+Odisha,2022,1,Retail,TOTAL,119389372
+Odisha,2022,1,Utility,TOTAL,27978744
+Puducherry,2022,1,P2P,TOTAL,2317321
+Puducherry,2022,1,Retail,TOTAL,3461076
+Puducherry,2022,1,Utility,TOTAL,576190
+Punjab,2022,1,P2P,TOTAL,21331370
+Punjab,2022,1,Retail,TOTAL,25097722
+Punjab,2022,1,Utility,TOTAL,9159479
+Rajasthan,2022,1,P2P,TOTAL,230002464
+Rajasthan,2022,1,Retail,TOTAL,249207437
+Rajasthan,2022,1,Utility,TOTAL,56318976
+Sikkim,2022,1,P2P,TOTAL,946961
+Sikkim,2022,1,Retail,TOTAL,483455
+Sikkim,2022,1,Utility,TOTAL,404118
+Tamil Nadu,2022,1,P2P,TOTAL,111499213
+Tamil Nadu,2022,1,Retail,TOTAL,133533757
+Tamil Nadu,2022,1,Utility,TOTAL,33014685
+Telangana,2022,1,P2P,TOTAL,333860206
+Telangana,2022,1,Retail,TOTAL,422012965
+Telangana,2022,1,Utility,TOTAL,64419623
+Tripura,2022,1,P2P,TOTAL,1605926
+Tripura,2022,1,Retail,TOTAL,1401056
+Tripura,2022,1,Utility,TOTAL,834523
+Uttar Pradesh,2022,1,P2P,TOTAL,215231907
+Uttar Pradesh,2022,1,Retail,TOTAL,241296678
+Uttar Pradesh,2022,1,Utility,TOTAL,64840860
+Uttarakhand,2022,1,P2P,TOTAL,15762028
+Uttarakhand,2022,1,Retail,TOTAL,23662761
+Uttarakhand,2022,1,Utility,TOTAL,5840799
+West Bengal,2022,1,P2P,TOTAL,115561007
+West Bengal,2022,1,Retail,TOTAL,92376770
+West Bengal,2022,1,Utility,TOTAL,36139836
+Andaman & Nicobar Islands,2022,2,P2P,TOTAL,537340
+Andaman & Nicobar Islands,2022,2,Retail,TOTAL,629016
+Andaman & Nicobar Islands,2022,2,Utility,TOTAL,253200
+Andhra Pradesh,2022,2,P2P,TOTAL,402016237
+Andhra Pradesh,2022,2,Retail,TOTAL,357185042
+Andhra Pradesh,2022,2,Utility,TOTAL,81131062
+Arunachal Pradesh,2022,2,P2P,TOTAL,2362702
+Arunachal Pradesh,2022,2,Retail,TOTAL,1560097
+Arunachal Pradesh,2022,2,Utility,TOTAL,982108
+Assam,2022,2,P2P,TOTAL,28055767
+Assam,2022,2,Retail,TOTAL,24578300
+Assam,2022,2,Utility,TOTAL,12166210
+Bihar,2022,2,P2P,TOTAL,161392512
+Bihar,2022,2,Retail,TOTAL,149362668
+Bihar,2022,2,Utility,TOTAL,40232225
+Chandigarh,2022,2,P2P,TOTAL,2128206
+Chandigarh,2022,2,Retail,TOTAL,4970069
+Chandigarh,2022,2,Utility,TOTAL,663607
+Chhattisgarh,2022,2,P2P,TOTAL,52204431
+Chhattisgarh,2022,2,Retail,TOTAL,73440835
+Chhattisgarh,2022,2,Utility,TOTAL,18004384
+Dadra & Nagar Haveli & Daman & Diu,2022,2,P2P,TOTAL,2354655
+Dadra & Nagar Haveli & Daman & Diu,2022,2,Retail,TOTAL,4326687
+Dadra & Nagar Haveli & Daman & Diu,2022,2,Utility,TOTAL,750002
+Delhi,2022,2,P2P,TOTAL,97270927
+Delhi,2022,2,Retail,TOTAL,159256415
+Delhi,2022,2,Utility,TOTAL,24135356
+Goa,2022,2,P2P,TOTAL,5658819
+Goa,2022,2,Retail,TOTAL,8797632
+Goa,2022,2,Utility,TOTAL,1565643
+Gujarat,2022,2,P2P,TOTAL,82061815
+Gujarat,2022,2,Retail,TOTAL,126999953
+Gujarat,2022,2,Utility,TOTAL,33804215
+Haryana,2022,2,P2P,TOTAL,96613876
+Haryana,2022,2,Retail,TOTAL,148317828
+Haryana,2022,2,Utility,TOTAL,26335681
+Himachal Pradesh,2022,2,P2P,TOTAL,7197331
+Himachal Pradesh,2022,2,Retail,TOTAL,11288487
+Himachal Pradesh,2022,2,Utility,TOTAL,3748312
+Jammu & Kashmir,2022,2,P2P,TOTAL,8551984
+Jammu & Kashmir,2022,2,Retail,TOTAL,10304279
+Jammu & Kashmir,2022,2,Utility,TOTAL,5709975
+Jharkhand,2022,2,P2P,TOTAL,61327193
+Jharkhand,2022,2,Retail,TOTAL,79513404
+Jharkhand,2022,2,Utility,TOTAL,17487019
+Karnataka,2022,2,P2P,TOTAL,438454375
+Karnataka,2022,2,Retail,TOTAL,722776073
+Karnataka,2022,2,Utility,TOTAL,100400772
+Kerala,2022,2,P2P,TOTAL,35607788
+Kerala,2022,2,Retail,TOTAL,57745367
+Kerala,2022,2,Utility,TOTAL,15904350
+Ladakh,2022,2,P2P,TOTAL,847046
+Ladakh,2022,2,Retail,TOTAL,587810
+Ladakh,2022,2,Utility,TOTAL,256115
+Lakshadweep,2022,2,P2P,TOTAL,15622
+Lakshadweep,2022,2,Retail,TOTAL,7795
+Lakshadweep,2022,2,Utility,TOTAL,9662
+Madhya Pradesh,2022,2,P2P,TOTAL,183118953
+Madhya Pradesh,2022,2,Retail,TOTAL,254146400
+Madhya Pradesh,2022,2,Utility,TOTAL,52798619
+Maharashtra,2022,2,P2P,TOTAL,412391023
+Maharashtra,2022,2,Retail,TOTAL,739763476
+Maharashtra,2022,2,Utility,TOTAL,120605573
+Manipur,2022,2,P2P,TOTAL,1198080
+Manipur,2022,2,Retail,TOTAL,645557
+Manipur,2022,2,Utility,TOTAL,607690
+Meghalaya,2022,2,P2P,TOTAL,1141224
+Meghalaya,2022,2,Retail,TOTAL,740673
+Meghalaya,2022,2,Utility,TOTAL,614032
+Mizoram,2022,2,P2P,TOTAL,367719
+Mizoram,2022,2,Retail,TOTAL,166864
+Mizoram,2022,2,Utility,TOTAL,201375
+Nagaland,2022,2,P2P,TOTAL,1018561
+Nagaland,2022,2,Retail,TOTAL,441412
+Nagaland,2022,2,Utility,TOTAL,514039
+Odisha,2022,2,P2P,TOTAL,138799315
+Odisha,2022,2,Retail,TOTAL,150198940
+Odisha,2022,2,Utility,TOTAL,33379972
+Puducherry,2022,2,P2P,TOTAL,2582879
+Puducherry,2022,2,Retail,TOTAL,4265431
+Puducherry,2022,2,Utility,TOTAL,641663
+Punjab,2022,2,P2P,TOTAL,24605671
+Punjab,2022,2,Retail,TOTAL,34194211
+Punjab,2022,2,Utility,TOTAL,10670260
+Rajasthan,2022,2,P2P,TOTAL,248313762
+Rajasthan,2022,2,Retail,TOTAL,309286081
+Rajasthan,2022,2,Utility,TOTAL,63079382
+Sikkim,2022,2,P2P,TOTAL,1270954
+Sikkim,2022,2,Retail,TOTAL,766320
+Sikkim,2022,2,Utility,TOTAL,474966
+Tamil Nadu,2022,2,P2P,TOTAL,128465769
+Tamil Nadu,2022,2,Retail,TOTAL,170116252
+Tamil Nadu,2022,2,Utility,TOTAL,39544405
+Telangana,2022,2,P2P,TOTAL,385083123
+Telangana,2022,2,Retail,TOTAL,533356769
+Telangana,2022,2,Utility,TOTAL,74769332
+Tripura,2022,2,P2P,TOTAL,1895868
+Tripura,2022,2,Retail,TOTAL,1782176
+Tripura,2022,2,Utility,TOTAL,919982
+Uttar Pradesh,2022,2,P2P,TOTAL,254989934
+Uttar Pradesh,2022,2,Retail,TOTAL,322162022
+Uttar Pradesh,2022,2,Utility,TOTAL,78286836
+Uttarakhand,2022,2,P2P,TOTAL,19583241
+Uttarakhand,2022,2,Retail,TOTAL,34095311
+Uttarakhand,2022,2,Utility,TOTAL,6981950
+West Bengal,2022,2,P2P,TOTAL,135617157
+West Bengal,2022,2,Retail,TOTAL,119264274
+West Bengal,2022,2,Utility,TOTAL,43931757
+Andaman & Nicobar Islands,2022,3,P2P,TOTAL,698789
+Andaman & Nicobar Islands,2022,3,Retail,TOTAL,866124
+Andaman & Nicobar Islands,2022,3,Utility,TOTAL,312058
+Andhra Pradesh,2022,3,P2P,TOTAL,442266221
+Andhra Pradesh,2022,3,Retail,TOTAL,425082142
+Andhra Pradesh,2022,3,Utility,TOTAL,89069693
+Arunachal Pradesh,2022,3,P2P,TOTAL,3089113
+Arunachal Pradesh,2022,3,Retail,TOTAL,2127733
+Arunachal Pradesh,2022,3,Utility,TOTAL,1108609
+Assam,2022,3,P2P,TOTAL,35183163
+Assam,2022,3,Retail,TOTAL,34972826
+Assam,2022,3,Utility,TOTAL,14185524
+Bihar,2022,3,P2P,TOTAL,180096829
+Bihar,2022,3,Retail,TOTAL,172516214
+Bihar,2022,3,Utility,TOTAL,45468409
+Chandigarh,2022,3,P2P,TOTAL,2527240
+Chandigarh,2022,3,Retail,TOTAL,5882444
+Chandigarh,2022,3,Utility,TOTAL,765462
+Chhattisgarh,2022,3,P2P,TOTAL,61107108
+Chhattisgarh,2022,3,Retail,TOTAL,87352711
+Chhattisgarh,2022,3,Utility,TOTAL,20317816
+Dadra & Nagar Haveli & Daman & Diu,2022,3,P2P,TOTAL,2905787
+Dadra & Nagar Haveli & Daman & Diu,2022,3,Retail,TOTAL,5333300
+Dadra & Nagar Haveli & Daman & Diu,2022,3,Utility,TOTAL,928626
+Delhi,2022,3,P2P,TOTAL,114108021
+Delhi,2022,3,Retail,TOTAL,193226144
+Delhi,2022,3,Utility,TOTAL,28810329
+Goa,2022,3,P2P,TOTAL,6030389
+Goa,2022,3,Retail,TOTAL,10069731
+Goa,2022,3,Utility,TOTAL,1681161
+Gujarat,2022,3,P2P,TOTAL,100513268
+Gujarat,2022,3,Retail,TOTAL,157589389
+Gujarat,2022,3,Utility,TOTAL,40067690
+Haryana,2022,3,P2P,TOTAL,113184007
+Haryana,2022,3,Retail,TOTAL,182189584
+Haryana,2022,3,Utility,TOTAL,30545383
+Himachal Pradesh,2022,3,P2P,TOTAL,7859922
+Himachal Pradesh,2022,3,Retail,TOTAL,12331466
+Himachal Pradesh,2022,3,Utility,TOTAL,4191848
+Jammu & Kashmir,2022,3,P2P,TOTAL,10903528
+Jammu & Kashmir,2022,3,Retail,TOTAL,13247341
+Jammu & Kashmir,2022,3,Utility,TOTAL,6805168
+Jharkhand,2022,3,P2P,TOTAL,70952996
+Jharkhand,2022,3,Retail,TOTAL,93843062
+Jharkhand,2022,3,Utility,TOTAL,20077026
+Karnataka,2022,3,P2P,TOTAL,506236100
+Karnataka,2022,3,Retail,TOTAL,878792459
+Karnataka,2022,3,Utility,TOTAL,114818294
+Kerala,2022,3,P2P,TOTAL,42607631
+Kerala,2022,3,Retail,TOTAL,72429593
+Kerala,2022,3,Utility,TOTAL,18095993
+Ladakh,2022,3,P2P,TOTAL,1064875
+Ladakh,2022,3,Retail,TOTAL,710428
+Ladakh,2022,3,Utility,TOTAL,302983
+Lakshadweep,2022,3,P2P,TOTAL,16327
+Lakshadweep,2022,3,Retail,TOTAL,8822
+Lakshadweep,2022,3,Utility,TOTAL,9825
+Madhya Pradesh,2022,3,P2P,TOTAL,207152051
+Madhya Pradesh,2022,3,Retail,TOTAL,298169767
+Madhya Pradesh,2022,3,Utility,TOTAL,59670715
+Maharashtra,2022,3,P2P,TOTAL,478474346
+Maharashtra,2022,3,Retail,TOTAL,868371330
+Maharashtra,2022,3,Utility,TOTAL,135060465
+Manipur,2022,3,P2P,TOTAL,1481055
+Manipur,2022,3,Retail,TOTAL,837582
+Manipur,2022,3,Utility,TOTAL,657815
+Meghalaya,2022,3,P2P,TOTAL,1472843
+Meghalaya,2022,3,Retail,TOTAL,1033414
+Meghalaya,2022,3,Utility,TOTAL,718391
+Mizoram,2022,3,P2P,TOTAL,441599
+Mizoram,2022,3,Retail,TOTAL,209057
+Mizoram,2022,3,Utility,TOTAL,222267
+Nagaland,2022,3,P2P,TOTAL,1260750
+Nagaland,2022,3,Retail,TOTAL,562207
+Nagaland,2022,3,Utility,TOTAL,574188
+Odisha,2022,3,P2P,TOTAL,159103433
+Odisha,2022,3,Retail,TOTAL,183017599
+Odisha,2022,3,Utility,TOTAL,38473266
+Puducherry,2022,3,P2P,TOTAL,2958867
+Puducherry,2022,3,Retail,TOTAL,5157180
+Puducherry,2022,3,Utility,TOTAL,732350
+Punjab,2022,3,P2P,TOTAL,29796417
+Punjab,2022,3,Retail,TOTAL,43028061
+Punjab,2022,3,Utility,TOTAL,12523896
+Rajasthan,2022,3,P2P,TOTAL,289727149
+Rajasthan,2022,3,Retail,TOTAL,374499257
+Rajasthan,2022,3,Utility,TOTAL,72804376
+Sikkim,2022,3,P2P,TOTAL,1454342
+Sikkim,2022,3,Retail,TOTAL,918215
+Sikkim,2022,3,Utility,TOTAL,531908
+Tamil Nadu,2022,3,P2P,TOTAL,150895801
+Tamil Nadu,2022,3,Retail,TOTAL,206948312
+Tamil Nadu,2022,3,Utility,TOTAL,45832819
+Telangana,2022,3,P2P,TOTAL,437894151
+Telangana,2022,3,Retail,TOTAL,638075219
+Telangana,2022,3,Utility,TOTAL,85263291
+Tripura,2022,3,P2P,TOTAL,2395190
+Tripura,2022,3,Retail,TOTAL,2338359
+Tripura,2022,3,Utility,TOTAL,1080703
+Uttar Pradesh,2022,3,P2P,TOTAL,295516731
+Uttar Pradesh,2022,3,Retail,TOTAL,391962498
+Uttar Pradesh,2022,3,Utility,TOTAL,88282275
+Uttarakhand,2022,3,P2P,TOTAL,21811880
+Uttarakhand,2022,3,Retail,TOTAL,38433164
+Uttarakhand,2022,3,Utility,TOTAL,7764248
+West Bengal,2022,3,P2P,TOTAL,164053490
+West Bengal,2022,3,Retail,TOTAL,147555161
+West Bengal,2022,3,Utility,TOTAL,52520673
+Andaman & Nicobar Islands,2022,4,P2P,TOTAL,822471
+Andaman & Nicobar Islands,2022,4,Retail,TOTAL,1130336
+Andaman & Nicobar Islands,2022,4,Utility,TOTAL,310348
+Andhra Pradesh,2022,4,P2P,TOTAL,470505491
+Andhra Pradesh,2022,4,Retail,TOTAL,468020065
+Andhra Pradesh,2022,4,Utility,TOTAL,91912723
+Arunachal Pradesh,2022,4,P2P,TOTAL,3542488
+Arunachal Pradesh,2022,4,Retail,TOTAL,2753357
+Arunachal Pradesh,2022,4,Utility,TOTAL,1178436
+Assam,2022,4,P2P,TOTAL,40692233
+Assam,2022,4,Retail,TOTAL,41152378
+Assam,2022,4,Utility,TOTAL,15240015
+Bihar,2022,4,P2P,TOTAL,211334089
+Bihar,2022,4,Retail,TOTAL,219181745
+Bihar,2022,4,Utility,TOTAL,48045808
+Chandigarh,2022,4,P2P,TOTAL,2607319
+Chandigarh,2022,4,Retail,TOTAL,6381514
+Chandigarh,2022,4,Utility,TOTAL,755871
+Chhattisgarh,2022,4,P2P,TOTAL,69413479
+Chhattisgarh,2022,4,Retail,TOTAL,102175844
+Chhattisgarh,2022,4,Utility,TOTAL,21052451
+Dadra & Nagar Haveli & Daman & Diu,2022,4,P2P,TOTAL,3196176
+Dadra & Nagar Haveli & Daman & Diu,2022,4,Retail,TOTAL,6545310
+Dadra & Nagar Haveli & Daman & Diu,2022,4,Utility,TOTAL,926056
+Delhi,2022,4,P2P,TOTAL,121689844
+Delhi,2022,4,Retail,TOTAL,213906227
+Delhi,2022,4,Utility,TOTAL,29427236
+Goa,2022,4,P2P,TOTAL,7786510
+Goa,2022,4,Retail,TOTAL,13577360
+Goa,2022,4,Utility,TOTAL,1856794
+Gujarat,2022,4,P2P,TOTAL,108856133
+Gujarat,2022,4,Retail,TOTAL,179290320
+Gujarat,2022,4,Utility,TOTAL,40928065
+Haryana,2022,4,P2P,TOTAL,117778439
+Haryana,2022,4,Retail,TOTAL,197287674
+Haryana,2022,4,Utility,TOTAL,31355451
+Himachal Pradesh,2022,4,P2P,TOTAL,8530434
+Himachal Pradesh,2022,4,Retail,TOTAL,15080061
+Himachal Pradesh,2022,4,Utility,TOTAL,3996602
+Jammu & Kashmir,2022,4,P2P,TOTAL,11572484
+Jammu & Kashmir,2022,4,Retail,TOTAL,18526673
+Jammu & Kashmir,2022,4,Utility,TOTAL,7329984
+Jharkhand,2022,4,P2P,TOTAL,80680000
+Jharkhand,2022,4,Retail,TOTAL,112033002
+Jharkhand,2022,4,Utility,TOTAL,20742620
+Karnataka,2022,4,P2P,TOTAL,542356761
+Karnataka,2022,4,Retail,TOTAL,973811552
+Karnataka,2022,4,Utility,TOTAL,120746351
+Kerala,2022,4,P2P,TOTAL,45561057
+Kerala,2022,4,Retail,TOTAL,81180394
+Kerala,2022,4,Utility,TOTAL,18411745
+Ladakh,2022,4,P2P,TOTAL,900940
+Ladakh,2022,4,Retail,TOTAL,773705
+Ladakh,2022,4,Utility,TOTAL,262043
+Lakshadweep,2022,4,P2P,TOTAL,17973
+Lakshadweep,2022,4,Retail,TOTAL,8933
+Lakshadweep,2022,4,Utility,TOTAL,10108
+Madhya Pradesh,2022,4,P2P,TOTAL,232104827
+Madhya Pradesh,2022,4,Retail,TOTAL,346579011
+Madhya Pradesh,2022,4,Utility,TOTAL,61984859
+Maharashtra,2022,4,P2P,TOTAL,521994075
+Maharashtra,2022,4,Retail,TOTAL,998769959
+Maharashtra,2022,4,Utility,TOTAL,138571543
+Manipur,2022,4,P2P,TOTAL,1609813
+Manipur,2022,4,Retail,TOTAL,928790
+Manipur,2022,4,Utility,TOTAL,678547
+Meghalaya,2022,4,P2P,TOTAL,1725693
+Meghalaya,2022,4,Retail,TOTAL,1152974
+Meghalaya,2022,4,Utility,TOTAL,747069
+Mizoram,2022,4,P2P,TOTAL,527741
+Mizoram,2022,4,Retail,TOTAL,261186
+Mizoram,2022,4,Utility,TOTAL,229803
+Nagaland,2022,4,P2P,TOTAL,1392790
+Nagaland,2022,4,Retail,TOTAL,603869
+Nagaland,2022,4,Utility,TOTAL,583848
+Odisha,2022,4,P2P,TOTAL,178318278
+Odisha,2022,4,Retail,TOTAL,208414479
+Odisha,2022,4,Utility,TOTAL,39048175
+Puducherry,2022,4,P2P,TOTAL,3142120
+Puducherry,2022,4,Retail,TOTAL,5863846
+Puducherry,2022,4,Utility,TOTAL,742089
+Punjab,2022,4,P2P,TOTAL,32553199
+Punjab,2022,4,Retail,TOTAL,49331250
+Punjab,2022,4,Utility,TOTAL,12821570
+Rajasthan,2022,4,P2P,TOTAL,317940780
+Rajasthan,2022,4,Retail,TOTAL,426355884
+Rajasthan,2022,4,Utility,TOTAL,76699563
+Sikkim,2022,4,P2P,TOTAL,1598547
+Sikkim,2022,4,Retail,TOTAL,1044864
+Sikkim,2022,4,Utility,TOTAL,549517
+Tamil Nadu,2022,4,P2P,TOTAL,160182520
+Tamil Nadu,2022,4,Retail,TOTAL,227776260
+Tamil Nadu,2022,4,Utility,TOTAL,47329274
+Telangana,2022,4,P2P,TOTAL,483151075
+Telangana,2022,4,Retail,TOTAL,727397449
+Telangana,2022,4,Utility,TOTAL,88183985
+Tripura,2022,4,P2P,TOTAL,2557126
+Tripura,2022,4,Retail,TOTAL,2695646
+Tripura,2022,4,Utility,TOTAL,1108002
+Uttar Pradesh,2022,4,P2P,TOTAL,337143421
+Uttar Pradesh,2022,4,Retail,TOTAL,459462505
+Uttar Pradesh,2022,4,Utility,TOTAL,93491829
+Uttarakhand,2022,4,P2P,TOTAL,23524459
+Uttarakhand,2022,4,Retail,TOTAL,43930404
+Uttarakhand,2022,4,Utility,TOTAL,7847037
+West Bengal,2022,4,P2P,TOTAL,177653143
+West Bengal,2022,4,Retail,TOTAL,168668806
+West Bengal,2022,4,Utility,TOTAL,54136987
+Andaman & Nicobar Islands,2023,1,P2P,TOTAL,882980
+Andaman & Nicobar Islands,2023,1,Retail,TOTAL,1254352
+Andaman & Nicobar Islands,2023,1,Utility,TOTAL,312565
+Andhra Pradesh,2023,1,P2P,TOTAL,515228601
+Andhra Pradesh,2023,1,Retail,TOTAL,526737073
+Andhra Pradesh,2023,1,Utility,TOTAL,96759239
+Arunachal Pradesh,2023,1,P2P,TOTAL,3962069
+Arunachal Pradesh,2023,1,Retail,TOTAL,3193883
+Arunachal Pradesh,2023,1,Utility,TOTAL,1260713
+Assam,2023,1,P2P,TOTAL,48450507
+Assam,2023,1,Retail,TOTAL,49721049
+Assam,2023,1,Utility,TOTAL,17044791
+Bihar,2023,1,P2P,TOTAL,245637029
+Bihar,2023,1,Retail,TOTAL,256728191
+Bihar,2023,1,Utility,TOTAL,54933265
+Chandigarh,2023,1,P2P,TOTAL,2723528
+Chandigarh,2023,1,Retail,TOTAL,6679868
+Chandigarh,2023,1,Utility,TOTAL,779399
+Chhattisgarh,2023,1,P2P,TOTAL,76789266
+Chhattisgarh,2023,1,Retail,TOTAL,113977816
+Chhattisgarh,2023,1,Utility,TOTAL,23918375
+Dadra & Nagar Haveli & Daman & Diu,2023,1,P2P,TOTAL,3455321
+Dadra & Nagar Haveli & Daman & Diu,2023,1,Retail,TOTAL,7186722
+Dadra & Nagar Haveli & Daman & Diu,2023,1,Utility,TOTAL,985895
+Delhi,2023,1,P2P,TOTAL,134544771
+Delhi,2023,1,Retail,TOTAL,241528649
+Delhi,2023,1,Utility,TOTAL,32210985
+Goa,2023,1,P2P,TOTAL,8076526
+Goa,2023,1,Retail,TOTAL,14541027
+Goa,2023,1,Utility,TOTAL,1908727
+Gujarat,2023,1,P2P,TOTAL,121055664
+Gujarat,2023,1,Retail,TOTAL,204120466
+Gujarat,2023,1,Utility,TOTAL,43825872
+Haryana,2023,1,P2P,TOTAL,128988482
+Haryana,2023,1,Retail,TOTAL,219069526
+Haryana,2023,1,Utility,TOTAL,34370284
+Himachal Pradesh,2023,1,P2P,TOTAL,8712826
+Himachal Pradesh,2023,1,Retail,TOTAL,15826198
+Himachal Pradesh,2023,1,Utility,TOTAL,4052173
+Jammu & Kashmir,2023,1,P2P,TOTAL,12550695
+Jammu & Kashmir,2023,1,Retail,TOTAL,21801222
+Jammu & Kashmir,2023,1,Utility,TOTAL,7886467
+Jharkhand,2023,1,P2P,TOTAL,92176742
+Jharkhand,2023,1,Retail,TOTAL,127450739
+Jharkhand,2023,1,Utility,TOTAL,23350115
+Karnataka,2023,1,P2P,TOTAL,596684637
+Karnataka,2023,1,Retail,TOTAL,1108594530
+Karnataka,2023,1,Utility,TOTAL,126994552
+Kerala,2023,1,P2P,TOTAL,46092010
+Kerala,2023,1,Retail,TOTAL,85084073
+Kerala,2023,1,Utility,TOTAL,17588686
+Ladakh,2023,1,P2P,TOTAL,840723
+Ladakh,2023,1,Retail,TOTAL,794686
+Ladakh,2023,1,Utility,TOTAL,247516
+Lakshadweep,2023,1,P2P,TOTAL,20840
+Lakshadweep,2023,1,Retail,TOTAL,11319
+Lakshadweep,2023,1,Utility,TOTAL,11361
+Madhya Pradesh,2023,1,P2P,TOTAL,263468166
+Madhya Pradesh,2023,1,Retail,TOTAL,395551751
+Madhya Pradesh,2023,1,Utility,TOTAL,71618700
+Maharashtra,2023,1,P2P,TOTAL,572302736
+Maharashtra,2023,1,Retail,TOTAL,1121600766
+Maharashtra,2023,1,Utility,TOTAL,149306143
+Manipur,2023,1,P2P,TOTAL,1714135
+Manipur,2023,1,Retail,TOTAL,1073657
+Manipur,2023,1,Utility,TOTAL,647485
+Meghalaya,2023,1,P2P,TOTAL,2010002
+Meghalaya,2023,1,Retail,TOTAL,1323801
+Meghalaya,2023,1,Utility,TOTAL,837947
+Mizoram,2023,1,P2P,TOTAL,601454
+Mizoram,2023,1,Retail,TOTAL,276865
+Mizoram,2023,1,Utility,TOTAL,238353
+Nagaland,2023,1,P2P,TOTAL,1539803
+Nagaland,2023,1,Retail,TOTAL,680677
+Nagaland,2023,1,Utility,TOTAL,613668
+Odisha,2023,1,P2P,TOTAL,198718809
+Odisha,2023,1,Retail,TOTAL,237800370
+Odisha,2023,1,Utility,TOTAL,43529534
+Puducherry,2023,1,P2P,TOTAL,3258866
+Puducherry,2023,1,Retail,TOTAL,6224977
+Puducherry,2023,1,Utility,TOTAL,733646
+Punjab,2023,1,P2P,TOTAL,33559001
+Punjab,2023,1,Retail,TOTAL,51451166
+Punjab,2023,1,Utility,TOTAL,13143670
+Rajasthan,2023,1,P2P,TOTAL,353143283
+Rajasthan,2023,1,Retail,TOTAL,478301186
+Rajasthan,2023,1,Utility,TOTAL,87654297
+Sikkim,2023,1,P2P,TOTAL,1725226
+Sikkim,2023,1,Retail,TOTAL,1136164
+Sikkim,2023,1,Utility,TOTAL,540109
+Tamil Nadu,2023,1,P2P,TOTAL,169078610
+Tamil Nadu,2023,1,Retail,TOTAL,252046397
+Tamil Nadu,2023,1,Utility,TOTAL,46919825
+Telangana,2023,1,P2P,TOTAL,522531494
+Telangana,2023,1,Retail,TOTAL,807980480
+Telangana,2023,1,Utility,TOTAL,94109699
+Tripura,2023,1,P2P,TOTAL,3052408
+Tripura,2023,1,Retail,TOTAL,3266101
+Tripura,2023,1,Utility,TOTAL,1246464
+Uttar Pradesh,2023,1,P2P,TOTAL,384567010
+Uttar Pradesh,2023,1,Retail,TOTAL,521134716
+Uttar Pradesh,2023,1,Utility,TOTAL,105358613
+Uttarakhand,2023,1,P2P,TOTAL,25042420
+Uttarakhand,2023,1,Retail,TOTAL,46907377
+Uttarakhand,2023,1,Utility,TOTAL,8366841
+West Bengal,2023,1,P2P,TOTAL,209283878
+West Bengal,2023,1,Retail,TOTAL,200591201
+West Bengal,2023,1,Utility,TOTAL,59058589
+Andaman & Nicobar Islands,2023,2,P2P,TOTAL,997058
+Andaman & Nicobar Islands,2023,2,Retail,TOTAL,1593082
+Andaman & Nicobar Islands,2023,2,Utility,TOTAL,349028
+Andhra Pradesh,2023,2,P2P,TOTAL,573773696
+Andhra Pradesh,2023,2,Retail,TOTAL,613447829
+Andhra Pradesh,2023,2,Utility,TOTAL,107815790
+Arunachal Pradesh,2023,2,P2P,TOTAL,4985211
+Arunachal Pradesh,2023,2,Retail,TOTAL,4518172
+Arunachal Pradesh,2023,2,Utility,TOTAL,1413721
+Assam,2023,2,P2P,TOTAL,57867509
+Assam,2023,2,Retail,TOTAL,62198937
+Assam,2023,2,Utility,TOTAL,19532756
+Bihar,2023,2,P2P,TOTAL,293573878
+Bihar,2023,2,Retail,TOTAL,339365938
+Bihar,2023,2,Utility,TOTAL,65606677
+Chandigarh,2023,2,P2P,TOTAL,3155761
+Chandigarh,2023,2,Retail,TOTAL,8001836
+Chandigarh,2023,2,Utility,TOTAL,845048
+Chhattisgarh,2023,2,P2P,TOTAL,86943045
+Chhattisgarh,2023,2,Retail,TOTAL,136171929
+Chhattisgarh,2023,2,Utility,TOTAL,27053139
+Dadra & Nagar Haveli & Daman & Diu,2023,2,P2P,TOTAL,3776627
+Dadra & Nagar Haveli & Daman & Diu,2023,2,Retail,TOTAL,8303022
+Dadra & Nagar Haveli & Daman & Diu,2023,2,Utility,TOTAL,1059690
+Delhi,2023,2,P2P,TOTAL,150932258
+Delhi,2023,2,Retail,TOTAL,293401714
+Delhi,2023,2,Utility,TOTAL,35543813
+Goa,2023,2,P2P,TOTAL,8592814
+Goa,2023,2,Retail,TOTAL,16228200
+Goa,2023,2,Utility,TOTAL,2043786
+Gujarat,2023,2,P2P,TOTAL,132213776
+Gujarat,2023,2,Retail,TOTAL,245264196
+Gujarat,2023,2,Utility,TOTAL,47973734
+Haryana,2023,2,P2P,TOTAL,147501959
+Haryana,2023,2,Retail,TOTAL,273061935
+Haryana,2023,2,Utility,TOTAL,37873831
+Himachal Pradesh,2023,2,P2P,TOTAL,10883052
+Himachal Pradesh,2023,2,Retail,TOTAL,21622495
+Himachal Pradesh,2023,2,Utility,TOTAL,4460264
+Jammu & Kashmir,2023,2,P2P,TOTAL,18040047
+Jammu & Kashmir,2023,2,Retail,TOTAL,31290114
+Jammu & Kashmir,2023,2,Utility,TOTAL,9735287
+Jharkhand,2023,2,P2P,TOTAL,107804978
+Jharkhand,2023,2,Retail,TOTAL,157909691
+Jharkhand,2023,2,Utility,TOTAL,26784523
+Karnataka,2023,2,P2P,TOTAL,655266669
+Karnataka,2023,2,Retail,TOTAL,1254350536
+Karnataka,2023,2,Utility,TOTAL,143163466
+Kerala,2023,2,P2P,TOTAL,48079475
+Kerala,2023,2,Retail,TOTAL,90888495
+Kerala,2023,2,Utility,TOTAL,18893067
+Ladakh,2023,2,P2P,TOTAL,1534520
+Ladakh,2023,2,Retail,TOTAL,1437079
+Ladakh,2023,2,Utility,TOTAL,424429
+Lakshadweep,2023,2,P2P,TOTAL,22867
+Lakshadweep,2023,2,Retail,TOTAL,15989
+Lakshadweep,2023,2,Utility,TOTAL,11701
+Madhya Pradesh,2023,2,P2P,TOTAL,294078080
+Madhya Pradesh,2023,2,Retail,TOTAL,468684552
+Madhya Pradesh,2023,2,Utility,TOTAL,81019878
+Maharashtra,2023,2,P2P,TOTAL,620451894
+Maharashtra,2023,2,Retail,TOTAL,1273343788
+Maharashtra,2023,2,Utility,TOTAL,164636686
+Manipur,2023,2,P2P,TOTAL,815435
+Manipur,2023,2,Retail,TOTAL,585926
+Manipur,2023,2,Utility,TOTAL,298692
+Meghalaya,2023,2,P2P,TOTAL,2376705
+Meghalaya,2023,2,Retail,TOTAL,1830555
+Meghalaya,2023,2,Utility,TOTAL,896548
+Mizoram,2023,2,P2P,TOTAL,679572
+Mizoram,2023,2,Retail,TOTAL,358005
+Mizoram,2023,2,Utility,TOTAL,248570
+Nagaland,2023,2,P2P,TOTAL,1655450
+Nagaland,2023,2,Retail,TOTAL,838501
+Nagaland,2023,2,Utility,TOTAL,597510
+Odisha,2023,2,P2P,TOTAL,217465779
+Odisha,2023,2,Retail,TOTAL,275129628
+Odisha,2023,2,Utility,TOTAL,47971872
+Puducherry,2023,2,P2P,TOTAL,3459724
+Puducherry,2023,2,Retail,TOTAL,6931355
+Puducherry,2023,2,Utility,TOTAL,802559
+Punjab,2023,2,P2P,TOTAL,39137930
+Punjab,2023,2,Retail,TOTAL,65508285
+Punjab,2023,2,Utility,TOTAL,14366193
+Rajasthan,2023,2,P2P,TOTAL,389689144
+Rajasthan,2023,2,Retail,TOTAL,586137559
+Rajasthan,2023,2,Utility,TOTAL,97266041
+Sikkim,2023,2,P2P,TOTAL,2144313
+Sikkim,2023,2,Retail,TOTAL,1696647
+Sikkim,2023,2,Utility,TOTAL,596642
+Tamil Nadu,2023,2,P2P,TOTAL,180963627
+Tamil Nadu,2023,2,Retail,TOTAL,271653945
+Tamil Nadu,2023,2,Utility,TOTAL,51542857
+Telangana,2023,2,P2P,TOTAL,592921662
+Telangana,2023,2,Retail,TOTAL,945635928
+Telangana,2023,2,Utility,TOTAL,105486872
+Tripura,2023,2,P2P,TOTAL,3251151
+Tripura,2023,2,Retail,TOTAL,3992703
+Tripura,2023,2,Utility,TOTAL,1274385
+Uttar Pradesh,2023,2,P2P,TOTAL,447701272
+Uttar Pradesh,2023,2,Retail,TOTAL,651507954
+Uttar Pradesh,2023,2,Utility,TOTAL,121634782
+Uttarakhand,2023,2,P2P,TOTAL,31621034
+Uttarakhand,2023,2,Retail,TOTAL,62644014
+Uttarakhand,2023,2,Utility,TOTAL,9854273
+West Bengal,2023,2,P2P,TOTAL,240193606
+West Bengal,2023,2,Retail,TOTAL,249804214
+West Bengal,2023,2,Utility,TOTAL,67203833
+Andaman & Nicobar Islands,2023,3,P2P,TOTAL,1138133
+Andaman & Nicobar Islands,2023,3,Retail,TOTAL,1795799
+Andaman & Nicobar Islands,2023,3,Utility,TOTAL,360081
+Andhra Pradesh,2023,3,P2P,TOTAL,623522468
+Andhra Pradesh,2023,3,Retail,TOTAL,730559498
+Andhra Pradesh,2023,3,Utility,TOTAL,113563012
+Arunachal Pradesh,2023,3,P2P,TOTAL,6019719
+Arunachal Pradesh,2023,3,Retail,TOTAL,5692334
+Arunachal Pradesh,2023,3,Utility,TOTAL,1515279
+Assam,2023,3,P2P,TOTAL,66738687
+Assam,2023,3,Retail,TOTAL,80789947
+Assam,2023,3,Utility,TOTAL,20749479
+Bihar,2023,3,P2P,TOTAL,311733910
+Bihar,2023,3,Retail,TOTAL,364225692
+Bihar,2023,3,Utility,TOTAL,68033312
+Chandigarh,2023,3,P2P,TOTAL,3525766
+Chandigarh,2023,3,Retail,TOTAL,9100188
+Chandigarh,2023,3,Utility,TOTAL,888688
+Chhattisgarh,2023,3,P2P,TOTAL,97126941
+Chhattisgarh,2023,3,Retail,TOTAL,158512662
+Chhattisgarh,2023,3,Utility,TOTAL,27931179
+Dadra & Nagar Haveli & Daman & Diu,2023,3,P2P,TOTAL,4410140
+Dadra & Nagar Haveli & Daman & Diu,2023,3,Retail,TOTAL,9373489
+Dadra & Nagar Haveli & Daman & Diu,2023,3,Utility,TOTAL,1162740
+Delhi,2023,3,P2P,TOTAL,166704530
+Delhi,2023,3,Retail,TOTAL,339588954
+Delhi,2023,3,Utility,TOTAL,38169781
+Goa,2023,3,P2P,TOTAL,8489626
+Goa,2023,3,Retail,TOTAL,16701945
+Goa,2023,3,Utility,TOTAL,2057103
+Gujarat,2023,3,P2P,TOTAL,151993907
+Gujarat,2023,3,Retail,TOTAL,282686065
+Gujarat,2023,3,Utility,TOTAL,50932042
+Haryana,2023,3,P2P,TOTAL,156895804
+Haryana,2023,3,Retail,TOTAL,306428250
+Haryana,2023,3,Utility,TOTAL,38692273
+Himachal Pradesh,2023,3,P2P,TOTAL,10089367
+Himachal Pradesh,2023,3,Retail,TOTAL,20360373
+Himachal Pradesh,2023,3,Utility,TOTAL,4275412
+Jammu & Kashmir,2023,3,P2P,TOTAL,20679778
+Jammu & Kashmir,2023,3,Retail,TOTAL,35773150
+Jammu & Kashmir,2023,3,Utility,TOTAL,11048892
+Jharkhand,2023,3,P2P,TOTAL,116600180
+Jharkhand,2023,3,Retail,TOTAL,177337898
+Jharkhand,2023,3,Utility,TOTAL,27164590
+Karnataka,2023,3,P2P,TOTAL,733654998
+Karnataka,2023,3,Retail,TOTAL,1474542255
+Karnataka,2023,3,Utility,TOTAL,149411413
+Kerala,2023,3,P2P,TOTAL,51776040
+Kerala,2023,3,Retail,TOTAL,100655472
+Kerala,2023,3,Utility,TOTAL,19155551
+Ladakh,2023,3,P2P,TOTAL,1856334
+Ladakh,2023,3,Retail,TOTAL,1693969
+Ladakh,2023,3,Utility,TOTAL,515323
+Lakshadweep,2023,3,P2P,TOTAL,26919
+Lakshadweep,2023,3,Retail,TOTAL,22701
+Lakshadweep,2023,3,Utility,TOTAL,12070
+Madhya Pradesh,2023,3,P2P,TOTAL,333168847
+Madhya Pradesh,2023,3,Retail,TOTAL,555828663
+Madhya Pradesh,2023,3,Utility,TOTAL,85637152
+Maharashtra,2023,3,P2P,TOTAL,688980001
+Maharashtra,2023,3,Retail,TOTAL,1427891144
+Maharashtra,2023,3,Utility,TOTAL,171877423
+Manipur,2023,3,P2P,TOTAL,450302
+Manipur,2023,3,Retail,TOTAL,250465
+Manipur,2023,3,Utility,TOTAL,203970
+Meghalaya,2023,3,P2P,TOTAL,2778556
+Meghalaya,2023,3,Retail,TOTAL,2204934
+Meghalaya,2023,3,Utility,TOTAL,944086
+Mizoram,2023,3,P2P,TOTAL,734614
+Mizoram,2023,3,Retail,TOTAL,389679
+Mizoram,2023,3,Utility,TOTAL,246931
+Nagaland,2023,3,P2P,TOTAL,1932631
+Nagaland,2023,3,Retail,TOTAL,1024556
+Nagaland,2023,3,Utility,TOTAL,624443
+Odisha,2023,3,P2P,TOTAL,239483197
+Odisha,2023,3,Retail,TOTAL,331120980
+Odisha,2023,3,Utility,TOTAL,50250704
+Puducherry,2023,3,P2P,TOTAL,3709860
+Puducherry,2023,3,Retail,TOTAL,7920199
+Puducherry,2023,3,Utility,TOTAL,834650
+Punjab,2023,3,P2P,TOTAL,43206798
+Punjab,2023,3,Retail,TOTAL,74686189
+Punjab,2023,3,Utility,TOTAL,14957827
+Rajasthan,2023,3,P2P,TOTAL,438636047
+Rajasthan,2023,3,Retail,TOTAL,696907330
+Rajasthan,2023,3,Utility,TOTAL,101501052
+Sikkim,2023,3,P2P,TOTAL,2132175
+Sikkim,2023,3,Retail,TOTAL,2004746
+Sikkim,2023,3,Utility,TOTAL,603240
+Tamil Nadu,2023,3,P2P,TOTAL,198443890
+Tamil Nadu,2023,3,Retail,TOTAL,307301051
+Tamil Nadu,2023,3,Utility,TOTAL,52970605
+Telangana,2023,3,P2P,TOTAL,646881028
+Telangana,2023,3,Retail,TOTAL,1103013563
+Telangana,2023,3,Utility,TOTAL,111964832
+Tripura,2023,3,P2P,TOTAL,3675914
+Tripura,2023,3,Retail,TOTAL,4601060
+Tripura,2023,3,Utility,TOTAL,1354567
+Uttar Pradesh,2023,3,P2P,TOTAL,489387714
+Uttar Pradesh,2023,3,Retail,TOTAL,747622088
+Uttar Pradesh,2023,3,Utility,TOTAL,124423634
+Uttarakhand,2023,3,P2P,TOTAL,32160873
+Uttarakhand,2023,3,Retail,TOTAL,64961081
+Uttarakhand,2023,3,Utility,TOTAL,9662996
+West Bengal,2023,3,P2P,TOTAL,270924969
+West Bengal,2023,3,Retail,TOTAL,298345848
+West Bengal,2023,3,Utility,TOTAL,72883447
+Andaman & Nicobar Islands,2023,4,P2P,TOTAL,1353803
+Andaman & Nicobar Islands,2023,4,Retail,TOTAL,2204624
+Andaman & Nicobar Islands,2023,4,Utility,TOTAL,362786
+Andhra Pradesh,2023,4,P2P,TOTAL,673686762
+Andhra Pradesh,2023,4,Retail,TOTAL,800499764
+Andhra Pradesh,2023,4,Utility,TOTAL,114111280
+Arunachal Pradesh,2023,4,P2P,TOTAL,6810909
+Arunachal Pradesh,2023,4,Retail,TOTAL,6707771
+Arunachal Pradesh,2023,4,Utility,TOTAL,1565683
+Assam,2023,4,P2P,TOTAL,79931097
+Assam,2023,4,Retail,TOTAL,93896583
+Assam,2023,4,Utility,TOTAL,20524429
+Bihar,2023,4,P2P,TOTAL,394950650
+Bihar,2023,4,Retail,TOTAL,471333078
+Bihar,2023,4,Utility,TOTAL,73025892
+Chandigarh,2023,4,P2P,TOTAL,3600977
+Chandigarh,2023,4,Retail,TOTAL,9344696
+Chandigarh,2023,4,Utility,TOTAL,839308
+Chhattisgarh,2023,4,P2P,TOTAL,110933299
+Chhattisgarh,2023,4,Retail,TOTAL,183166600
+Chhattisgarh,2023,4,Utility,TOTAL,28461939
+Dadra & Nagar Haveli & Daman & Diu,2023,4,P2P,TOTAL,5097316
+Dadra & Nagar Haveli & Daman & Diu,2023,4,Retail,TOTAL,11546558
+Dadra & Nagar Haveli & Daman & Diu,2023,4,Utility,TOTAL,1206838
+Delhi,2023,4,P2P,TOTAL,184185421
+Delhi,2023,4,Retail,TOTAL,373762989
+Delhi,2023,4,Utility,TOTAL,38030327
+Goa,2023,4,P2P,TOTAL,10436608
+Goa,2023,4,Retail,TOTAL,21043935
+Goa,2023,4,Utility,TOTAL,2163377
+Gujarat,2023,4,P2P,TOTAL,167346113
+Gujarat,2023,4,Retail,TOTAL,323807182
+Gujarat,2023,4,Utility,TOTAL,51225825
+Haryana,2023,4,P2P,TOTAL,175660164
+Haryana,2023,4,Retail,TOTAL,339854772
+Haryana,2023,4,Utility,TOTAL,40280339
+Himachal Pradesh,2023,4,P2P,TOTAL,11483554
+Himachal Pradesh,2023,4,Retail,TOTAL,25051506
+Himachal Pradesh,2023,4,Utility,TOTAL,4080214
+Jammu & Kashmir,2023,4,P2P,TOTAL,21009113
+Jammu & Kashmir,2023,4,Retail,TOTAL,41933534
+Jammu & Kashmir,2023,4,Utility,TOTAL,10731946
+Jharkhand,2023,4,P2P,TOTAL,139481501
+Jharkhand,2023,4,Retail,TOTAL,211872201
+Jharkhand,2023,4,Utility,TOTAL,28030186
+Karnataka,2023,4,P2P,TOTAL,796720335
+Karnataka,2023,4,Retail,TOTAL,1599837426
+Karnataka,2023,4,Utility,TOTAL,153913609
+Kerala,2023,4,P2P,TOTAL,54727019
+Kerala,2023,4,Retail,TOTAL,108215077
+Kerala,2023,4,Utility,TOTAL,18228626
+Ladakh,2023,4,P2P,TOTAL,1495868
+Ladakh,2023,4,Retail,TOTAL,1624260
+Ladakh,2023,4,Utility,TOTAL,403359
+Lakshadweep,2023,4,P2P,TOTAL,36239
+Lakshadweep,2023,4,Retail,TOTAL,46222
+Lakshadweep,2023,4,Utility,TOTAL,14053
+Madhya Pradesh,2023,4,P2P,TOTAL,373938153
+Madhya Pradesh,2023,4,Retail,TOTAL,636732492
+Madhya Pradesh,2023,4,Utility,TOTAL,88108658
+Maharashtra,2023,4,P2P,TOTAL,767862734
+Maharashtra,2023,4,Retail,TOTAL,1627859322
+Maharashtra,2023,4,Utility,TOTAL,172844886
+Manipur,2023,4,P2P,TOTAL,1100791
+Manipur,2023,4,Retail,TOTAL,688632
+Manipur,2023,4,Utility,TOTAL,414045
+Meghalaya,2023,4,P2P,TOTAL,3410871
+Meghalaya,2023,4,Retail,TOTAL,2726364
+Meghalaya,2023,4,Utility,TOTAL,982808
+Mizoram,2023,4,P2P,TOTAL,819882
+Mizoram,2023,4,Retail,TOTAL,511251
+Mizoram,2023,4,Utility,TOTAL,245116
+Nagaland,2023,4,P2P,TOTAL,2151924
+Nagaland,2023,4,Retail,TOTAL,1196265
+Nagaland,2023,4,Utility,TOTAL,605199
+Odisha,2023,4,P2P,TOTAL,283368515
+Odisha,2023,4,Retail,TOTAL,394216870
+Odisha,2023,4,Utility,TOTAL,52426671
+Puducherry,2023,4,P2P,TOTAL,3866931
+Puducherry,2023,4,Retail,TOTAL,8377582
+Puducherry,2023,4,Utility,TOTAL,830139
+Punjab,2023,4,P2P,TOTAL,47207197
+Punjab,2023,4,Retail,TOTAL,81488251
+Punjab,2023,4,Utility,TOTAL,14745378
+Rajasthan,2023,4,P2P,TOTAL,484389540
+Rajasthan,2023,4,Retail,TOTAL,760169113
+Rajasthan,2023,4,Utility,TOTAL,106407366
+Sikkim,2023,4,P2P,TOTAL,2130107
+Sikkim,2023,4,Retail,TOTAL,2139471
+Sikkim,2023,4,Utility,TOTAL,572923
+Tamil Nadu,2023,4,P2P,TOTAL,208447240
+Tamil Nadu,2023,4,Retail,TOTAL,336363862
+Tamil Nadu,2023,4,Utility,TOTAL,53010030
+Telangana,2023,4,P2P,TOTAL,695650059
+Telangana,2023,4,Retail,TOTAL,1197673180
+Telangana,2023,4,Utility,TOTAL,112690584
+Tripura,2023,4,P2P,TOTAL,3991339
+Tripura,2023,4,Retail,TOTAL,5363050
+Tripura,2023,4,Utility,TOTAL,1353229
+Uttar Pradesh,2023,4,P2P,TOTAL,576483752
+Uttar Pradesh,2023,4,Retail,TOTAL,869392341
+Uttar Pradesh,2023,4,Utility,TOTAL,131389408
+Uttarakhand,2023,4,P2P,TOTAL,36002854
+Uttarakhand,2023,4,Retail,TOTAL,73541105
+Uttarakhand,2023,4,Utility,TOTAL,9563661
+West Bengal,2023,4,P2P,TOTAL,317862227
+West Bengal,2023,4,Retail,TOTAL,354140336
+West Bengal,2023,4,Utility,TOTAL,75785796
+Andaman & Nicobar Islands,2024,1,P2P,TOTAL,1467728
+Andaman & Nicobar Islands,2024,1,Retail,TOTAL,2483253
+Andaman & Nicobar Islands,2024,1,Utility,TOTAL,377365
+Andhra Pradesh,2024,1,P2P,TOTAL,722183330
+Andhra Pradesh,2024,1,Retail,TOTAL,907194749
+Andhra Pradesh,2024,1,Utility,TOTAL,120349511
+Arunachal Pradesh,2024,1,P2P,TOTAL,7377899
+Arunachal Pradesh,2024,1,Retail,TOTAL,7729487
+Arunachal Pradesh,2024,1,Utility,TOTAL,1761139
+Assam,2024,1,P2P,TOTAL,91156112
+Assam,2024,1,Retail,TOTAL,108690485
+Assam,2024,1,Utility,TOTAL,22782397
+Bihar,2024,1,P2P,TOTAL,455919236
+Bihar,2024,1,Retail,TOTAL,544022949
+Bihar,2024,1,Utility,TOTAL,86165652
+Chandigarh,2024,1,P2P,TOTAL,3544955
+Chandigarh,2024,1,Retail,TOTAL,9276490
+Chandigarh,2024,1,Utility,TOTAL,845616
+Chhattisgarh,2024,1,P2P,TOTAL,124650369
+Chhattisgarh,2024,1,Retail,TOTAL,209330663
+Chhattisgarh,2024,1,Utility,TOTAL,32670030
+Dadra & Nagar Haveli & Daman & Diu,2024,1,P2P,TOTAL,5816338
+Dadra & Nagar Haveli & Daman & Diu,2024,1,Retail,TOTAL,13145056
+Dadra & Nagar Haveli & Daman & Diu,2024,1,Utility,TOTAL,1392162
+Delhi,2024,1,P2P,TOTAL,196018058
+Delhi,2024,1,Retail,TOTAL,411667423
+Delhi,2024,1,Utility,TOTAL,41003547
+Goa,2024,1,P2P,TOTAL,10733878
+Goa,2024,1,Retail,TOTAL,22126561
+Goa,2024,1,Utility,TOTAL,2285672
+Gujarat,2024,1,P2P,TOTAL,188201304
+Gujarat,2024,1,Retail,TOTAL,369258483
+Gujarat,2024,1,Utility,TOTAL,56638527
+Haryana,2024,1,P2P,TOTAL,188138732
+Haryana,2024,1,Retail,TOTAL,373122494
+Haryana,2024,1,Utility,TOTAL,44836765
+Himachal Pradesh,2024,1,P2P,TOTAL,11816852
+Himachal Pradesh,2024,1,Retail,TOTAL,24834607
+Himachal Pradesh,2024,1,Utility,TOTAL,4160326
+Jammu & Kashmir,2024,1,P2P,TOTAL,21727328
+Jammu & Kashmir,2024,1,Retail,TOTAL,45932216
+Jammu & Kashmir,2024,1,Utility,TOTAL,10129715
+Jharkhand,2024,1,P2P,TOTAL,157990766
+Jharkhand,2024,1,Retail,TOTAL,240172406
+Jharkhand,2024,1,Utility,TOTAL,31791598
+Karnataka,2024,1,P2P,TOTAL,854741628
+Karnataka,2024,1,Retail,TOTAL,1769743226
+Karnataka,2024,1,Utility,TOTAL,162229165
+Kerala,2024,1,P2P,TOTAL,54332511
+Kerala,2024,1,Retail,TOTAL,109820926
+Kerala,2024,1,Utility,TOTAL,17944266
+Ladakh,2024,1,P2P,TOTAL,1309880
+Ladakh,2024,1,Retail,TOTAL,1611509
+Ladakh,2024,1,Utility,TOTAL,332052
+Lakshadweep,2024,1,P2P,TOTAL,40581
+Lakshadweep,2024,1,Retail,TOTAL,65567
+Lakshadweep,2024,1,Utility,TOTAL,14177
+Madhya Pradesh,2024,1,P2P,TOTAL,434331008
+Madhya Pradesh,2024,1,Retail,TOTAL,747491424
+Madhya Pradesh,2024,1,Utility,TOTAL,101620697
+Maharashtra,2024,1,P2P,TOTAL,843776729
+Maharashtra,2024,1,Retail,TOTAL,1798938438
+Maharashtra,2024,1,Utility,TOTAL,188720337
+Manipur,2024,1,P2P,TOTAL,1933165
+Manipur,2024,1,Retail,TOTAL,1380355
+Manipur,2024,1,Utility,TOTAL,660502
+Meghalaya,2024,1,P2P,TOTAL,3903641
+Meghalaya,2024,1,Retail,TOTAL,3259975
+Meghalaya,2024,1,Utility,TOTAL,1088583
+Mizoram,2024,1,P2P,TOTAL,860994
+Mizoram,2024,1,Retail,TOTAL,577796
+Mizoram,2024,1,Utility,TOTAL,250134
+Nagaland,2024,1,P2P,TOTAL,2296558
+Nagaland,2024,1,Retail,TOTAL,1475125
+Nagaland,2024,1,Utility,TOTAL,640783
+Odisha,2024,1,P2P,TOTAL,328186502
+Odisha,2024,1,Retail,TOTAL,472041275
+Odisha,2024,1,Utility,TOTAL,62179031
+Puducherry,2024,1,P2P,TOTAL,3982272
+Puducherry,2024,1,Retail,TOTAL,8706366
+Puducherry,2024,1,Utility,TOTAL,831332
+Punjab,2024,1,P2P,TOTAL,46625283
+Punjab,2024,1,Retail,TOTAL,81707832
+Punjab,2024,1,Utility,TOTAL,14840154
+Rajasthan,2024,1,P2P,TOTAL,566598111
+Rajasthan,2024,1,Retail,TOTAL,910181233
+Rajasthan,2024,1,Utility,TOTAL,123778868
+Sikkim,2024,1,P2P,TOTAL,2446211
+Sikkim,2024,1,Retail,TOTAL,2665840
+Sikkim,2024,1,Utility,TOTAL,623826
+Tamil Nadu,2024,1,P2P,TOTAL,219014310
+Tamil Nadu,2024,1,Retail,TOTAL,370440883
+Tamil Nadu,2024,1,Utility,TOTAL,53629398
+Telangana,2024,1,P2P,TOTAL,734914725
+Telangana,2024,1,Retail,TOTAL,1318718383
+Telangana,2024,1,Utility,TOTAL,116600513
+Tripura,2024,1,P2P,TOTAL,4244206
+Tripura,2024,1,Retail,TOTAL,5904516
+Tripura,2024,1,Utility,TOTAL,1432777
+Uttar Pradesh,2024,1,P2P,TOTAL,653033237
+Uttar Pradesh,2024,1,Retail,TOTAL,989186934
+Uttar Pradesh,2024,1,Utility,TOTAL,152046359
+Uttarakhand,2024,1,P2P,TOTAL,37475805
+Uttarakhand,2024,1,Retail,TOTAL,76012656
+Uttarakhand,2024,1,Utility,TOTAL,10391543
+West Bengal,2024,1,P2P,TOTAL,355342023
+West Bengal,2024,1,Retail,TOTAL,403108218
+West Bengal,2024,1,Utility,TOTAL,84631995
+Andaman & Nicobar Islands,2024,2,P2P,TOTAL,1548283
+Andaman & Nicobar Islands,2024,2,Retail,TOTAL,2830230
+Andaman & Nicobar Islands,2024,2,Utility,TOTAL,417077
+Andhra Pradesh,2024,2,P2P,TOTAL,748936609
+Andhra Pradesh,2024,2,Retail,TOTAL,1043588059
+Andhra Pradesh,2024,2,Utility,TOTAL,128360994
+Arunachal Pradesh,2024,2,P2P,TOTAL,8264639
+Arunachal Pradesh,2024,2,Retail,TOTAL,9939346
+Arunachal Pradesh,2024,2,Utility,TOTAL,1906208
+Assam,2024,2,P2P,TOTAL,105567953
+Assam,2024,2,Retail,TOTAL,143706811
+Assam,2024,2,Utility,TOTAL,25314244
+Bihar,2024,2,P2P,TOTAL,529175031
+Bihar,2024,2,Retail,TOTAL,693433446
+Bihar,2024,2,Utility,TOTAL,99126252
+Chandigarh,2024,2,P2P,TOTAL,4105222
+Chandigarh,2024,2,Retail,TOTAL,11519996
+Chandigarh,2024,2,Utility,TOTAL,945062
+Chhattisgarh,2024,2,P2P,TOTAL,134770237
+Chhattisgarh,2024,2,Retail,TOTAL,241644172
+Chhattisgarh,2024,2,Utility,TOTAL,36083364
+Dadra & Nagar Haveli & Daman & Diu,2024,2,P2P,TOTAL,6167656
+Dadra & Nagar Haveli & Daman & Diu,2024,2,Retail,TOTAL,14877323
+Dadra & Nagar Haveli & Daman & Diu,2024,2,Utility,TOTAL,1482566
+Delhi,2024,2,P2P,TOTAL,219740879
+Delhi,2024,2,Retail,TOTAL,509081017
+Delhi,2024,2,Utility,TOTAL,45492460
+Goa,2024,2,P2P,TOTAL,10934962
+Goa,2024,2,Retail,TOTAL,23876060
+Goa,2024,2,Utility,TOTAL,2371417
+Gujarat,2024,2,P2P,TOTAL,199975569
+Gujarat,2024,2,Retail,TOTAL,441428904
+Gujarat,2024,2,Utility,TOTAL,60516982
+Haryana,2024,2,P2P,TOTAL,214631303
+Haryana,2024,2,Retail,TOTAL,476635703
+Haryana,2024,2,Utility,TOTAL,49105924
+Himachal Pradesh,2024,2,P2P,TOTAL,14982368
+Himachal Pradesh,2024,2,Retail,TOTAL,34599835
+Himachal Pradesh,2024,2,Utility,TOTAL,4924706
+Jammu & Kashmir,2024,2,P2P,TOTAL,30644374
+Jammu & Kashmir,2024,2,Retail,TOTAL,68626394
+Jammu & Kashmir,2024,2,Utility,TOTAL,12818698
+Jharkhand,2024,2,P2P,TOTAL,176556980
+Jharkhand,2024,2,Retail,TOTAL,290437854
+Jharkhand,2024,2,Utility,TOTAL,35450575
+Karnataka,2024,2,P2P,TOTAL,911025984
+Karnataka,2024,2,Retail,TOTAL,1944859250
+Karnataka,2024,2,Utility,TOTAL,173336590
+Kerala,2024,2,P2P,TOTAL,56637815
+Kerala,2024,2,Retail,TOTAL,120226924
+Kerala,2024,2,Utility,TOTAL,18664818
+Ladakh,2024,2,P2P,TOTAL,2223303
+Ladakh,2024,2,Retail,TOTAL,2943855
+Ladakh,2024,2,Utility,TOTAL,524781
+Lakshadweep,2024,2,P2P,TOTAL,43383
+Lakshadweep,2024,2,Retail,TOTAL,103328
+Lakshadweep,2024,2,Utility,TOTAL,15133
+Madhya Pradesh,2024,2,P2P,TOTAL,462519489
+Madhya Pradesh,2024,2,Retail,TOTAL,859901226
+Madhya Pradesh,2024,2,Utility,TOTAL,109715950
+Maharashtra,2024,2,P2P,TOTAL,879434478
+Maharashtra,2024,2,Retail,TOTAL,1975738521
+Maharashtra,2024,2,Utility,TOTAL,201364193
+Manipur,2024,2,P2P,TOTAL,2523049
+Manipur,2024,2,Retail,TOTAL,2012748
+Manipur,2024,2,Utility,TOTAL,732578
+Meghalaya,2024,2,P2P,TOTAL,4455087
+Meghalaya,2024,2,Retail,TOTAL,5343544
+Meghalaya,2024,2,Utility,TOTAL,1191791
+Mizoram,2024,2,P2P,TOTAL,960517
+Mizoram,2024,2,Retail,TOTAL,854085
+Mizoram,2024,2,Utility,TOTAL,257673
+Nagaland,2024,2,P2P,TOTAL,2698781
+Nagaland,2024,2,Retail,TOTAL,2514000
+Nagaland,2024,2,Utility,TOTAL,684389
+Odisha,2024,2,P2P,TOTAL,342454314
+Odisha,2024,2,Retail,TOTAL,533463941
+Odisha,2024,2,Utility,TOTAL,65817736
+Puducherry,2024,2,P2P,TOTAL,4169309
+Puducherry,2024,2,Retail,TOTAL,9569219
+Puducherry,2024,2,Utility,TOTAL,872339
+Punjab,2024,2,P2P,TOTAL,53076867
+Punjab,2024,2,Retail,TOTAL,103791454
+Punjab,2024,2,Utility,TOTAL,15990098
+Rajasthan,2024,2,P2P,TOTAL,603687650
+Rajasthan,2024,2,Retail,TOTAL,1080979751
+Rajasthan,2024,2,Utility,TOTAL,134036249
+Sikkim,2024,2,P2P,TOTAL,2862938
+Sikkim,2024,2,Retail,TOTAL,3596853
+Sikkim,2024,2,Utility,TOTAL,666213
+Tamil Nadu,2024,2,P2P,TOTAL,232646050
+Tamil Nadu,2024,2,Retail,TOTAL,417547691
+Tamil Nadu,2024,2,Utility,TOTAL,57183613
+Telangana,2024,2,P2P,TOTAL,782308152
+Telangana,2024,2,Retail,TOTAL,1500188080
+Telangana,2024,2,Utility,TOTAL,121387058
+Tripura,2024,2,P2P,TOTAL,4532604
+Tripura,2024,2,Retail,TOTAL,7412685
+Tripura,2024,2,Utility,TOTAL,1547478
+Uttar Pradesh,2024,2,P2P,TOTAL,736075778
+Uttar Pradesh,2024,2,Retail,TOTAL,1238837502
+Uttar Pradesh,2024,2,Utility,TOTAL,169222802
+Uttarakhand,2024,2,P2P,TOTAL,46074342
+Uttarakhand,2024,2,Retail,TOTAL,101329050
+Uttarakhand,2024,2,Utility,TOTAL,11957468
+West Bengal,2024,2,P2P,TOTAL,393501626
+West Bengal,2024,2,Retail,TOTAL,499564293
+West Bengal,2024,2,Utility,TOTAL,95733729
+Andaman & Nicobar Islands,2024,3,P2P,TOTAL,1730844
+Andaman & Nicobar Islands,2024,3,Retail,TOTAL,3128743
+Andaman & Nicobar Islands,2024,3,Utility,TOTAL,434919
+Andhra Pradesh,2024,3,P2P,TOTAL,803007628
+Andhra Pradesh,2024,3,Retail,TOTAL,1154960340
+Andhra Pradesh,2024,3,Utility,TOTAL,128090297
+Arunachal Pradesh,2024,3,P2P,TOTAL,10063903
+Arunachal Pradesh,2024,3,Retail,TOTAL,12397130
+Arunachal Pradesh,2024,3,Utility,TOTAL,2058012
+Assam,2024,3,P2P,TOTAL,112086581
+Assam,2024,3,Retail,TOTAL,159283968
+Assam,2024,3,Utility,TOTAL,26379142
+Bihar,2024,3,P2P,TOTAL,547856063
+Bihar,2024,3,Retail,TOTAL,710563604
+Bihar,2024,3,Utility,TOTAL,96191519
+Chandigarh,2024,3,P2P,TOTAL,4542561
+Chandigarh,2024,3,Retail,TOTAL,12269851
+Chandigarh,2024,3,Utility,TOTAL,1018070
+Chhattisgarh,2024,3,P2P,TOTAL,146277797
+Chhattisgarh,2024,3,Retail,TOTAL,260777393
+Chhattisgarh,2024,3,Utility,TOTAL,36086655
+Dadra & Nagar Haveli & Daman & Diu,2024,3,P2P,TOTAL,6931855
+Dadra & Nagar Haveli & Daman & Diu,2024,3,Retail,TOTAL,15976900
+Dadra & Nagar Haveli & Daman & Diu,2024,3,Utility,TOTAL,1543426
+Delhi,2024,3,P2P,TOTAL,242375284
+Delhi,2024,3,Retail,TOTAL,552938672
+Delhi,2024,3,Utility,TOTAL,49397556
+Goa,2024,3,P2P,TOTAL,10857503
+Goa,2024,3,Retail,TOTAL,23713527
+Goa,2024,3,Utility,TOTAL,2395328
+Gujarat,2024,3,P2P,TOTAL,225932859
+Gujarat,2024,3,Retail,TOTAL,473594132
+Gujarat,2024,3,Utility,TOTAL,64160595
+Haryana,2024,3,P2P,TOTAL,231883044
+Haryana,2024,3,Retail,TOTAL,513982387
+Haryana,2024,3,Utility,TOTAL,51465693
+Himachal Pradesh,2024,3,P2P,TOTAL,14456119
+Himachal Pradesh,2024,3,Retail,TOTAL,31103167
+Himachal Pradesh,2024,3,Utility,TOTAL,4690964
+Jammu & Kashmir,2024,3,P2P,TOTAL,35392152
+Jammu & Kashmir,2024,3,Retail,TOTAL,72576759
+Jammu & Kashmir,2024,3,Utility,TOTAL,13248428
+Jharkhand,2024,3,P2P,TOTAL,185937852
+Jharkhand,2024,3,Retail,TOTAL,302180456
+Jharkhand,2024,3,Utility,TOTAL,34315977
+Karnataka,2024,3,P2P,TOTAL,985650830
+Karnataka,2024,3,Retail,TOTAL,2093950803
+Karnataka,2024,3,Utility,TOTAL,179701829
+Kerala,2024,3,P2P,TOTAL,64035147
+Kerala,2024,3,Retail,TOTAL,131732251
+Kerala,2024,3,Utility,TOTAL,19738562
+Ladakh,2024,3,P2P,TOTAL,2729278
+Ladakh,2024,3,Retail,TOTAL,3592229
+Ladakh,2024,3,Utility,TOTAL,641721
+Lakshadweep,2024,3,P2P,TOTAL,48622
+Lakshadweep,2024,3,Retail,TOTAL,119755
+Lakshadweep,2024,3,Utility,TOTAL,15283
+Madhya Pradesh,2024,3,P2P,TOTAL,497539973
+Madhya Pradesh,2024,3,Retail,TOTAL,926585300
+Madhya Pradesh,2024,3,Utility,TOTAL,110364227
+Maharashtra,2024,3,P2P,TOTAL,971225117
+Maharashtra,2024,3,Retail,TOTAL,2100939879
+Maharashtra,2024,3,Utility,TOTAL,213922255
+Manipur,2024,3,P2P,TOTAL,2962849
+Manipur,2024,3,Retail,TOTAL,2087985
+Manipur,2024,3,Utility,TOTAL,755221
+Meghalaya,2024,3,P2P,TOTAL,5065670
+Meghalaya,2024,3,Retail,TOTAL,5773240
+Meghalaya,2024,3,Utility,TOTAL,1257525
+Mizoram,2024,3,P2P,TOTAL,1088181
+Mizoram,2024,3,Retail,TOTAL,1032373
+Mizoram,2024,3,Utility,TOTAL,274563
+Nagaland,2024,3,P2P,TOTAL,3223455
+Nagaland,2024,3,Retail,TOTAL,3141143
+Nagaland,2024,3,Utility,TOTAL,763284
+Odisha,2024,3,P2P,TOTAL,372510527
+Odisha,2024,3,Retail,TOTAL,583139376
+Odisha,2024,3,Utility,TOTAL,67338953
+Puducherry,2024,3,P2P,TOTAL,4543301
+Puducherry,2024,3,Retail,TOTAL,10358162
+Puducherry,2024,3,Utility,TOTAL,919708
+Punjab,2024,3,P2P,TOTAL,58951692
+Punjab,2024,3,Retail,TOTAL,112671341
+Punjab,2024,3,Utility,TOTAL,16691176
+Rajasthan,2024,3,P2P,TOTAL,638890431
+Rajasthan,2024,3,Retail,TOTAL,1159471272
+Rajasthan,2024,3,Utility,TOTAL,134482860
+Sikkim,2024,3,P2P,TOTAL,3059339
+Sikkim,2024,3,Retail,TOTAL,4040039
+Sikkim,2024,3,Utility,TOTAL,738457
+Tamil Nadu,2024,3,P2P,TOTAL,261752730
+Tamil Nadu,2024,3,Retail,TOTAL,458580459
+Tamil Nadu,2024,3,Utility,TOTAL,61174987
+Telangana,2024,3,P2P,TOTAL,841561320
+Telangana,2024,3,Retail,TOTAL,1637882726
+Telangana,2024,3,Utility,TOTAL,128384944
+Tripura,2024,3,P2P,TOTAL,5092683
+Tripura,2024,3,Retail,TOTAL,7914763
+Tripura,2024,3,Utility,TOTAL,1567960
+Uttar Pradesh,2024,3,P2P,TOTAL,784233917
+Uttar Pradesh,2024,3,Retail,TOTAL,1332554852
+Uttar Pradesh,2024,3,Utility,TOTAL,168343616
+Uttarakhand,2024,3,P2P,TOTAL,46985206
+Uttarakhand,2024,3,Retail,TOTAL,100726911
+Uttarakhand,2024,3,Utility,TOTAL,11785368
+West Bengal,2024,3,P2P,TOTAL,436505032
+West Bengal,2024,3,Retail,TOTAL,554209559
+West Bengal,2024,3,Utility,TOTAL,100285771
+Andaman & Nicobar Islands,2024,4,P2P,TOTAL,1988874
+Andaman & Nicobar Islands,2024,4,Retail,TOTAL,3637868
+Andaman & Nicobar Islands,2024,4,Utility,TOTAL,453059
+Andhra Pradesh,2024,4,P2P,TOTAL,872939105
+Andhra Pradesh,2024,4,Retail,TOTAL,1284541504
+Andhra Pradesh,2024,4,Utility,TOTAL,135289441
+Arunachal Pradesh,2024,4,P2P,TOTAL,10737577
+Arunachal Pradesh,2024,4,Retail,TOTAL,13968413
+Arunachal Pradesh,2024,4,Utility,TOTAL,2084116
+Assam,2024,4,P2P,TOTAL,129253234
+Assam,2024,4,Retail,TOTAL,178000773
+Assam,2024,4,Utility,TOTAL,25832036
+Bihar,2024,4,P2P,TOTAL,641897466
+Bihar,2024,4,Retail,TOTAL,820470734
+Bihar,2024,4,Utility,TOTAL,97440319
+Chandigarh,2024,4,P2P,TOTAL,4741956
+Chandigarh,2024,4,Retail,TOTAL,12890043
+Chandigarh,2024,4,Utility,TOTAL,1013894
+Chhattisgarh,2024,4,P2P,TOTAL,166440802
+Chhattisgarh,2024,4,Retail,TOTAL,296276945
+Chhattisgarh,2024,4,Utility,TOTAL,37316174
+Dadra & Nagar Haveli & Daman & Diu,2024,4,P2P,TOTAL,7537976
+Dadra & Nagar Haveli & Daman & Diu,2024,4,Retail,TOTAL,18263646
+Dadra & Nagar Haveli & Daman & Diu,2024,4,Utility,TOTAL,1552401
+Delhi,2024,4,P2P,TOTAL,261111396
+Delhi,2024,4,Retail,TOTAL,597843647
+Delhi,2024,4,Utility,TOTAL,51136394
+Goa,2024,4,P2P,TOTAL,13498885
+Goa,2024,4,Retail,TOTAL,30230530
+Goa,2024,4,Utility,TOTAL,2589479
+Gujarat,2024,4,P2P,TOTAL,244412869
+Gujarat,2024,4,Retail,TOTAL,522588190
+Gujarat,2024,4,Utility,TOTAL,64354451
+Haryana,2024,4,P2P,TOTAL,245119637
+Haryana,2024,4,Retail,TOTAL,546237947
+Haryana,2024,4,Utility,TOTAL,52743722
+Himachal Pradesh,2024,4,P2P,TOTAL,15664730
+Himachal Pradesh,2024,4,Retail,TOTAL,33892927
+Himachal Pradesh,2024,4,Utility,TOTAL,4538144
+Jammu & Kashmir,2024,4,P2P,TOTAL,37298358
+Jammu & Kashmir,2024,4,Retail,TOTAL,77050079
+Jammu & Kashmir,2024,4,Utility,TOTAL,12993535
+Jharkhand,2024,4,P2P,TOTAL,211112198
+Jharkhand,2024,4,Retail,TOTAL,339852753
+Jharkhand,2024,4,Utility,TOTAL,35557816
+Karnataka,2024,4,P2P,TOTAL,1039717182
+Karnataka,2024,4,Retail,TOTAL,2233293582
+Karnataka,2024,4,Utility,TOTAL,184563072
+Kerala,2024,4,P2P,TOTAL,69835587
+Kerala,2024,4,Retail,TOTAL,143632641
+Kerala,2024,4,Utility,TOTAL,19803441
+Ladakh,2024,4,P2P,TOTAL,2147484
+Ladakh,2024,4,Retail,TOTAL,3075686
+Ladakh,2024,4,Utility,TOTAL,509252
+Lakshadweep,2024,4,P2P,TOTAL,60510
+Lakshadweep,2024,4,Retail,TOTAL,151047
+Lakshadweep,2024,4,Utility,TOTAL,17263
+Madhya Pradesh,2024,4,P2P,TOTAL,545431384
+Madhya Pradesh,2024,4,Retail,TOTAL,1024836894
+Madhya Pradesh,2024,4,Utility,TOTAL,111609384
+Maharashtra,2024,4,P2P,TOTAL,1061944663
+Maharashtra,2024,4,Retail,TOTAL,2354931274
+Maharashtra,2024,4,Utility,TOTAL,218025062
+Manipur,2024,4,P2P,TOTAL,3014393
+Manipur,2024,4,Retail,TOTAL,2123143
+Manipur,2024,4,Utility,TOTAL,660774
+Meghalaya,2024,4,P2P,TOTAL,6057301
+Meghalaya,2024,4,Retail,TOTAL,6601880
+Meghalaya,2024,4,Utility,TOTAL,1333935
+Mizoram,2024,4,P2P,TOTAL,1215748
+Mizoram,2024,4,Retail,TOTAL,1194828
+Mizoram,2024,4,Utility,TOTAL,276280
+Nagaland,2024,4,P2P,TOTAL,3646828
+Nagaland,2024,4,Retail,TOTAL,3534185
+Nagaland,2024,4,Utility,TOTAL,771268
+Odisha,2024,4,P2P,TOTAL,418474939
+Odisha,2024,4,Retail,TOTAL,653769361
+Odisha,2024,4,Utility,TOTAL,69451360
+Puducherry,2024,4,P2P,TOTAL,4665679
+Puducherry,2024,4,Retail,TOTAL,10781586
+Puducherry,2024,4,Utility,TOTAL,929550
+Punjab,2024,4,P2P,TOTAL,64059597
+Punjab,2024,4,Retail,TOTAL,119043043
+Punjab,2024,4,Utility,TOTAL,16909420
+Rajasthan,2024,4,P2P,TOTAL,672386566
+Rajasthan,2024,4,Retail,TOTAL,1233463293
+Rajasthan,2024,4,Utility,TOTAL,134791141
+Sikkim,2024,4,P2P,TOTAL,3463436
+Sikkim,2024,4,Retail,TOTAL,4792790
+Sikkim,2024,4,Utility,TOTAL,765750
+Tamil Nadu,2024,4,P2P,TOTAL,272558373
+Tamil Nadu,2024,4,Retail,TOTAL,488070607
+Tamil Nadu,2024,4,Utility,TOTAL,62311789
+Telangana,2024,4,P2P,TOTAL,905792395
+Telangana,2024,4,Retail,TOTAL,1785244498
+Telangana,2024,4,Utility,TOTAL,133221680
+Tripura,2024,4,P2P,TOTAL,5671226
+Tripura,2024,4,Retail,TOTAL,8800063
+Tripura,2024,4,Utility,TOTAL,1563293
+Uttar Pradesh,2024,4,P2P,TOTAL,880393026
+Uttar Pradesh,2024,4,Retail,TOTAL,1489948667
+Uttar Pradesh,2024,4,Utility,TOTAL,172595131
+Uttarakhand,2024,4,P2P,TOTAL,50703178
+Uttarakhand,2024,4,Retail,TOTAL,108904701
+Uttarakhand,2024,4,Utility,TOTAL,11604501
+West Bengal,2024,4,P2P,TOTAL,493207369
+West Bengal,2024,4,Retail,TOTAL,636340603
+West Bengal,2024,4,Utility,TOTAL,100854212
+Andaman & Nicobar Islands,2025,1,P2P,TOTAL,2042168
+Andaman & Nicobar Islands,2025,1,Retail,TOTAL,3813109
+Andaman & Nicobar Islands,2025,1,Utility,TOTAL,476805
+Andhra Pradesh,2025,1,P2P,TOTAL,926759367
+Andhra Pradesh,2025,1,Retail,TOTAL,1349213113
+Andhra Pradesh,2025,1,Utility,TOTAL,146913770
+Arunachal Pradesh,2025,1,P2P,TOTAL,10857782
+Arunachal Pradesh,2025,1,Retail,TOTAL,15250004
+Arunachal Pradesh,2025,1,Utility,TOTAL,2299656
+Assam,2025,1,P2P,TOTAL,148257710
+Assam,2025,1,Retail,TOTAL,202129241
+Assam,2025,1,Utility,TOTAL,31062214
+Bihar,2025,1,P2P,TOTAL,629038929
+Bihar,2025,1,Retail,TOTAL,800286778
+Bihar,2025,1,Utility,TOTAL,101340524
+Chandigarh,2025,1,P2P,TOTAL,5030048
+Chandigarh,2025,1,Retail,TOTAL,13786138
+Chandigarh,2025,1,Utility,TOTAL,1115029
+Chhattisgarh,2025,1,P2P,TOTAL,164285124
+Chhattisgarh,2025,1,Retail,TOTAL,292745236
+Chhattisgarh,2025,1,Utility,TOTAL,41684435
+Dadra & Nagar Haveli & Daman & Diu,2025,1,P2P,TOTAL,7221487
+Dadra & Nagar Haveli & Daman & Diu,2025,1,Retail,TOTAL,18323342
+Dadra & Nagar Haveli & Daman & Diu,2025,1,Utility,TOTAL,1562980
+Delhi,2025,1,P2P,TOTAL,270766003
+Delhi,2025,1,Retail,TOTAL,618162326
+Delhi,2025,1,Utility,TOTAL,58066232
+Goa,2025,1,P2P,TOTAL,14131627
+Goa,2025,1,Retail,TOTAL,32194383
+Goa,2025,1,Utility,TOTAL,2867963
+Gujarat,2025,1,P2P,TOTAL,261049938
+Gujarat,2025,1,Retail,TOTAL,569309965
+Gujarat,2025,1,Utility,TOTAL,71901303
+Haryana,2025,1,P2P,TOTAL,248265982
+Haryana,2025,1,Retail,TOTAL,552381807
+Haryana,2025,1,Utility,TOTAL,56985955
+Himachal Pradesh,2025,1,P2P,TOTAL,16289890
+Himachal Pradesh,2025,1,Retail,TOTAL,36211260
+Himachal Pradesh,2025,1,Utility,TOTAL,5175278
+Jammu & Kashmir,2025,1,P2P,TOTAL,37620630
+Jammu & Kashmir,2025,1,Retail,TOTAL,80196524
+Jammu & Kashmir,2025,1,Utility,TOTAL,14639948
+Jharkhand,2025,1,P2P,TOTAL,216904868
+Jharkhand,2025,1,Retail,TOTAL,343440347
+Jharkhand,2025,1,Utility,TOTAL,39049753
+Karnataka,2025,1,P2P,TOTAL,1107610457
+Karnataka,2025,1,Retail,TOTAL,2427111761
+Karnataka,2025,1,Utility,TOTAL,195201067
+Kerala,2025,1,P2P,TOTAL,73441722
+Kerala,2025,1,Retail,TOTAL,153309373
+Kerala,2025,1,Utility,TOTAL,21026262
+Ladakh,2025,1,P2P,TOTAL,1789370
+Ladakh,2025,1,Retail,TOTAL,2532508
+Ladakh,2025,1,Utility,TOTAL,508051
+Lakshadweep,2025,1,P2P,TOTAL,76507
+Lakshadweep,2025,1,Retail,TOTAL,186433
+Lakshadweep,2025,1,Utility,TOTAL,23504
+Madhya Pradesh,2025,1,P2P,TOTAL,559249557
+Madhya Pradesh,2025,1,Retail,TOTAL,1040983000
+Madhya Pradesh,2025,1,Utility,TOTAL,123203106
+Maharashtra,2025,1,P2P,TOTAL,1136127810
+Maharashtra,2025,1,Retail,TOTAL,2530485146
+Maharashtra,2025,1,Utility,TOTAL,237921594
+Manipur,2025,1,P2P,TOTAL,4012837
+Manipur,2025,1,Retail,TOTAL,2888122
+Manipur,2025,1,Utility,TOTAL,874183
+Meghalaya,2025,1,P2P,TOTAL,6637505
+Meghalaya,2025,1,Retail,TOTAL,7368816
+Meghalaya,2025,1,Utility,TOTAL,1560086
+Mizoram,2025,1,P2P,TOTAL,1412817
+Mizoram,2025,1,Retail,TOTAL,1464155
+Mizoram,2025,1,Utility,TOTAL,337939
+Nagaland,2025,1,P2P,TOTAL,3745885
+Nagaland,2025,1,Retail,TOTAL,3803438
+Nagaland,2025,1,Utility,TOTAL,868332
+Odisha,2025,1,P2P,TOTAL,427880801
+Odisha,2025,1,Retail,TOTAL,672598864
+Odisha,2025,1,Utility,TOTAL,73948513
+Puducherry,2025,1,P2P,TOTAL,5027320
+Puducherry,2025,1,Retail,TOTAL,11618519
+Puducherry,2025,1,Utility,TOTAL,966872
+Punjab,2025,1,P2P,TOTAL,68035690
+Punjab,2025,1,Retail,TOTAL,127552368
+Punjab,2025,1,Utility,TOTAL,19112840
+Rajasthan,2025,1,P2P,TOTAL,665402771
+Rajasthan,2025,1,Retail,TOTAL,1225941832
+Rajasthan,2025,1,Utility,TOTAL,143752639
+Sikkim,2025,1,P2P,TOTAL,3649693
+Sikkim,2025,1,Retail,TOTAL,5355602
+Sikkim,2025,1,Utility,TOTAL,847175
+Tamil Nadu,2025,1,P2P,TOTAL,286554114
+Tamil Nadu,2025,1,Retail,TOTAL,524381598
+Tamil Nadu,2025,1,Utility,TOTAL,64768769
+Telangana,2025,1,P2P,TOTAL,958239626
+Telangana,2025,1,Retail,TOTAL,1855676564
+Telangana,2025,1,Utility,TOTAL,143755048
+Tripura,2025,1,P2P,TOTAL,6475520
+Tripura,2025,1,Retail,TOTAL,10267509
+Tripura,2025,1,Utility,TOTAL,1879048
+Uttar Pradesh,2025,1,P2P,TOTAL,904244198
+Uttar Pradesh,2025,1,Retail,TOTAL,1524087525
+Uttar Pradesh,2025,1,Utility,TOTAL,190002269
+Uttarakhand,2025,1,P2P,TOTAL,51173488
+Uttarakhand,2025,1,Retail,TOTAL,111485158
+Uttarakhand,2025,1,Utility,TOTAL,12696604
+West Bengal,2025,1,P2P,TOTAL,517424510
+West Bengal,2025,1,Retail,TOTAL,677544402
+West Bengal,2025,1,Utility,TOTAL,109081452
+Andaman & Nicobar Islands,2025,2,P2P,TOTAL,1943344
+Andaman & Nicobar Islands,2025,2,Retail,TOTAL,3953793
+Andaman & Nicobar Islands,2025,2,Utility,TOTAL,478132
+Andhra Pradesh,2025,2,P2P,TOTAL,935539501
+Andhra Pradesh,2025,2,Retail,TOTAL,1445602514
+Andhra Pradesh,2025,2,Utility,TOTAL,149776958
+Arunachal Pradesh,2025,2,P2P,TOTAL,11005299
+Arunachal Pradesh,2025,2,Retail,TOTAL,17910730
+Arunachal Pradesh,2025,2,Utility,TOTAL,2235425
+Assam,2025,2,P2P,TOTAL,152460784
+Assam,2025,2,Retail,TOTAL,228314633
+Assam,2025,2,Utility,TOTAL,31747436
+Bihar,2025,2,P2P,TOTAL,703844449
+Bihar,2025,2,Retail,TOTAL,980327979
+Bihar,2025,2,Utility,TOTAL,109613379
+Chandigarh,2025,2,P2P,TOTAL,4978557
+Chandigarh,2025,2,Retail,TOTAL,14246760
+Chandigarh,2025,2,Utility,TOTAL,1030151
+Chhattisgarh,2025,2,P2P,TOTAL,166802677
+Chhattisgarh,2025,2,Retail,TOTAL,320942200
+Chhattisgarh,2025,2,Utility,TOTAL,42493171
+Dadra & Nagar Haveli & Daman & Diu,2025,2,P2P,TOTAL,7216216
+Dadra & Nagar Haveli & Daman & Diu,2025,2,Retail,TOTAL,19481392
+Dadra & Nagar Haveli & Daman & Diu,2025,2,Utility,TOTAL,1527743
+Delhi,2025,2,P2P,TOTAL,270015501
+Delhi,2025,2,Retail,TOTAL,662259192
+Delhi,2025,2,Utility,TOTAL,56078668
+Goa,2025,2,P2P,TOTAL,12632826
+Goa,2025,2,Retail,TOTAL,30469355
+Goa,2025,2,Utility,TOTAL,2669494
+Gujarat,2025,2,P2P,TOTAL,251082446
+Gujarat,2025,2,Retail,TOTAL,602292300
+Gujarat,2025,2,Utility,TOTAL,66134130
+Haryana,2025,2,P2P,TOTAL,259001315
+Haryana,2025,2,Retail,TOTAL,627408882
+Haryana,2025,2,Utility,TOTAL,55088912
+Himachal Pradesh,2025,2,P2P,TOTAL,17252603
+Himachal Pradesh,2025,2,Retail,TOTAL,41619250
+Himachal Pradesh,2025,2,Utility,TOTAL,5031057
+Jammu & Kashmir,2025,2,P2P,TOTAL,42511800
+Jammu & Kashmir,2025,2,Retail,TOTAL,98320985
+Jammu & Kashmir,2025,2,Utility,TOTAL,14916288
+Jharkhand,2025,2,P2P,TOTAL,231273756
+Jharkhand,2025,2,Retail,TOTAL,394139963
+Jharkhand,2025,2,Utility,TOTAL,40418780
+Karnataka,2025,2,P2P,TOTAL,1080287597
+Karnataka,2025,2,Retail,TOTAL,2452632899
+Karnataka,2025,2,Utility,TOTAL,197160334
+Kerala,2025,2,P2P,TOTAL,67677636
+Kerala,2025,2,Retail,TOTAL,150007968
+Kerala,2025,2,Utility,TOTAL,19819864
+Ladakh,2025,2,P2P,TOTAL,2676016
+Ladakh,2025,2,Retail,TOTAL,4345406
+Ladakh,2025,2,Utility,TOTAL,632290
+Lakshadweep,2025,2,P2P,TOTAL,65743
+Lakshadweep,2025,2,Retail,TOTAL,197029
+Lakshadweep,2025,2,Utility,TOTAL,19414
+Madhya Pradesh,2025,2,P2P,TOTAL,568967572
+Madhya Pradesh,2025,2,Retail,TOTAL,1143273346
+Madhya Pradesh,2025,2,Utility,TOTAL,125078312
+Maharashtra,2025,2,P2P,TOTAL,1133509660
+Maharashtra,2025,2,Retail,TOTAL,2660636662
+Maharashtra,2025,2,Utility,TOTAL,241776924
+Manipur,2025,2,P2P,TOTAL,4212499
+Manipur,2025,2,Retail,TOTAL,3542824
+Manipur,2025,2,Utility,TOTAL,845312
+Meghalaya,2025,2,P2P,TOTAL,6819794
+Meghalaya,2025,2,Retail,TOTAL,9006438
+Meghalaya,2025,2,Utility,TOTAL,1478014
+Mizoram,2025,2,P2P,TOTAL,1393032
+Mizoram,2025,2,Retail,TOTAL,1693554
+Mizoram,2025,2,Utility,TOTAL,312219
+Nagaland,2025,2,P2P,TOTAL,3898002
+Nagaland,2025,2,Retail,TOTAL,4724132
+Nagaland,2025,2,Utility,TOTAL,835279
+Odisha,2025,2,P2P,TOTAL,429202554
+Odisha,2025,2,Retail,TOTAL,746112659
+Odisha,2025,2,Utility,TOTAL,78154888
+Puducherry,2025,2,P2P,TOTAL,4859467
+Puducherry,2025,2,Retail,TOTAL,11716317
+Puducherry,2025,2,Utility,TOTAL,920231
+Punjab,2025,2,P2P,TOTAL,66681507
+Punjab,2025,2,Retail,TOTAL,135349462
+Punjab,2025,2,Utility,TOTAL,17550075
+Rajasthan,2025,2,P2P,TOTAL,674572899
+Rajasthan,2025,2,Retail,TOTAL,1361793084
+Rajasthan,2025,2,Utility,TOTAL,144038201
+Sikkim,2025,2,P2P,TOTAL,3900931
+Sikkim,2025,2,Retail,TOTAL,6402735
+Sikkim,2025,2,Utility,TOTAL,853169
+Tamil Nadu,2025,2,P2P,TOTAL,277697186
+Tamil Nadu,2025,2,Retail,TOTAL,540167131
+Tamil Nadu,2025,2,Utility,TOTAL,62179306
+Telangana,2025,2,P2P,TOTAL,962138565
+Telangana,2025,2,Retail,TOTAL,1937172444
+Telangana,2025,2,Utility,TOTAL,145148278
+Tripura,2025,2,P2P,TOTAL,6198843
+Tripura,2025,2,Retail,TOTAL,10787436
+Tripura,2025,2,Utility,TOTAL,1766947
+Uttar Pradesh,2025,2,P2P,TOTAL,946221765
+Uttar Pradesh,2025,2,Retail,TOTAL,1740462455
+Uttar Pradesh,2025,2,Utility,TOTAL,187420104
+Uttarakhand,2025,2,P2P,TOTAL,56901615
+Uttarakhand,2025,2,Retail,TOTAL,132692694
+Uttarakhand,2025,2,Utility,TOTAL,12983865
+West Bengal,2025,2,P2P,TOTAL,534561791
+West Bengal,2025,2,Retail,TOTAL,764023386
+West Bengal,2025,2,Utility,TOTAL,111962112
+Andaman & Nicobar Islands,2025,3,P2P,TOTAL,2062721
+Andaman & Nicobar Islands,2025,3,Retail,TOTAL,4184644
+Andaman & Nicobar Islands,2025,3,Utility,TOTAL,484457
+Andhra Pradesh,2025,3,P2P,TOTAL,979073292
+Andhra Pradesh,2025,3,Retail,TOTAL,1575163628
+Andhra Pradesh,2025,3,Utility,TOTAL,146091968
+Arunachal Pradesh,2025,3,P2P,TOTAL,12684279
+Arunachal Pradesh,2025,3,Retail,TOTAL,21332176
+Arunachal Pradesh,2025,3,Utility,TOTAL,2317779
+Assam,2025,3,P2P,TOTAL,163168524
+Assam,2025,3,Retail,TOTAL,257785154
+Assam,2025,3,Utility,TOTAL,33608696
+Bihar,2025,3,P2P,TOTAL,695549121
+Bihar,2025,3,Retail,TOTAL,1002602349
+Bihar,2025,3,Utility,TOTAL,105850547
+Chandigarh,2025,3,P2P,TOTAL,5537474
+Chandigarh,2025,3,Retail,TOTAL,15506364
+Chandigarh,2025,3,Utility,TOTAL,1105728
+Chhattisgarh,2025,3,P2P,TOTAL,179010025
+Chhattisgarh,2025,3,Retail,TOTAL,346929895
+Chhattisgarh,2025,3,Utility,TOTAL,41810158
+Dadra & Nagar Haveli & Daman & Diu,2025,3,P2P,TOTAL,8208256
+Dadra & Nagar Haveli & Daman & Diu,2025,3,Retail,TOTAL,21544940
+Dadra & Nagar Haveli & Daman & Diu,2025,3,Utility,TOTAL,1690805
+Delhi,2025,3,P2P,TOTAL,293655235
+Delhi,2025,3,Retail,TOTAL,714113988
+Delhi,2025,3,Utility,TOTAL,61548053
+Goa,2025,3,P2P,TOTAL,12865476
+Goa,2025,3,Retail,TOTAL,30620188
+Goa,2025,3,Utility,TOTAL,2665063
+Gujarat,2025,3,P2P,TOTAL,289978000
+Gujarat,2025,3,Retail,TOTAL,684049224
+Gujarat,2025,3,Utility,TOTAL,71326567
+Haryana,2025,3,P2P,TOTAL,276948829
+Haryana,2025,3,Retail,TOTAL,676587870
+Haryana,2025,3,Utility,TOTAL,58279648
+Himachal Pradesh,2025,3,P2P,TOTAL,16586359
+Himachal Pradesh,2025,3,Retail,TOTAL,38757665
+Himachal Pradesh,2025,3,Utility,TOTAL,4977567
+Jammu & Kashmir,2025,3,P2P,TOTAL,46404338
+Jammu & Kashmir,2025,3,Retail,TOTAL,101539363
+Jammu & Kashmir,2025,3,Utility,TOTAL,15255239
+Jharkhand,2025,3,P2P,TOTAL,239848372
+Jharkhand,2025,3,Retail,TOTAL,415102736
+Jharkhand,2025,3,Utility,TOTAL,40092792
+Karnataka,2025,3,P2P,TOTAL,1116255213
+Karnataka,2025,3,Retail,TOTAL,2545361507
+Karnataka,2025,3,Utility,TOTAL,191298984
+Kerala,2025,3,P2P,TOTAL,75618258
+Kerala,2025,3,Retail,TOTAL,165209747
+Kerala,2025,3,Utility,TOTAL,20137871
+Ladakh,2025,3,P2P,TOTAL,3175450
+Ladakh,2025,3,Retail,TOTAL,4892557
+Ladakh,2025,3,Utility,TOTAL,714259
+Lakshadweep,2025,3,P2P,TOTAL,66169
+Lakshadweep,2025,3,Retail,TOTAL,210108
+Lakshadweep,2025,3,Utility,TOTAL,19303
+Madhya Pradesh,2025,3,P2P,TOTAL,609772524
+Madhya Pradesh,2025,3,Retail,TOTAL,1244302556
+Madhya Pradesh,2025,3,Utility,TOTAL,126262681
+Maharashtra,2025,3,P2P,TOTAL,1226322130
+Maharashtra,2025,3,Retail,TOTAL,2829226611
+Maharashtra,2025,3,Utility,TOTAL,250631747
+Manipur,2025,3,P2P,TOTAL,4683706
+Manipur,2025,3,Retail,TOTAL,4269941
+Manipur,2025,3,Utility,TOTAL,850824
+Meghalaya,2025,3,P2P,TOTAL,7936464
+Meghalaya,2025,3,Retail,TOTAL,10342245
+Meghalaya,2025,3,Utility,TOTAL,1597432
+Mizoram,2025,3,P2P,TOTAL,1589619
+Mizoram,2025,3,Retail,TOTAL,2025992
+Mizoram,2025,3,Utility,TOTAL,336226
+Nagaland,2025,3,P2P,TOTAL,4458684
+Nagaland,2025,3,Retail,TOTAL,5833318
+Nagaland,2025,3,Utility,TOTAL,888870
+Odisha,2025,3,P2P,TOTAL,451228084
+Odisha,2025,3,Retail,TOTAL,785652801
+Odisha,2025,3,Utility,TOTAL,77391433
+Puducherry,2025,3,P2P,TOTAL,5067996
+Puducherry,2025,3,Retail,TOTAL,12400209
+Puducherry,2025,3,Utility,TOTAL,933390
+Punjab,2025,3,P2P,TOTAL,72569615
+Punjab,2025,3,Retail,TOTAL,147253055
+Punjab,2025,3,Utility,TOTAL,18471295
+Rajasthan,2025,3,P2P,TOTAL,706351073
+Rajasthan,2025,3,Retail,TOTAL,1471559131
+Rajasthan,2025,3,Utility,TOTAL,145697952
+Sikkim,2025,3,P2P,TOTAL,4192100
+Sikkim,2025,3,Retail,TOTAL,6777789
+Sikkim,2025,3,Utility,TOTAL,911937
+Tamil Nadu,2025,3,P2P,TOTAL,301171264
+Tamil Nadu,2025,3,Retail,TOTAL,589397918
+Tamil Nadu,2025,3,Utility,TOTAL,63869623
+Telangana,2025,3,P2P,TOTAL,1003412650
+Telangana,2025,3,Retail,TOTAL,2078091958
+Telangana,2025,3,Utility,TOTAL,147360477
+Tripura,2025,3,P2P,TOTAL,7108559
+Tripura,2025,3,Retail,TOTAL,11889161
+Tripura,2025,3,Utility,TOTAL,1794173
+Uttar Pradesh,2025,3,P2P,TOTAL,968602273
+Uttar Pradesh,2025,3,Retail,TOTAL,1840145039
+Uttar Pradesh,2025,3,Utility,TOTAL,187247305
+Uttarakhand,2025,3,P2P,TOTAL,55559813
+Uttarakhand,2025,3,Retail,TOTAL,129419380
+Uttarakhand,2025,3,Utility,TOTAL,12732437
+West Bengal,2025,3,P2P,TOTAL,575352040
+West Bengal,2025,3,Retail,TOTAL,845070081
+West Bengal,2025,3,Utility,TOTAL,114519341
+Andaman & Nicobar Islands,2025,4,P2P,TOTAL,2368365
+Andaman & Nicobar Islands,2025,4,Retail,TOTAL,4719538
+Andaman & Nicobar Islands,2025,4,Utility,TOTAL,521632
+Andhra Pradesh,2025,4,P2P,TOTAL,1018086782
+Andhra Pradesh,2025,4,Retail,TOTAL,1696774348
+Andhra Pradesh,2025,4,Utility,TOTAL,147848451
+Arunachal Pradesh,2025,4,P2P,TOTAL,12859718
+Arunachal Pradesh,2025,4,Retail,TOTAL,20914837
+Arunachal Pradesh,2025,4,Utility,TOTAL,2328499
+Assam,2025,4,P2P,TOTAL,173912850
+Assam,2025,4,Retail,TOTAL,262799498
+Assam,2025,4,Utility,TOTAL,32082813
+Bihar,2025,4,P2P,TOTAL,793555664
+Bihar,2025,4,Retail,TOTAL,1119034346
+Bihar,2025,4,Utility,TOTAL,109996353
+Chandigarh,2025,4,P2P,TOTAL,5748592
+Chandigarh,2025,4,Retail,TOTAL,15785608
+Chandigarh,2025,4,Utility,TOTAL,1093710
+Chhattisgarh,2025,4,P2P,TOTAL,194816642
+Chhattisgarh,2025,4,Retail,TOTAL,369466099
+Chhattisgarh,2025,4,Utility,TOTAL,41418377
+Dadra & Nagar Haveli & Daman & Diu,2025,4,P2P,TOTAL,8706241
+Dadra & Nagar Haveli & Daman & Diu,2025,4,Retail,TOTAL,22194792
+Dadra & Nagar Haveli & Daman & Diu,2025,4,Utility,TOTAL,1645644
+Delhi,2025,4,P2P,TOTAL,299388404
+Delhi,2025,4,Retail,TOTAL,727159498
+Delhi,2025,4,Utility,TOTAL,61435469
+Goa,2025,4,P2P,TOTAL,14936827
+Goa,2025,4,Retail,TOTAL,35239184
+Goa,2025,4,Utility,TOTAL,2775581
+Gujarat,2025,4,P2P,TOTAL,305349338
+Gujarat,2025,4,Retail,TOTAL,672395110
+Gujarat,2025,4,Utility,TOTAL,70450414
+Haryana,2025,4,P2P,TOTAL,286824452
+Haryana,2025,4,Retail,TOTAL,679431344
+Haryana,2025,4,Utility,TOTAL,58933440
+Himachal Pradesh,2025,4,P2P,TOTAL,18434338
+Himachal Pradesh,2025,4,Retail,TOTAL,39612159
+Himachal Pradesh,2025,4,Utility,TOTAL,4856000
+Jammu & Kashmir,2025,4,P2P,TOTAL,47917355
+Jammu & Kashmir,2025,4,Retail,TOTAL,98610091
+Jammu & Kashmir,2025,4,Utility,TOTAL,14940519
+Jharkhand,2025,4,P2P,TOTAL,257280435
+Jharkhand,2025,4,Retail,TOTAL,441921141
+Jharkhand,2025,4,Utility,TOTAL,40169634
+Karnataka,2025,4,P2P,TOTAL,1167109048
+Karnataka,2025,4,Retail,TOTAL,2703392355
+Karnataka,2025,4,Utility,TOTAL,193787780
+Kerala,2025,4,P2P,TOTAL,82739665
+Kerala,2025,4,Retail,TOTAL,177673616
+Kerala,2025,4,Utility,TOTAL,20746377
+Ladakh,2025,4,P2P,TOTAL,2329612
+Ladakh,2025,4,Retail,TOTAL,3470604
+Ladakh,2025,4,Utility,TOTAL,543512
+Lakshadweep,2025,4,P2P,TOTAL,86831
+Lakshadweep,2025,4,Retail,TOTAL,219710
+Lakshadweep,2025,4,Utility,TOTAL,20396
+Madhya Pradesh,2025,4,P2P,TOTAL,655981444
+Madhya Pradesh,2025,4,Retail,TOTAL,1317761396
+Madhya Pradesh,2025,4,Utility,TOTAL,127339599
+Maharashtra,2025,4,P2P,TOTAL,1311097640
+Maharashtra,2025,4,Retail,TOTAL,3052486746
+Maharashtra,2025,4,Utility,TOTAL,254520674
+Manipur,2025,4,P2P,TOTAL,4810704
+Manipur,2025,4,Retail,TOTAL,4174837
+Manipur,2025,4,Utility,TOTAL,829488
+Meghalaya,2025,4,P2P,TOTAL,8577148
+Meghalaya,2025,4,Retail,TOTAL,9681598
+Meghalaya,2025,4,Utility,TOTAL,1578904
+Mizoram,2025,4,P2P,TOTAL,1786077
+Mizoram,2025,4,Retail,TOTAL,1979390
+Mizoram,2025,4,Utility,TOTAL,337628
+Nagaland,2025,4,P2P,TOTAL,4922948
+Nagaland,2025,4,Retail,TOTAL,5394902
+Nagaland,2025,4,Utility,TOTAL,854785
+Odisha,2025,4,P2P,TOTAL,486153705
+Odisha,2025,4,Retail,TOTAL,841861625
+Odisha,2025,4,Utility,TOTAL,77443479
+Puducherry,2025,4,P2P,TOTAL,5170739
+Puducherry,2025,4,Retail,TOTAL,12734340
+Puducherry,2025,4,Utility,TOTAL,952014
+Punjab,2025,4,P2P,TOTAL,78882931
+Punjab,2025,4,Retail,TOTAL,152709681
+Punjab,2025,4,Utility,TOTAL,18984611
+Rajasthan,2025,4,P2P,TOTAL,731137692
+Rajasthan,2025,4,Retail,TOTAL,1482912609
+Rajasthan,2025,4,Utility,TOTAL,145740845
+Sikkim,2025,4,P2P,TOTAL,4339229
+Sikkim,2025,4,Retail,TOTAL,6862025
+Sikkim,2025,4,Utility,TOTAL,920936
+Tamil Nadu,2025,4,P2P,TOTAL,310141970
+Tamil Nadu,2025,4,Retail,TOTAL,606536327
+Tamil Nadu,2025,4,Utility,TOTAL,65358581
+Telangana,2025,4,P2P,TOTAL,1062691144
+Telangana,2025,4,Retail,TOTAL,2268697781
+Telangana,2025,4,Utility,TOTAL,153727384
+Tripura,2025,4,P2P,TOTAL,7390643
+Tripura,2025,4,Retail,TOTAL,11726652
+Tripura,2025,4,Utility,TOTAL,1796441
+Uttar Pradesh,2025,4,P2P,TOTAL,1056307689
+Uttar Pradesh,2025,4,Retail,TOTAL,1955108328
+Uttar Pradesh,2025,4,Utility,TOTAL,194854047
+Uttarakhand,2025,4,P2P,TOTAL,58829901
+Uttarakhand,2025,4,Retail,TOTAL,132326331
+Uttarakhand,2025,4,Utility,TOTAL,12588948
+West Bengal,2025,4,P2P,TOTAL,603154869
+West Bengal,2025,4,Retail,TOTAL,878593910
+West Bengal,2025,4,Utility,TOTAL,113921300
+Andaman & Nicobar Islands,2026,1,P2P,TOTAL,2444181
+Andaman & Nicobar Islands,2026,1,Retail,TOTAL,4993199
+Andaman & Nicobar Islands,2026,1,Utility,TOTAL,527121
+Andhra Pradesh,2026,1,P2P,TOTAL,1077713980
+Andhra Pradesh,2026,1,Retail,TOTAL,1812911085
+Andhra Pradesh,2026,1,Utility,TOTAL,156804770
+Arunachal Pradesh,2026,1,P2P,TOTAL,12775009
+Arunachal Pradesh,2026,1,Retail,TOTAL,20987088
+Arunachal Pradesh,2026,1,Utility,TOTAL,2412789
+Assam,2026,1,P2P,TOTAL,187964652
+Assam,2026,1,Retail,TOTAL,280234793
+Assam,2026,1,Utility,TOTAL,35281902
+Bihar,2026,1,P2P,TOTAL,833487914
+Bihar,2026,1,Retail,TOTAL,1152850594
+Bihar,2026,1,Utility,TOTAL,112264306
+Chandigarh,2026,1,P2P,TOTAL,5753972
+Chandigarh,2026,1,Retail,TOTAL,15927532
+Chandigarh,2026,1,Utility,TOTAL,1138785
+Chhattisgarh,2026,1,P2P,TOTAL,199909355
+Chhattisgarh,2026,1,Retail,TOTAL,381331900
+Chhattisgarh,2026,1,Utility,TOTAL,44200445
+Dadra & Nagar Haveli & Daman & Diu,2026,1,P2P,TOTAL,9026170
+Dadra & Nagar Haveli & Daman & Diu,2026,1,Retail,TOTAL,23012051
+Dadra & Nagar Haveli & Daman & Diu,2026,1,Utility,TOTAL,1680935
+Delhi,2026,1,P2P,TOTAL,296399539
+Delhi,2026,1,Retail,TOTAL,729639080
+Delhi,2026,1,Utility,TOTAL,61742114
+Goa,2026,1,P2P,TOTAL,15481410
+Goa,2026,1,Retail,TOTAL,36831929
+Goa,2026,1,Utility,TOTAL,2855777
+Gujarat,2026,1,P2P,TOTAL,333335610
+Gujarat,2026,1,Retail,TOTAL,720203459
+Gujarat,2026,1,Utility,TOTAL,73998228
+Haryana,2026,1,P2P,TOTAL,288242452
+Haryana,2026,1,Retail,TOTAL,682240539
+Haryana,2026,1,Utility,TOTAL,60386295
+Himachal Pradesh,2026,1,P2P,TOTAL,18652821
+Himachal Pradesh,2026,1,Retail,TOTAL,39046196
+Himachal Pradesh,2026,1,Utility,TOTAL,5034304
+Jammu & Kashmir,2026,1,P2P,TOTAL,46503195
+Jammu & Kashmir,2026,1,Retail,TOTAL,93587796
+Jammu & Kashmir,2026,1,Utility,TOTAL,14375967
+Jharkhand,2026,1,P2P,TOTAL,266563753
+Jharkhand,2026,1,Retail,TOTAL,455474383
+Jharkhand,2026,1,Utility,TOTAL,42553181
+Karnataka,2026,1,P2P,TOTAL,1205710715
+Karnataka,2026,1,Retail,TOTAL,2825330293
+Karnataka,2026,1,Utility,TOTAL,197107980
+Kerala,2026,1,P2P,TOTAL,83964124
+Kerala,2026,1,Retail,TOTAL,180100477
+Kerala,2026,1,Utility,TOTAL,20551782
+Ladakh,2026,1,P2P,TOTAL,2125414
+Ladakh,2026,1,Retail,TOTAL,3180624
+Ladakh,2026,1,Utility,TOTAL,474318
+Lakshadweep,2026,1,P2P,TOTAL,100205
+Lakshadweep,2026,1,Retail,TOTAL,229831
+Lakshadweep,2026,1,Utility,TOTAL,21957
+Madhya Pradesh,2026,1,P2P,TOTAL,682818506
+Madhya Pradesh,2026,1,Retail,TOTAL,1369000689
+Madhya Pradesh,2026,1,Utility,TOTAL,134791979
+Maharashtra,2026,1,P2P,TOTAL,1363409161
+Maharashtra,2026,1,Retail,TOTAL,3200987799
+Maharashtra,2026,1,Utility,TOTAL,265080469
+Manipur,2026,1,P2P,TOTAL,4986200
+Manipur,2026,1,Retail,TOTAL,4367144
+Manipur,2026,1,Utility,TOTAL,881023
+Meghalaya,2026,1,P2P,TOTAL,9546670
+Meghalaya,2026,1,Retail,TOTAL,8839945
+Meghalaya,2026,1,Utility,TOTAL,1539820
+Mizoram,2026,1,P2P,TOTAL,1855867
+Mizoram,2026,1,Retail,TOTAL,1959194
+Mizoram,2026,1,Utility,TOTAL,336079
+Nagaland,2026,1,P2P,TOTAL,5009814
+Nagaland,2026,1,Retail,TOTAL,5145327
+Nagaland,2026,1,Utility,TOTAL,874824
+Odisha,2026,1,P2P,TOTAL,516558572
+Odisha,2026,1,Retail,TOTAL,889549627
+Odisha,2026,1,Utility,TOTAL,81743696
+Puducherry,2026,1,P2P,TOTAL,5457257
+Puducherry,2026,1,Retail,TOTAL,13385336
+Puducherry,2026,1,Utility,TOTAL,948358
+Punjab,2026,1,P2P,TOTAL,80997955
+Punjab,2026,1,Retail,TOTAL,156323287
+Punjab,2026,1,Utility,TOTAL,19640341
+Rajasthan,2026,1,P2P,TOTAL,751360343
+Rajasthan,2026,1,Retail,TOTAL,1529887412
+Rajasthan,2026,1,Utility,TOTAL,153879554
+Sikkim,2026,1,P2P,TOTAL,4721228
+Sikkim,2026,1,Retail,TOTAL,7607696
+Sikkim,2026,1,Utility,TOTAL,958880
+Tamil Nadu,2026,1,P2P,TOTAL,321088498
+Tamil Nadu,2026,1,Retail,TOTAL,630192289
+Tamil Nadu,2026,1,Utility,TOTAL,63942573
+Telangana,2026,1,P2P,TOTAL,1085668689
+Telangana,2026,1,Retail,TOTAL,2320751024
+Telangana,2026,1,Utility,TOTAL,164767985
+Tripura,2026,1,P2P,TOTAL,7907062
+Tripura,2026,1,Retail,TOTAL,12274659
+Tripura,2026,1,Utility,TOTAL,1915529
+Uttar Pradesh,2026,1,P2P,TOTAL,1088285716
+Uttar Pradesh,2026,1,Retail,TOTAL,2003989823
+Uttar Pradesh,2026,1,Utility,TOTAL,202202501
+Uttarakhand,2026,1,P2P,TOTAL,59360705
+Uttarakhand,2026,1,Retail,TOTAL,132495130
+Uttarakhand,2026,1,Utility,TOTAL,12883179
+West Bengal,2026,1,P2P,TOTAL,643075471
+West Bengal,2026,1,Retail,TOTAL,929319640
+West Bengal,2026,1,Utility,TOTAL,119448284
+Andaman & Nicobar Islands,2026,2,P2P,TOTAL,2318395
+Andaman & Nicobar Islands,2026,2,Retail,TOTAL,4915599
+Andaman & Nicobar Islands,2026,2,Utility,TOTAL,519101
+Andhra Pradesh,2026,2,P2P,TOTAL,1109707075
+Andhra Pradesh,2026,2,Retail,TOTAL,1978617733
+Andhra Pradesh,2026,2,Utility,TOTAL,157632055
+Arunachal Pradesh,2026,2,P2P,TOTAL,13494356
+Arunachal Pradesh,2026,2,Retail,TOTAL,24690742
+Arunachal Pradesh,2026,2,Utility,TOTAL,2447416
+Assam,2026,2,P2P,TOTAL,196477566
+Assam,2026,2,Retail,TOTAL,314710936
+Assam,2026,2,Utility,TOTAL,37936564
+Bihar,2026,2,P2P,TOTAL,879874401
+Bihar,2026,2,Retail,TOTAL,1295213536
+Bihar,2026,2,Utility,TOTAL,113963936
+Chandigarh,2026,2,P2P,TOTAL,6189470
+Chandigarh,2026,2,Retail,TOTAL,17838348
+Chandigarh,2026,2,Utility,TOTAL,1109237
+Chhattisgarh,2026,2,P2P,TOTAL,199041865
+Chhattisgarh,2026,2,Retail,TOTAL,402505854
+Chhattisgarh,2026,2,Utility,TOTAL,44653852
+Dadra & Nagar Haveli & Daman & Diu,2026,2,P2P,TOTAL,8616843
+Dadra & Nagar Haveli & Daman & Diu,2026,2,Retail,TOTAL,22891864
+Dadra & Nagar Haveli & Daman & Diu,2026,2,Utility,TOTAL,1527516
+Delhi,2026,2,P2P,TOTAL,306838191
+Delhi,2026,2,Retail,TOTAL,802878308
+Delhi,2026,2,Utility,TOTAL,62188327
+Goa,2026,2,P2P,TOTAL,14983673
+Goa,2026,2,Retail,TOTAL,37488228
+Goa,2026,2,Utility,TOTAL,2736896
+Gujarat,2026,2,P2P,TOTAL,330324037
+Gujarat,2026,2,Retail,TOTAL,757197417
+Gujarat,2026,2,Utility,TOTAL,70381232
+Haryana,2026,2,P2P,TOTAL,302949383
+Haryana,2026,2,Retail,TOTAL,768184781
+Haryana,2026,2,Utility,TOTAL,59580774
+Himachal Pradesh,2026,2,P2P,TOTAL,21564394
+Himachal Pradesh,2026,2,Retail,TOTAL,47984389
+Himachal Pradesh,2026,2,Utility,TOTAL,5304226
+Jammu & Kashmir,2026,2,P2P,TOTAL,55206052
+Jammu & Kashmir,2026,2,Retail,TOTAL,117475120
+Jammu & Kashmir,2026,2,Utility,TOTAL,15060953
+Jharkhand,2026,2,P2P,TOTAL,274010191
+Jharkhand,2026,2,Retail,TOTAL,498662306
+Jharkhand,2026,2,Utility,TOTAL,42637464
+Karnataka,2026,2,P2P,TOTAL,1250633746
+Karnataka,2026,2,Retail,TOTAL,3033113369
+Karnataka,2026,2,Utility,TOTAL,207964808
+Kerala,2026,2,P2P,TOTAL,82527448
+Kerala,2026,2,Retail,TOTAL,191946358
+Kerala,2026,2,Utility,TOTAL,20176010
+Ladakh,2026,2,P2P,TOTAL,3331223
+Ladakh,2026,2,Retail,TOTAL,5270609
+Ladakh,2026,2,Utility,TOTAL,655593
+Lakshadweep,2026,2,P2P,TOTAL,101796
+Lakshadweep,2026,2,Retail,TOTAL,248709
+Lakshadweep,2026,2,Utility,TOTAL,20691
+Madhya Pradesh,2026,2,P2P,TOTAL,692355802
+Madhya Pradesh,2026,2,Retail,TOTAL,1456576342
+Madhya Pradesh,2026,2,Utility,TOTAL,134905941
+Maharashtra,2026,2,P2P,TOTAL,1389123843
+Maharashtra,2026,2,Retail,TOTAL,3413003601
+Maharashtra,2026,2,Utility,TOTAL,262324547
+Manipur,2026,2,P2P,TOTAL,5042151
+Manipur,2026,2,Retail,TOTAL,4552091
+Manipur,2026,2,Utility,TOTAL,865449
+Meghalaya,2026,2,P2P,TOTAL,9973916
+Meghalaya,2026,2,Retail,TOTAL,10836114
+Meghalaya,2026,2,Utility,TOTAL,1590783
+Mizoram,2026,2,P2P,TOTAL,2067137
+Mizoram,2026,2,Retail,TOTAL,2231778
+Mizoram,2026,2,Utility,TOTAL,331711
+Nagaland,2026,2,P2P,TOTAL,5388614
+Nagaland,2026,2,Retail,TOTAL,6083226
+Nagaland,2026,2,Utility,TOTAL,886486
+Odisha,2026,2,P2P,TOTAL,507336215
+Odisha,2026,2,Retail,TOTAL,932756499
+Odisha,2026,2,Utility,TOTAL,83037296
+Puducherry,2026,2,P2P,TOTAL,5456184
+Puducherry,2026,2,Retail,TOTAL,14273998
+Puducherry,2026,2,Utility,TOTAL,941727
+Punjab,2026,2,P2P,TOTAL,86235320
+Punjab,2026,2,Retail,TOTAL,176968809
+Punjab,2026,2,Utility,TOTAL,19159944
+Rajasthan,2026,2,P2P,TOTAL,762303898
+Rajasthan,2026,2,Retail,TOTAL,1639275785
+Rajasthan,2026,2,Utility,TOTAL,151848846
+Sikkim,2026,2,P2P,TOTAL,5266430
+Sikkim,2026,2,Retail,TOTAL,8719037
+Sikkim,2026,2,Utility,TOTAL,970777
+Tamil Nadu,2026,2,P2P,TOTAL,318715551
+Tamil Nadu,2026,2,Retail,TOTAL,667642639
+Tamil Nadu,2026,2,Utility,TOTAL,62934777
+Telangana,2026,2,P2P,TOTAL,1143923545
+Telangana,2026,2,Retail,TOTAL,2560637907
+Telangana,2026,2,Utility,TOTAL,173670988
+Tripura,2026,2,P2P,TOTAL,7972133
+Tripura,2026,2,Retail,TOTAL,12958118
+Tripura,2026,2,Utility,TOTAL,1932743
+Uttar Pradesh,2026,2,P2P,TOTAL,1167703027
+Uttar Pradesh,2026,2,Retail,TOTAL,2293024606
+Uttar Pradesh,2026,2,Utility,TOTAL,204578607
+Uttarakhand,2026,2,P2P,TOTAL,69429535
+Uttarakhand,2026,2,Retail,TOTAL,163964261
+Uttarakhand,2026,2,Utility,TOTAL,13632986
+West Bengal,2026,2,P2P,TOTAL,653298215
+West Bengal,2026,2,Retail,TOTAL,1005841996
+West Bengal,2026,2,Utility,TOTAL,123212798
