@@ -3,7 +3,7 @@
 
 <img width="1672" height="941" alt="Regional Digital Payments Growth Monitor" src="https://github.com/user-attachments/assets/43b39469-1aed-435f-a8cd-d96b500c6de2" />
 
-streamlit = https://github.com/PiyushNonia/Regional-Digital-Payments-Monitor
+
 
 # Regional Digital Payments Monitor 🇮🇳
 
